@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
 breadcrumb-title: ''
 description: Scoprite come esportare i materiali da Substance 3D Sampler utilizzando il predefinito Enscape Revit per i flussi di lavoro di visualizzazione dell'architettura.
 helpx_creative_field: ""

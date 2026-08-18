@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/panels/layers-panel.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare il pannello Livelli in Substance 3D Sampler per gestire i livelli dei filtri e creare pile di materiale complesse.
 helpx_creative_field: ""

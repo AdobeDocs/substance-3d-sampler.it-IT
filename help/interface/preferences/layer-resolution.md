@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/preferences/layer-resolution.html"
 breadcrumb-title: ''
 description: Scoprite come configurare la risoluzione dei livelli in Substance 3D Sampler per controllare la risoluzione dei singoli livelli nello stack di materiale.
 helpx_creative_field: ""

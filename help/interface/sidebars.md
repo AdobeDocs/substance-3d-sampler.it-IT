@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/sidebars.html"
 breadcrumb-title: ''
 description: Scopri le barre laterali sinistra e destra nell’interfaccia di Substance 3D Sampler per accedere a strumenti, pannelli e funzionalità delle applicazioni.
 helpx_creative_field: ""

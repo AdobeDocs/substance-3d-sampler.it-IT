@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
 description: Scopri come utilizzare il pannello Risorse in Substance 3D Sampler per sfogliare, organizzare e accedere alle tue risorse e alle tue risorse materiali.
 helpx_creative_field: ""

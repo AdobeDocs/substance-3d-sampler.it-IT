@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
 breadcrumb-title: ''
 description: Scopri come utilizzare il plug-in Tajima Exporter in Substance 3D Sampler per esportare i progetti di ricamo nel software Tajima DG17.
 helpx_creative_field: ""

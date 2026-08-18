@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
 breadcrumb-title: ''
 description: Scopri come creare e modificare predefiniti di esportazione personalizzati in Substance 3D Sampler utilizzando Substance Designer per l’ottimizzazione del flusso di lavoro.
 helpx_creative_field: ""

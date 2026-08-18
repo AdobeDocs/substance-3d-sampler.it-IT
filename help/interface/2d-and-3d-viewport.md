@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/2d-and-3d-viewport.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/2d-and-3d-viewport.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare le finestre delle viste 2D e 3D in Substance 3D Sampler per visualizzare in anteprima i materiali e navigare nell’area di lavoro in modo efficace.
 helpx_creative_field: ""

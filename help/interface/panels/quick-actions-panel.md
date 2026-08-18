@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/quick-actions-panel.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/panels/quick-actions-panel.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare il pannello Azioni rapide in Substance 3D Sampler per accedere alle attività e alle scelte rapide più comuni di modifica del materiale.
 helpx_creative_field: ""

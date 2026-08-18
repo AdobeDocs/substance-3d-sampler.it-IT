@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per Substance 3D Sampler versione 2019.1 per informazioni sulla gestione dei progetti, sui miglioramenti dello stack di livelli e sugli aggiornamenti più avanzati.
 helpx_creative_field: ""
@@ -73,7 +73,7 @@ La pila di livelli è stata ricostruita da zero per ampliarne le possibilità e 
 
 ![](../../assets/sa-notes-viewport.jpg)
 
-Nella finestra della vista sono state aggiunte alcune nuove funzioni che ne migliorano l&#39;utilizzo. È possibile accedere a queste nuove impostazioni nel [pannello Impostazioni visualizzatore](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html).
+Nella finestra della vista sono state aggiunte alcune nuove funzioni che ne migliorano l&#39;utilizzo. È possibile accedere a queste nuove impostazioni nel [pannello Impostazioni visualizzatore](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html).
 
 * **Modalità fotocamera**\
   La modalità di proiezione della fotocamera consente di scegliere tra Prospettiva e Ortografica.

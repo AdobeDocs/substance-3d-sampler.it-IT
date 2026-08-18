@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
 breadcrumb-title: ''
 description: Scopri come correggere gli arresti anomali quando si utilizzano i filtri Da immagine a materiale o Delighter in Substance 3D Sampler a causa di VRAM insufficiente.
 helpx_creative_field: ""
