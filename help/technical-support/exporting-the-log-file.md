@@ -34,12 +34,12 @@ Se non riesci ad avviare Substance 3D Sampler, puoi recuperare manualmente il fi
 
 Versione di Adobe:
 
-* **Windows**: C:\Users\** nome utente**\AppData\Local\Adobe\Adobe Substance 3D Sampler\log.txt
+* **Windows**: C:\Users\**&#x200B; nome utente**\AppData\Local\Adobe\Adobe Substance 3D Sampler\log.txt
 * **Mac OS**: Macintosh > Utenti > **nome utente** > Libreria > Supporto applicazioni > Adobe > Adobe Substance 3D Sampler > log.txt
 
 Versione Substance3D:
 
-* **Windows**: C:\Users\** nome utente**\AppData\Local\Allegorithmic\Adobe Substance 3D Sampler\log.txt
+* **Windows**: C:\Users\**&#x200B; nome utente**\AppData\Local\Allegorithmic\Adobe Substance 3D Sampler\log.txt
 * **Mac OS**: Macintosh > Utenti > **nome utente** > Libreria > Supporto applicazioni > Allegorithmic > Adobe Substance 3D Sampler > log.txt
 * **Linux**: /home/**nomeutente**/.local/share/Allegorithmic/Adobe Substance 3D Sampler/log.txt
 

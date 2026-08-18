@@ -22,4 +22,4 @@ ht-degree: 6%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **Diffusione ****Rugosità Riflesso****Metallicità&#x200B;****Normale****Spostamento ****Emissione****Opacità** |
+| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **Diffusione &#x200B;**&#x200B;**Rugosità Riflesso**&#x200B;**Metallicità&#x200B;**&#x200B;**Normale**&#x200B;**Spostamento &#x200B;**&#x200B;**Emissione**&#x200B;**Opacità** |

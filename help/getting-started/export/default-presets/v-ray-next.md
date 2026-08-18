@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| V-Ray successivo | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **Diffusione ****Rugosità****Metallizzazione ****Normale****Spostamento****Inosservanza** **Opacità** |
+| V-Ray successivo | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **Diffusione &#x200B;**&#x200B;**Rugosità**&#x200B;**Metallizzazione &#x200B;**&#x200B;**Normale**&#x200B;**Spostamento**&#x200B;**Inosservanza** **Opacità** |
