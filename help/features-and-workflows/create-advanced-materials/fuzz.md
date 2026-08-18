@@ -13,4 +13,4 @@ ht-degree: 0%
 
 I canali Fuzz aiutano ad aggiungere un ulteriore livello di realismo a materiali come il camoscio e altri tessuti. Guardate il video seguente per scoprire come utilizzare al meglio i canali fuzz in Sampler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483519)
+>[!VIDEO](https://video.tv.adobe.com/v/3483529?captions=ita)
