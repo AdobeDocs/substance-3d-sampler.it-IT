@@ -141,6 +141,6 @@ Tenete premuto Ctrl e fate clic nella vista 2D per aggiungere una nuova sorgente
 
 | Azione | Windows + Linux | MacOs |
 | --- | --- | --- |
-| Aumenta dimensione pennello | ] o Ctrl + rotellina del mouse | ] o Comando + rotellina del mouse |
-| Riduci dimensione pennello | [ o Ctrl + rotellina del mouse | [ o Comando + rotellina del mouse |
+| Aumenta dimensione pennello | &rbrack; o Ctrl + rotellina del mouse | &rbrack; o Comando + rotellina del mouse |
+| Riduci dimensione pennello | &lbrack; o Ctrl + rotellina del mouse | &lbrack; o Comando + rotellina del mouse |
 | Impostare la sorgente | Ctrl + clic sinistro | Cmd+clic sinistro |

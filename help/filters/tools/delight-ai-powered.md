@@ -35,7 +35,7 @@ ht-degree: 0%
 
 Il Delighter consente di rimuovere le informazioni di illuminazione dal canale di colore di base. Questo è importante quando si convertono le immagini in materiali, perché in genere i materiali non devono includere informazioni sull’illuminazione. Un materiale è una raccolta di informazioni che spiega come la luce dovrebbe reagire con una superficie, quindi se ci sono già informazioni di luce infornate in un canale che non dovrebbe avere informazioni di luce, può rompere la capacità del materiale di rappresentare la superficie in modo realistico.
 
-*Esempio **un&#39;immagine prima e dopo l&#39;elaborazione da parte del filtro**Delight (IA Powered)**. Le ombre e le luci sono state rimosse, rimane solo il colore di base.*
+*Esempio **un&#39;immagine prima e dopo l&#39;elaborazione da parte del filtro**&#x200B;Delight (IA Powered)**. Le ombre e le luci sono state rimosse, rimane solo il colore di base.*
 
 ![](../../assets/120-0-comparison.png)
 

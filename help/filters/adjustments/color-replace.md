@@ -59,8 +59,8 @@ Le immagini seguenti mostrano **Color Replace** in azione. Osservate come le are
   Regolate in che misura i valori di luminosità originali sono influenzati dalla luminosità del nuovo colore.
 * **Intervallo maschera**\
   La maschera viene creata in base alla combinazione dei seguenti valori
-  * ****** Da Luminosità&#x200B;**: 0-1\
-    Intervallo di luminosità utilizzato per creare la maschera ****
+  * **&#x200B;**&#x200B;**&#x200B; Da Luminosità&#x200B;**: 0-1\
+    Intervallo di luminosità utilizzato per creare la maschera **&#x200B;**
   * **Da colore**: 0-1\
     Intervallo di colori utilizzato per creare la maschera
 * **Smoothness maschera**: 0-1\

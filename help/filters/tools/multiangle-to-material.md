@@ -26,7 +26,7 @@ Il modello **Multiangolo su materiale** consente di creare un materiale da 2 a 8
 
 >[!NOTE]
 >
-> In questo articolo](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html) sono disponibili ulteriori informazioni su come creare il proprio scanner di materiali [.
+> In questo articolo[&#128279;](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html) sono disponibili ulteriori informazioni su come creare il proprio scanner di materiali .
 
 ## Esempio
 

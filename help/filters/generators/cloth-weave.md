@@ -85,7 +85,7 @@ Parametri
 
 **Avanzate**
 
-* **Metodo fusione****:** Selezionare il metodo di fusione per il canale del colore di base. La modifica del metodo di fusione può modificare notevolmente l&#39;aspetto della tessitura.
+* **Metodo fusione**&#x200B;**:** Selezionare il metodo di fusione per il canale del colore di base. La modifica del metodo di fusione può modificare notevolmente l&#39;aspetto della tessitura.
 * **Intensità imperfezioni:** 0-1\
   Impostate l’intensità delle imperfezioni dei filetti.
 * **Intensità normale:** 0-2\
