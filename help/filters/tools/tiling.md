@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/tiling.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/tiling.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Taglio di Substance 3D Sampler per creare pattern di affiancatura uniformi da texture per superfici di materiale ripetibili.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/equalize.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/equalize.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Equalizza in Substance 3D Sampler per ridistribuire i valori di luminosità e migliorare automaticamente il contrasto dell’immagine.
 helpx_creative_field: ""

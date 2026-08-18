@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/make-it-tile.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
 description: Usate lo strumento Crea porzioni in Substance 3D Sampler per creare automaticamente pattern di porzioni senza interruzioni da texture che non sono porzioni.
 helpx_creative_field: ""

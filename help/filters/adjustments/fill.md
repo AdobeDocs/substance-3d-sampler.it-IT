@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Riempimento in Substance 3D Sampler per riempire le aree della texture con colori a tinta unita o pattern per i flussi di lavoro di creazione del materiale.
 helpx_creative_field: ""

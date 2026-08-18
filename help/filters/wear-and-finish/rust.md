@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/rust.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Ruggine di Substance 3D Sampler per aggiungere effetti di ruggine e corrosione realistici ai materiali e alle superfici metalliche.
 helpx_creative_field: ""

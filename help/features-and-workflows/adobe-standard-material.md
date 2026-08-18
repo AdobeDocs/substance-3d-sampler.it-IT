@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
 breadcrumb-title: ''
 description: Scopri come utilizzare i Materiali standard Adobe in Substance 3D Sampler per creare materiali compatibili con lo standard di materiali Adobe.
 helpx_creative_field: ""

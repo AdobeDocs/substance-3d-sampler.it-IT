@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: Utilizza il filtro Graffi di Substance 3D Sampler per aggiungere ai materiali segni di graffio realistici ed effetti di danno alla superficie.
 helpx_creative_field: ""

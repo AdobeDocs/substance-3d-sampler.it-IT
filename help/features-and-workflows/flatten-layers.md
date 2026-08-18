@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/flatten-layers.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/features-and-workflows/flatten-layers.html"
 breadcrumb-title: ''
 description: Scopri come ridurre a livello singolo i livelli in Substance 3D Sampler per migliorare le prestazioni e semplificare il gruppo di livelli, comprendendone l’impatto.
 helpx_creative_field: ""

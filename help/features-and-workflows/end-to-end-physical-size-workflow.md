@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare il flusso di lavoro end-to-end dimensioni fisiche in Substance 3D Sampler per creare materiali fisicamente accurati che corrispondono alla scala reale.
 helpx_creative_field: ""

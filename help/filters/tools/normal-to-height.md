@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/normal-to-height.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/normal-to-height.html"
 breadcrumb-title: ''
 description: Utilizza lo strumento Normale al Height in Substance 3D Sampler per convertire le mappe normali in mappe di height per i flussi di lavoro di creazione del materiale.
 helpx_creative_field: ""

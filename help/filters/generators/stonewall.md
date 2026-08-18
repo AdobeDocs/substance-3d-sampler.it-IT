@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/stonewall.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/stonewall.html"
 breadcrumb-title: ''
 description: Usa il generatore Stonewall in Substance 3D Sampler per creare realistici motivi di parete in pietra e trame in muratura per i materiali.
 helpx_creative_field: ""

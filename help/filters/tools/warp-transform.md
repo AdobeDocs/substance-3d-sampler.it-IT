@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp-transform.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/warp-transform.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Trasformazione alterazione in Substance 3D Sampler per applicare alterazioni non lineari ed effetti di distorsione a texture e materiali.
 helpx_creative_field: ""

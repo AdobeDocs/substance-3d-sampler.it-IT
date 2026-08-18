@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-ao.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/height-to-ao.html"
 breadcrumb-title: ''
 description: Utilizza lo strumento da Height a AO in Substance 3D Sampler per convertire le mappe di height in mappe di occlusione ambientale per la creazione di materiale.
 helpx_creative_field: ""

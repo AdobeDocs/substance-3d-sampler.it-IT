@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/cloth-weave.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/cloth-weave.html"
 breadcrumb-title: ''
 description: Utilizza il generatore Tessuto in Substance 3D Sampler per creare pattern di tessuto intrecciato e texture tessili per la creazione di materiali.
 helpx_creative_field: ""

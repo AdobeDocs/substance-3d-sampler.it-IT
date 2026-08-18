@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/warp.html"
 breadcrumb-title: ''
 description: Usate lo strumento Altera in Substance 3D Sampler per applicare l’alterazione direzionale e gli effetti distorsione ai livelli di texture e materiale.
 helpx_creative_field: ""

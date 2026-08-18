@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/crop-tool.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/crop-tool.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Taglierina di Substance 3D Sampler per ritagliare e ridimensionare i livelli di texture e materiale con un controllo preciso delle dimensioni.
 helpx_creative_field: ""

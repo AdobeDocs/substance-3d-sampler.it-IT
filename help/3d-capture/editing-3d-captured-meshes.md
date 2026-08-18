@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/editing-3d-captured-meshes.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/3d-capture/editing-3d-captured-meshes.html"
 breadcrumb-title: ''
 description: Scoprite come modificare le trame acquisite 3D in Substance 3D Sampler per perfezionare la geometria, risolvere i problemi e ottimizzare la qualità della trama.
 helpx_creative_field: ""
