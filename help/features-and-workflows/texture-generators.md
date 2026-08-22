@@ -137,4 +137,4 @@ Esportare il filtro come file di archivio Substance (.sbsar)
 
 >[!NOTE]
 >
-> Potete esporre i parametri del filtro per controllarlo direttamente in Sampler. Scopri come [fare](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
+> Potete esporre i parametri del filtro per controllarlo direttamente in Sampler. Scopri come [fare](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
