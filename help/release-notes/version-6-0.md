@@ -4,10 +4,10 @@ description: Consulta le note sulla versione per Substance 3D Sampler versione 6
 title: Versione 6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: fe26cb37891204d5b93265643c23d8e717b3d524
+source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
 workflow-type: tm+mt
-source-wordcount: '1357'
-ht-degree: 2%
+source-wordcount: '1627'
+ht-degree: 1%
 
 ---
 
@@ -60,9 +60,49 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 
 ## Note sulla versione v6.0
 
+### **6.0.3**
+
+*(Rilasciato: 24 agosto 2026)*
+
+**Corretto:**
+
+[Rendering] Ripristinare una soluzione temporanea per i driver NVIDIA difettosi
+
+### **6.0.2**
+
+*(Rilasciato: 25 giugno 2026)*
+
+**Aggiunto:**
+
+* &amp;lbrack;Assets&amp;rbrack; Controllare la versione secondaria e avvisare gli utenti se il motore è troppo vecchio per leggerlo
+* &amp;lbrack;Captis&amp;rbrack; Aggiungi di nuovo opzione per salvare la fotometria dei sottotitoli nelle preferenze
+
+**Corretto:**
+
+* &amp;lbrack;2D View&amp;rbrack; Do not &#39;display with physical ratio&#39; (Visualizza con rapporto fisico) se dimensioni fisiche è disabilitato
+* &amp;lbrack;Analytics&amp;rbrack; eventi di analisi mancanti
+* &amp;lbrack;Analytics&amp;rbrack; Impedisce che il blocco anomalo segnali un arresto anomalo in vk devicelost
+* &amp;lbrack;Application&amp;rbrack; Non distruggere i vkdevice all&#39;uscita per evitare un arresto anomalo nel driver nvidia
+* &amp;lbrack;Application&amp;rbrack; Correggi uscita controllo raccolta collegata + gestione canali
+* &amp;blocco;Application&amp;brack; Impedisci arresto anomalo all&#39;uscita
+* &amp;lbrack;Content&amp;rbrack; Il filtro &quot;finitura metallo&quot; non influisce sulla metallizzazione
+* &amp;lbrack;Content&amp;rbrack; Aggiungi dimensioni fisiche ai filtri dinamici dove manca
+* &amp;blocco;Filtri&amp;rbrack; Rimuovi riempimento in base al contenuto dall&#39;elenco delle risorse nascoste
+* &amp;blocca;Livelli&amp;rbrack; se si fa clic su &quot;Reimposta tutte le impostazioni&quot; non viene reimpostato il menu a discesa &quot;Applica a&quot;
+* &amp;lbrack;Livelli&amp;rbrack; Correggere le modifiche minime e massime per il widget posizione
+* &amp;lbrack;Layers&amp;rbrack; aggiorna correttamente il filtro
+* &amp;lbrack;Dimensioni fisiche&amp;rbrack; verifica che la scala fisica funzioni ovunque + verifica che la dimensione fisica sia corretta con i filtri dinamici
+* &amp;lbrack;Project&amp;rbrack; Verifica che la risoluzione delle risorse sia quella predefinita (2k x 2k) durante la creazione di una nuova risorsa
+* &amp;lbrack;Project&amp;rbrack; riapertura del progetto corrente utilizzato per aprire la versione precedente
+* &amp;lbrack;Project&amp;rbrack; Sampler non offre più di ripristinare un backup dei progetti danneggiati
+* &amp;lbrack;Rendering&amp;rbrack; Esegui il rendering della miniatura del materiale a una risoluzione massima di 2k
+* &amp;lbrack;UI&amp;rbrack; codice difensivo per evitare l&#39;arresto anomalo se l&#39;utente è più veloce dell&#39;interfaccia utente
+
+### **6.0.1**
+
 *(Rilasciato: 16 aprile 2026)*
 
-## Aggiunto:
+**Aggiunto:**
 
 * [Vista 3D] Fornire trame predefinite in formato USD
 * [Applicazione] Rileva gli usi in un materiale non disponibile nel modello di materiale corrente
@@ -110,7 +150,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * Implementazione della ricerca [UI] nell&#39;edizione elenco canali
 * [UI] Visualizza una notifica durante il salvataggio di uno snapshot in un file
 
-## Fisso:
+**Corretto:**
 
 * [Visualizzazione 2D] Ordinare la visualizzazione 2D in base all&#39;indice di utilizzo dei risultati nella specifica
 * [Applicazione] Correggere un arresto anomalo all&#39;avvio
@@ -194,7 +234,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * [IU]: aggiornare le impostazioni del canale durante l’utilizzo di un’immagine
 * [Interfaccia utente] Aggiornamento del testo nel popup di conversione Modello di materiale
 
-## Rimosso:
+## Rimosso
 
 * [UI] Rimuovi voce di menu Capture 3D
 * [IU] Rimuovi pannello IA generativa
