@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Come suggerisce il nome, i canali di rivestimento consentono di aggiungere un rivestimento al materiale. I rivestimenti possono avere il proprio valore di rugosità, che può influire sulla ruvidità di base del materiale, contribuendo a creare effetti come una superficie verniciata o lucidata. Guarda il video seguente per scoprire come utilizzare il canale di rivestimento in Sampler per creare un pavimento in parquet verniciato da zero.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483521)
+>[!VIDEO](https://video.tv.adobe.com/v/3483551?captions=ita)
