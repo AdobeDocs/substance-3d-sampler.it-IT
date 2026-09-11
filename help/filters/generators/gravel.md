@@ -65,7 +65,7 @@ Queste immagini mostrano il **filtro Ghiaia** utilizzato per riempire i crepacci
 * **Quantità**: 0-1\
   Modificate la quantità di ghiaia distribuita sul materiale.
 * **Colore primario**: selezione colore\
-  Seleziona il colore di base delle pietre di ghiaia
+  Selezionare il colore di base delle pietre di ghiaia
 * **Colore secondario**: selezione colore\
   Seleziona il colore secondario delle pietre di ghiaia
 * **Corrispondenza colore materiale inferiore**: 0-1\
@@ -92,15 +92,15 @@ Queste immagini mostrano il **filtro Ghiaia** utilizzato per riempire i crepacci
 * **Smoothness superficie**: 0-1\
   Smussare le cime dei sassi
 * **Usa maschera personalizzata**: attiva/disattiva\
-  Attivate o disattivate l’uso di una maschera personalizzata per colorare le posizioni della pietra. I seguenti parametri saranno visibili solo se è abilitato **Usa maschera personalizzata**.
+  Attivate o disattivate l’uso di una maschera personalizzata per pittura le posizioni della pietra. I seguenti parametri saranno visibili solo se è abilitato **Usa maschera personalizzata**.
   * **Sfocatura maschera**: 0-1\
     Sfoca i bordi della maschera dipinta
   * **Maschera personalizzata**: immagine/pennello\
-    Fate clic sul pennello per colorare una maschera personalizzata in cui verranno visualizzate le pietre. Fai clic sul quadrato per importare un’immagine da usare come maschera.
+    Fate clic sul pennello per pittura una maschera personalizzata in cui verranno visualizzate le pietre. Fai clic sul quadrato per importare un’immagine da usare come maschera.
 
 **Parametri avanzati**
 
 * **Dimensioni superficie (cm)**: 0-1000\
   Modificate le dimensioni della superficie rappresentata dal materiale. Aumentando le dimensioni della dimensioni fisiche, la ghiaia è più grande e verrà modificata di conseguenza.
 * **Profondità Height** **(cm)**: 0-100\
-  Modificate la profondità fisica rappresentata dalla mappa di height del materiale. Una maggiore profondità del height significa che la dimensioni fisiche delle pietre è più alta di quanto sarebbe altrimenti, quindi l&#39;intensità normale delle pietre è aumentata.
+  Modificate la profondità fisica rappresentata dalla mappa di altezza del materiale. Una maggiore profondità del height significa che la dimensioni fisiche delle pietre è più alta di quanto sarebbe altrimenti, quindi l&#39;intensità normale delle pietre è aumentata.

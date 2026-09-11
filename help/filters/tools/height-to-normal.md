@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/height-to-normal.html"
 breadcrumb-title: ''
-description: Utilizza lo strumento da Height a normale di Substance 3D Sampler per convertire le mappe di height in mappe normali per i flussi di lavoro di creazione del materiale.
+description: Utilizza lo strumento Height to Normal in Substance 3D Sampler per convertire le mappe dell’altezza in mappe normali per i flussi di lavoro di creazione del materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Height to Normal
 helpx_experience_level: ""
@@ -39,11 +39,11 @@ Nelle immagini seguenti è possibile visualizzare il filtro **Da Height a Normal
 
 ![](../../assets/h2n-in.jpg)
 
-Nell&#39;immagine sopra, non ci sono dati normali dal materiale. Solo la mappa height è disponibile e visualizzata nella **vista 2D**.
+Nell&#39;immagine sopra, non ci sono dati normali dal materiale. Solo la mappa dell&#39;altezza è disponibile e visualizzata in **Vista 2D**.
 
 ![](../../assets/h2n-out.jpg)
 
-Con il filtro da **Height a normale**, i dati normali vengono generati dalla mappa height mostrata nell&#39;immagine superiore. La luce rimbalza in modo più realistico dal materiale nella seconda immagine, grazie alla mappa normale generata.
+Con il filtro da **Height a normale**, i dati normali vengono generati dalla mappa height mostrata nell&#39;immagine superiore. La luce rimbalza in modo più realistico dal materiale nella seconda immagine grazie alla mappa normale generata.
 
 </td>
 </tr>
@@ -59,19 +59,19 @@ Con il filtro da **Height a normale**, i dati normali vengono generati dalla map
     * **Dimensioni superficie (cm)**: 0-500\
       Imposta la dimensione dello spazio UV in unità globali
     * **Profondità Height (cm)**: 0-10\
-      Imposta la distanza rappresentata dalla mappa del height. Se la mappa del height rappresenta una piccola distanza, una grande differenza nei valori della mappa del height può avere un piccolo impatto sull&#39;angolo normale. Se la mappa del height rappresenta una grande distanza, una piccola differenza nei valori della mappa del height può rappresentare un angolo grande sulla mappa normale.
+      Imposta la distanza rappresentata dalla mappa del height. Se la mappa dell&#39;altezza rappresenta una piccola distanza, una grande differenza nei valori della mappa dell&#39;altezza può avere un piccolo impatto sull&#39;angolo normale. Se la mappa dell&#39;altezza rappresenta una grande distanza, una piccola differenza nei valori della mappa dell&#39;altezza può rappresentare un grande angolo sulla mappa normale.
   * **Se Usa unità globali è disattivato:**
     * **Intensità**: 0-3\
       Regolare la ripidità degli angoli normali
 * **Combina normale inferiore**: 0-1\
-  Aggiungere la mappa normale esistente ai risultati di questo filtro.
+  Aggiungere la mappa normale esistente ai risultati del filtro.
 
 **Maschera**
 
 * **Maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D
+    Seleziona un’immagine da usare come maschera o usa il pennello per pittura una maschera personalizzata direttamente nella Vista 2D
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocare la maschera
   * **Maschera personalizzata - Inverti**: attiva/disattiva\

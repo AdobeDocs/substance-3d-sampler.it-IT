@@ -50,7 +50,7 @@ Il **filtro Altera** consente di alterare il materiale in base a diversi rumori 
 * **Scala disturbo**: 0-10\
   Regola la scala del disturbo sorgente. Il rumore sarà sempre affiancato.
 * **Tipo**:\
-  Selezionate il metodo utilizzato per alterare il materiale. Se sono selezionati **Alterazione direzionale** o **Alterazione multidirezionale**, verrà visualizzato un parametro aggiuntivo:
+  Selezionate il metodo utilizzato per alterare il materiale. Se sono selezionati **Alterazione direzionale** o **Alterazione direzionale multipla**, verrà visualizzato un parametro aggiuntivo:
   * **Angolo di alterazione**: 0-1\
     Regolate la direzione lungo cui avviene l’alterazione
 * **Intensità**: 0-1\

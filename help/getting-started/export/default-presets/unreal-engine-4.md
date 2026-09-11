@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **ColoreBase**&#x200B;**OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Occlusione ambiente</li><li data-preserve-html="true"><strong>G</strong>: rugosità</li><li data-preserve-html="true"><strong>B</strong>: Metallico</li></ul>**Normale &#x200B;**&#x200B;**Height**&#x200B;**Emissivo** |
+| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **ColoreBase**&#x200B;**OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Occlusione ambientale</li><li data-preserve-html="true"><strong>G</strong>: rugosità</li><li data-preserve-html="true"><strong>B</strong>: Metallico</li></ul>**Normale &#x200B;**&#x200B;**Height**&#x200B;**Emissivo** |

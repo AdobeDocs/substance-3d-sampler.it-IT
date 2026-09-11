@@ -54,11 +54,11 @@ Attiva/disattiva Area di interesse per attivare un rettangolo di selezione dopo 
 
 ### Post-elaborazione connessa
 
-Una volta ricostruito l’oggetto 3D, ottimizzate il risultato con decimazione automatica, srotolamento UV e cottura al forno.
+Una volta ricostruito l’oggetto 3D, ottimizzate il risultato con decimazione automatica, srotolamento e esegue i baking UV.
 
 La post-elaborazione ti aiuta ad adattare e ottimizzare la trama e le texture in base alle tue esigenze e a come desideri utilizzarla.
 
-Il risultato della ricostruzione può generare una trama con milioni di poligoni e texture fino a 16K. Spesso questa opzione non è ottimizzata per il rendering, il tempo reale o l’esperienza AR.
+Il risultato della ricostruzione può generare una rete con milioni di poligoni e fino a 16K texture. Spesso questa opzione non è ottimizzata per il rendering, il tempo reale o l’esperienza AR.
 
 Il passo di post-elaborazione concatena automaticamente 4 passaggi:
 
@@ -86,10 +86,10 @@ Le finestre delle viste 2D e 3D possono essere ridimensionate, scambiate e impil
 La funzione di esportazione è stata suddivisa in 4:
 
 * esporta materiali: `export_material`
-* esporta luci ambiente: `export_environment_light`
+* esporta luci ambientali: `export_environment_light`
 * esporta trama con o senza texture: `export_mesh` o `export_3d_object`
 
-È stata aggiunta una nuova funzione per importare le texture con un utilizzo specifico: `import_textures`
+È stata aggiunta una nuova funzione per importare texture con un utilizzo specifico: `import_textures`
 
 Sampler verrà ora caricato allo script di avvio e i plug-in archiviati nei percorsi definiti da due variabili di ambiente:
 
@@ -114,33 +114,33 @@ Sampler verrà ora caricato allo script di avvio e i plug-in archiviati nei perc
 * [capture 3D] Definite l&#39;area di ricostruzione con un widget del rettangolo di selezione
 * [capture 3D] Ridimensiona, trasla e ruota su tutti gli assi il widget del rettangolo di selezione
 * [capture 3D] Definite la precisione della geometria per la trama ricostruita
-* [capture 3D] Ottimizzate la trama e le texture creando una nuova versione
+* [capture 3D] Ottimizza la trama e la texture creando una nuova versione
 * [capture 3D] Ciascuna versione viene decimata automaticamente in base al numero di facce di destinazione impostato
-* [capture 3D] La fase di post-elaborazione sfocia automaticamente, riproietta le texture e quindi prepara il height normale e le informazioni AO dalla trama ad alto poli
+* [capture 3D] La fase di post-elaborazione esegue automaticamente lo srotolamento, riproietta le texture e quindi esegue i baking le informazioni del height normale e di AO dalla trama ad alto poli
 * [capture 3D] Aggiungi il risultato originale o una versione al progetto Sampler
-* [capture 3D] Nuovo livello di post-elaborazione trama per decimare, annullare, riproiettare le texture e cuocere i dettagli del livello di trama sottostante
-* [capture 3D] Nuovo livello Trasformazione trama per ridimensionare, ruotare o traslare il livello di trama sottostante
+* [capture 3D] Nuovo livello di post-elaborazione Trama per decimare, annullare, riproiettare le texture e eseguire i baking automaticamente i dettagli del livello di trama sottostante
+* [capture 3D] Nuovo livello di Trasforma trama per ridimensionare, ruotare o traslare il livello di trama sottostante
 * [Esporta] Nuova finestra Esporta
-* [Esportazione] Impostazioni dedicate e interfaccia utente a seconda del tipo di risorsa (materiale, luce ambiente, trama)
+* [Esportazione] Impostazioni dedicate e interfaccia utente a seconda del tipo di risorsa (materiale, luce ambientale, trama)
 * [Export] Esporta la trama come USD, USDA, USDZ, glTF, glb, obj, fbx, stl
 * [Esporta] Definisci il tipo di materiale durante l’esportazione dei file di Substance (SBSAR, SBS)
 * [UI] Sposta le impostazioni della cache in una nuova scheda nel popup Preferenze
 * [Applicazione] Le finestre delle viste 2D e 3D possono ora essere ridimensionate, scambiate e impilate verticalmente
 * [Applicazione] Nuova variabile di ambiente SAMPLER\_RESOURCES\_PATH per aggiungere risorse iniziali aggiuntive
 * [Scripting] Aggiunte variabili di ambiente SAMPLER\_PLUGIN\_PATH e SAMPLER\_SCRIPT\_PATH per importare plug-in e script all&#39;avvio
-* [Scripting] Funzioni di esportazione aggiunte per materiali, luci ambiente e oggetti 3D
-* [Scripting] Sono stati aggiunti ai parametri l’identificatore, il valore predefinito, i valori minimo e massimo, le etichette e i valori enum.
-* [Scripting] È stata aggiunta la funzione import\_textures per immettere un utilizzo personalizzato durante l’importazione delle immagini
+* [Scripting] Funzioni di esportazione aggiunte per materiali, luce ambientale e oggetti 3d
+* [Scripting] identificatore, valore predefinito, valori minimo e massimo, etichette ed enum aggiunti ai parametri
+* [Scripting] È stata aggiunta la funzione import\_texture per immettere un utilizzo personalizzato durante l’importazione delle immagini
 
 **Risolto**
 
-* [Applicazione] Arresto anomalo all’apertura di un progetto recente e al salvataggio nella finestra di dialogo di conferma
+* [Applicazione] Arresto anomalo quando si apre un progetto recente e si salva nella finestra di dialogo di conferma
 * La finestra di dialogo File di [Application] impedisce l&#39;apertura di file .ssa
 * [Applicazione] Le finestre di dialogo File possono essere visualizzate in una finestra di sfondo di macOS
-* [Applicazione] Potenziale arresto anomalo durante l’apertura di progetti 3.2
+* [Applicazione] arresto anomalo potenziale all’apertura di progetti 3.2
 * [Applicazione] Se si seleziona un file, la finestra di dialogo File viene chiusa prima di visualizzare gli avvisi
-* [Parametri esposti] L&#39;esportazione delle luci di ambiente parametriche non funziona
-* [Livelli] Il collegamento &quot;Fai clic qui per sfogliare&quot; nella pila di livelli non funziona più
+* [Parametri esposti] L&#39;esportazione di luci ambientali parametriche non funziona
+* [Livelli] Il collegamento &quot;Fai clic qui per sfogliare&quot; in Pila livelli non funziona più
 * [Livelli] Il disegno di più immagini all&#39;interno dello stesso livello a volte non funziona
 * [Layers] L’impostazione di un’immagine nelle proprietà del livello non aggiorna la miniatura del selettore di immagini
 * [Livelli] La modifica di una risorsa Sampler aggiunta come livello non funziona
@@ -150,7 +150,7 @@ Sampler verrà ora caricato allo script di avvio e i plug-in archiviati nei perc
 * L’esportazione di [Scripting] JPEG non è presente nell’API
 * [Scripting] Il pannello del registro non è di sola lettura
 * [Scripting] Il valore del parametro image\_picker non funziona
-* [UI] Icona della risorsa mancante per le luci ambiente nel pannello Progetto
+* [UI] Icona risorsa mancante per la luce ambientale nel pannello Progetto
 * [UI] Il menu a discesa Invia a Designer Format nelle Preferenze può essere vuoto
 * [UI] Alcuni pulsanti hanno uno stile errato
 * [UI] L&#39;etichetta si sovrappone ai pulsanti nei widget del gruppo di pulsanti
@@ -160,8 +160,8 @@ Sampler verrà ora caricato allo script di avvio e i plug-in archiviati nei perc
 **Problemi noti**
 
 * [capture 3D] Quando si utilizzano le maschere, la proiezione della texture potrebbe essere interrotta
-* [capture 3D] Potrebbero apparire piccoli artefatti sull&#39;oggetto se la scala nella trasformazione Trama è troppo piccola
-* [capture 3D] La trama esportata potrebbe essere molto piccola. Reimpostate la scala della trasformazione Trama e riesportate
+* [capture 3D] Potrebbero apparire piccoli artefatti sull&#39;oggetto se la scala nella Trasforma Trama è troppo piccola
+* [capture 3D] La trama esportata potrebbe essere molto piccola. Reimpostate la scala della Trasforma della trama e riesportate
 * [Selettore colore] La selezione di un colore su un secondo monitor con una risoluzione diversa potrebbe non funzionare
 * [Contenuto] Il widget della luce della forma non funziona in modalità proiezione sferica
 * [Interoperabilità] Il materiale con spostamento inviato a Stager perderà i controlli di spostamento

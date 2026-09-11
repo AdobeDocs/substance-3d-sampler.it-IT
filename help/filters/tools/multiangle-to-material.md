@@ -33,7 +33,7 @@ Il modello **Multiangolo su materiale** consente di creare un materiale da 2 a 8
 Di seguito è riportato un esempio di materiale creato da 8 immagini di input:
 
 * Le prime 8 immagini sono le immagini acquisite in 8 angoli di luce.
-* Le immagini in basso sono gli output del modello (colore di base, normale, height, metallico e rugosità).
+* Le immagini in basso rappresentano gli output del modello (colore di base, normale, height, metallico e rugosità).
 
 ![](../../assets/scan-801x697.jpg){width="400px"}
 

@@ -51,8 +51,8 @@ ht-degree: 0%
 
 **Corretto:**
 
-* [Ispirazione] Risolvere l&#39;arresto anomalo quando si utilizzano più di 10 colori
-* [Vista 2D] Correggere la barra di scorrimento nell&#39;elenco dei canali della vista 2D
+* [Ispirazione] Correggi l’arresto anomalo quando si utilizzano più di 10 colori
+* [vista 2D] Correggi la barra di scorrimento nell&#39;elenco dei canali del Vista 2D
 * [Visualizzatore] Correggere l&#39;arresto anomalo durante l&#39;importazione di una mappa dell&#39;ambiente non alimentata a 2
 * [Content] Correggi importazione PNG per pattern personalizzato di filtri in rilievo e perforazione
 * [Esporta] Correggi normale e height 16 bit per esportazione canale
@@ -62,9 +62,9 @@ ht-degree: 0%
 **Problemi noti:**
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter non è consigliato
 * Le immagini TIF non vengono visualizzate nel pannello Proprietà nel livello di importazione delle immagini
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Il filtro Normale al height può bloccarsi su MacOS
-* Può verificarsi un arresto anomalo casuale quando si esce da MacOS
+* Il filtro Normale al height può essere arresto anomalo in MacOS
+* È possibile eseguire l’arresto anomalo in modo casuale quando si esce da MacOS

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/brickwall.html"
 breadcrumb-title: ''
-description: Utilizza il generatore Brickwall in Substance 3D Sampler per creare pattern di muri di mattoni realistici e trame di muratura per i materiali.
+description: Utilizza il generatore Brickwall in Substance 3D Sampler per creare motivi di muro in mattoni realistici e texture in muratura per i materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Brickwall
 helpx_experience_level: ""
@@ -70,7 +70,7 @@ Scegliete tra una serie di predefiniti per emulare rapidamente uno stile specifi
 * **Tipo mattone**:\
   Selezionare lo stile del mattone
 * **Affianca**: 1-25\
-  Modificate la quantità di suddivisione in porzioni sugli assi X e Y.
+  Modificate la quantità di Affiancamento sugli assi X e Y.
 * **Scostamento**: 0-1\
   Modificate l&#39;offset di ogni riga di mattoni dalla riga precedente.
 * **Usa colore personalizzato**: attiva/disattiva\
@@ -116,12 +116,12 @@ Scegliete tra una serie di predefiniti per emulare rapidamente uno stile specifi
 
 **Parametri avanzati**
 
-* **Intensità fusione Height**: 0-1\
+* **Intensità Fusione Height**: 0-1\
   Regola la fusione del height dal materiale di base. Un valore pari a 0 ignora il height del materiale di base e utilizza solo i parametri del filtro Brickwall per generare le informazioni sul height. Un valore pari a 1 usa il materiale di base per generare le informazioni sul height.
 * **Intensità normale**: 0-1\
   Regolare l&#39;intensità delle normali generate dal filtro Brickwall. Un valore pari a 0 significa in effetti nessuna norma.
-* **Intensità Occlusione ambiente**: 0-1\
-  Regolate l’intensità dell’AO. Un valore pari a 0 indica in pratica che non è presente alcuna Occlusione Ambiente.
+* **Intensità Occlusione ambientale**: 0-1\
+  Regolate l’intensità dell’AO. Un valore pari a 0 indica in realtà l’assenza di Occlusione ambientale.
 
 Guida all’uso
 

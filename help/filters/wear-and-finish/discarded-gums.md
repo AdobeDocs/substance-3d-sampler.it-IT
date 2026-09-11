@@ -85,7 +85,7 @@ Aggiungere la gomma da masticare eliminata nel materiale. Questo filtro è ideal
 * **Maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se è abilitata l&#39;opzione **Maschera personalizzata**, verrà visualizzato il controllo seguente:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
 
 **Parametri avanzati**
 

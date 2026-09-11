@@ -43,15 +43,15 @@ Gli input rappresentano i canali di materiale da trasformare prima dell’esport
 
 Create un nodo Colore di input (o scala di grigi) per canale di materiale e aggiungete un <b>utilizzo</b> negli attributi a ciascun nodo di input per garantire che la connessione venga effettuata tra il materiale (o i materiali) e il predefinito personalizzato.
 
-Esempio: definizione dell&#39;input del colore di base
+Esempio: definizione dell&#39;input di Colore di base
 
 ![](../../assets/custom-input.png){width="600px"}
 
 ### Output
 
-Gli output rappresentano il risultato dell’esportazione della texture.
+Gli output rappresentano il risultato dell’esportazione texture.
 
-Creare un nodo di output per texture e aggiungere <b>utilizzo</b> e un&#39;etichetta <b>label</b> negli attributi di ciascun nodo di output. L&#39;<b>etichetta</b> verrà visualizzata nell&#39;elenco Canali della finestra Esportatore e nel nome del file di texture.
+Creare un nodo di output per texture e aggiungere <b>utilizzo</b> e una <b>etichetta</b> negli attributi di ogni nodo di output. L&#39;<b>etichetta</b> verrà visualizzata nell&#39;elenco Canali nella finestra di Esportazione e nel nome del file di texture.
 
 Esempio: definizione della texture personalizzata Opacità colore
 
@@ -63,7 +63,7 @@ Impacchettamento di 3 canali in scala di grigio in una texture RGB:
 
 ![](../../assets/channel-packing-example.png){width="600px"}
 
-Conversione del canale da PBR Metallic/Rugosità a PBR Specular/Lucidità:
+Conversione canale da metallizzato/rugosità PBR a Specular/Lucentezza PBR:
 
 ![](../../assets/channel-conversion.png){width="600px"}
 

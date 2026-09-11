@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/floor-tiles.html"
 breadcrumb-title: ''
-description: Utilizza il generatore Piastrelle pavimento in Substance 3D Sampler per creare realistici motivi di piastrelle e texture ceramiche per i materiali.
+description: Usa il generatore di piastrelle di Floor in Substance 3D Sampler per creare realistici motivi di piastrelle da pavimento e texture in ceramica per i materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Floor Tiles
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Piastrelle
+title: Floor porzioni
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Piastrelle
+# Floor porzioni
 
 <table>
 <tr style="border: 0;">
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrizione
 
-Il filtro Piastrelle scompone il materiale sottostante e lo converte in una disposizione di piastrelle.
+Il filtro Floor suddivide il materiale sottostante e lo converte in una disposizione di Floor.
 
 Le immagini seguenti mostrano un materiale di cemento convertito in piastrelle da pavimento con un motivo a scacchi.
 
@@ -63,7 +63,7 @@ Parametri
 * <b>Numero casuale</b>: \
   Il valore di inizializzazione casuale determina i valori casuali di altri parametri che utilizzano la casualità in questo filtro.
 * <b>Numero di materiali</b>: \
-  Modifica il numero di materiali da convertire in piastrelle. Il primo materiale è determinato dai livelli sotto il livello del filtro Piastrelle pavimento. Se selezionata, la seconda opzione può essere aggiunta come input.
+  Modifica il numero di materiali da convertire in piastrelle. Il primo materiale è determinato dai livelli sotto il livello del filtro Floor porzioni. Se selezionata, la seconda opzione può essere aggiunta come input.
 * <b>Intensità materiali di input</b>: 0-1 \
   Misura in cui i dettagli dei materiali di input saranno visibili nelle porzioni
 * <b>Inverti materiali</b>: Attiva/Disattiva \
@@ -77,9 +77,9 @@ Parametri
 * <b>Rotondità smusso</b>: 0-1 \
   Determina gli angoli esterni delle porzioni
 * <b>Grana di superficie</b>: 0-1 \
-  Determina il grado di visualizzazione dei dettagli del materiale originale sulle mappe normali e height delle porzioni
+  Determina la misura in cui il dettaglio del materiale originale viene visualizzato sulle mappe normale e di altezza delle porzioni
 * <b>Maschera pattern</b>: input.  \
-  Ogni maschera pattern Porzioni dispone di un diverso set di parametri. Qui copriamo solo i parametri disponibili per <b>riquadro quadrato</b>
+  Ogni maschera del pattern Porzioni Floor ha a disposizione un diverso set di parametri. Qui copriamo solo i parametri disponibili per <b>riquadro quadrato</b>
 
   * <b>Numero casuale </b>\
     Il valore di inizializzazione casuale determina i valori casuali di altri parametri che utilizzano la casualità in questo filtro.
@@ -90,7 +90,7 @@ Parametri
   * <b>Sfumatura </b> \
     Regola la proporzione delle dimensioni del riquadro rispetto alle dimensioni del mortaio.
   * <b>Luminanza casuale</b>\
-    Poiché la luminanza influenza la mappa del height, questo parametro rimuove casualmente alcune porzioni
+    Poiché la luminanza influenza la mappa di altezza, questo parametro rimuove casualmente alcune porzioni
   * <b>Rotazione motivo</b>: 0-1 \
     Ruota l’angolo delle porzioni tenendole lontane l’una dall’altra per evitare sovrapposizioni
   * <b>Scala forme:</b> 0-1 \
@@ -126,7 +126,7 @@ Parametri
 
 <b>Età</b>
 
-* <b>Inclinazione pavimento</b>: 0-1 \
+* <b>Inclinazione Floor</b>: 0-1 \
   Aggiungere un’inclinazione alle porzioni casuali
 * <b>Height casuale</b> \
   Aggiungere una differenza di height tra le porzioni in modo casuale
@@ -146,10 +146,10 @@ Parametri
 
 <b>Guida all&#39;uso</b>
 
-Il filtro Piastrelle consente di convertire rapidamente il materiale in piastrelle. La maggior parte del filtro Piastrelle pavimento è abbastanza semplice da usare, tranne quando si utilizzano più materiali. Per utilizzare due materiali:
+Il filtro Porzioni Floor consente di convertire rapidamente il materiale in porzioni. La maggior parte del filtro Floor è abbastanza semplice da usare, tranne quando si utilizzano più materiali. Per utilizzare due materiali:
 
 1. Imposta <b>Parametri di base > Numero di materiali</b> su 2.
 1. Trascinate il secondo materiale nello slot di input visualizzato sotto il filtro Piastrelle di pavimento nella pila dei livelli.
 1. Regolate i parametri del materiale di input fino a ottenere il risultato desiderato.
 
-Anche se è possibile aggiungere più materiali e filtri in un unico slot di input, in genere è consigliabile evitare questa operazione in quanto aggiunge complessità e può rendere più difficile la lettura del materiale in un secondo momento. Creare invece nuovi materiali nel progetto e quindi trascinare un&#39;istanza del nuovo materiale nello slot di input. Quando aggiorni il materiale nel progetto, questo aggiorna automaticamente il materiale nello slot di input, offrendoti pieno controllo e semplificando la pila di livelli.
+Anche se è possibile aggiungere più materiali e filtri in un unico slot di input, in genere è consigliabile evitare questa operazione in quanto aggiunge complessità e può rendere più difficile la lettura del materiale in un secondo momento. Creare invece nuovi materiali nel progetto e quindi trascinare un&#39;istanza del nuovo materiale nello slot di input. Quando si aggiorna il materiale nel progetto, il materiale viene aggiornato automaticamente nello slot di input, offrendo pieno controllo e semplificando la Pila livelli.

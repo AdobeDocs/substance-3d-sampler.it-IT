@@ -75,7 +75,7 @@ Potete definire il nome di un progetto di acquisizione e il tipo di output da re
 
 *Output*
 
-* Per impostazione predefinita verranno salvati solo i canali PBR del materiale (Colore base, Normale, height e Opacità).\
+* Per impostazione predefinita verranno salvati solo i canali PBR dei materiali (Colore di base, normale, height e opacità).\
   È possibile scegliere il tipo di output tra LDR (low dynamic range) e HDR (high dynamic range).
 
 
@@ -125,7 +125,7 @@ Altri tipi di impostazioni<b> devono essere modificati solo in occasione</b>: la
 
 * Calibrazione colore
 
-Calibra il colore della mappa dei colori di base grazie alle aree tecniche di HP Z Captis. \
+Calibra il colore della mappa del colore di base grazie alle aree tecniche di HP Z Captis. \
 In questo modo il materiale finale sarà esattamente dello stesso colore del campione aggiunto nell&#39;area HP Z Captis.\
 Le aree tecniche con i campioni di colore vengono rilevate automaticamente e utilizzate per la calibrazione. Essi devono essere collocati nel loro spazio specifico su ciascun lato del campione.
 
@@ -152,7 +152,7 @@ La parte di lavorazione è suddivisa in tre parti:
 
 * <b>Acquisizione</b>: scattare tutte le foto necessarie
 
-* <b>Elaborazione</b>: elaborazione delle foto per generare i canali PBR (colore di base, normale, height, opacità)
+* <b>Elaborazione</b>: elaborazione delle foto per generare i canali PBR (Colori di base, normale, height, opacità)
 
 * <b>Copia in corso</b>: copia dei risultati dal dispositivo HP Z Captis nel computer
 
@@ -179,7 +179,7 @@ Dopo essere usciti dalla finestra HP Z Captis, i canali (colore di base, normale
 ![testo alternativo](../../../help/assets/sampler_captis-imported-material.png)
 
 
-Usa i filtri di Sampler (Equalizza, Ritaglio prospettiva, Divisione in porzioni, ...) per elaborare e pulire il materiale.
+Usa i filtri Sampler (Equalizza, Prospettiva ritaglio, Affiancamento, ...) per elaborare e pulire il materiale.
 
 Una volta completata l’operazione, puoi:
 

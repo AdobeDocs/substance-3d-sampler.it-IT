@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
 breadcrumb-title: ''
-description: Utilizzate lo strumento Unione HDR in Substance 3D Sampler per unire più immagini di esposizione in un’unica immagine a high dynamic range.
+description: Utilizzate lo strumento Unione HDR in Substance 3D Sampler per unire più immagini di esposizione in un'unica immagine a high dynamic range.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > HDRI Tools > HDR Merge
 helpx_experience_level: ""
@@ -39,11 +39,11 @@ Le immagini seguenti mostrano i risultati dell&#39;**unione HDR**.
 
 ![](../../assets/3d-2d-filters-cropped-0027-hdr-merge-in.jpg)
 
-Prima che venga completata l&#39;**unione HDR**, la sfera nella **vista 3D** riflette la luce ambiente predefinita. Per impostazione predefinita, nella **vista 2D** vengono visualizzati i dati dell&#39;immagine importata per la prima immagine di scansione, che in questo caso è l&#39;immagine con esposizione più bassa.
+Prima che venga completata l&#39;**unione HDR**, la sfera nella **vista 3D** riflette la luce ambientale predefinita. Per impostazione predefinita, nella **vista 2D** vengono visualizzati i dati dell&#39;immagine importata per la prima immagine di scansione, che in questo caso è l&#39;immagine con esposizione più bassa.
 
 ![](../../assets/3d-2d-filters-cropped-0026-hdr-merge-out.jpg)
 
-Dopo l&#39;aggiunta del **filtro** filtro **di unione HDR**, la sfera riflette una nuova luce ambiente, ovvero l&#39;immagine HDR generata dalle immagini di input.
+Dopo l&#39;aggiunta del **HDR Merge** **filter**, la sfera riflette una nuova luce ambientale, ovvero l&#39;immagine HDR generata dalle immagini di input.
 
 </td>
 </tr>
@@ -62,10 +62,10 @@ Dopo l&#39;aggiunta del **filtro** filtro **di unione HDR**, la sfera riflette u
 
 ## Guida all’uso
 
-Guardate questo articolo per scoprire come utilizzare il **filtro Unione HDR** e altri filtri che consentono di convertire le immagini SDR in una luce ambiente HDR.
+Guarda questo documento per scoprire come utilizzare il **filtro Unione HDR** e altri filtri che consentono di convertire le immagini SDR in una luce ambientale HDR.
 
-I passaggi di base per utilizzare **Unione HDR** **filtro** sono i seguenti:
+I passaggi di base per l&#39;utilizzo dell&#39;**unione HDR** **filtro** sono i seguenti:
 
-1. Importate l’insieme di immagini da unire nella pila di livelli.
-1. Aggiungete il **filtro Unione HDR** allo stack di livelli.
+1. Importate il set di immagini da unire nella Pila livelli.
+1. Aggiungere il **filtro Unione HDR** alla Pila livelli.
 1. Modificate i parametri per garantire che i valori di esposizione siano corretti.

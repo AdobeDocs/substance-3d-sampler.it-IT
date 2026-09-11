@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/panel.html"
 breadcrumb-title: ''
-description: Utilizza il generatore pannelli in Substance 3D Sampler per creare pattern di pannelli e texture di superfici segmentate per i materiali.
+description: Utilizza il generatore di pannelli in Substance 3D Sampler per creare pattern di pannelli e texture di superficie segmentate per i materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Panel
 helpx_experience_level: ""

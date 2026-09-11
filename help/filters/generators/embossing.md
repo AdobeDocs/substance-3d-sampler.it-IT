@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrizione
 
-Metti in rilievo il testo o i pattern sui tuoi materiali.
+Testo o pattern Effetti rilievi sui materiali.
 
 </td>
 </tr>
@@ -43,31 +43,31 @@ Metti in rilievo il testo o i pattern sui tuoi materiali.
 
 **Parametri di base**
 
-* **Dimensione rilievo**: 0-1\
+* **Dimensione Effetto rilievo**: 0-1\
   Modificare le dimensioni di ogni istanza
-* **Distanza rilievo**: 0-1\
+* **Distanza Effetto rilievo**: 0-1\
   Modificare il thickness di linee in rilievo
 * **Selezione pattern**:\
-  Selezionate il pattern da applicare all&#39;effetto rilievo. Da qui potete selezionare per riportare in rilievo il testo o un pattern personalizzato.
+  Selezionare il pattern da rendere effetto rilievo. Da qui potete selezionare un testo in effetto rilievo o un pattern personalizzato.
 * **Affianca Motivo X**: 1-64\
   Modificare il numero di istanze sull&#39;asse X
 * **Affianca Motivo Y**: 1-64\
   Modificare il numero di istanze sull&#39;asse Y
 
-**Rilievo**
+**Effetto rilievo**
 
-* **Usa rilievo bordo**: attiva/disattiva\
-  Attivate/disattivate se rendere in rilievo il bordo del pattern scelto
-* **Inversione rilievo bordo**: attiva/disattiva\
-  Invertire il height dei bordi in rilievo
-* **Intensità rilievo bordo**: 0-1\
-  Modificare l’intensità dell’effetto rilievo
-* **Usa rilievo riempimento**: attiva/disattiva\
-  Attivate/disattivate se rendere in rilievo il riempimento del pattern scelto
-* **Inversione rilievo riempimento**: attiva/disattiva\
-  Invertire il height dell’effetto rilievo riempimento
-* **Intensità rilievo riempimento**: 0-1\
-  Modificare l’intensità dell’effetto rilievo
+* **Usa Effetto rilievo bordo**: attiva/disattiva\
+  Attiva/disattiva l’effetto rilievo del bordo del pattern scelto
+* **Inversione Effetto rilievo bordo**: attiva/disattiva\
+  Invertire il height dell&#39;effetto rilievo del bordo
+* **Intensità Effetto rilievo bordo**: 0-1\
+  Modificare l’intensità dell’effetto effetto rilievo
+* **Usa Effetto rilievo riempimento**: attiva/disattiva\
+  Attivate/disattivate l’effetto rilievo del riempimento del pattern scelto
+* **Inversione Effetto rilievo riempimento**: attiva/disattiva\
+  Invertire il height dell’effetto effetto rilievo riempimento
+* **Intensità Effetto rilievo riempimento**: 0-1\
+  Modificare l’intensità dell’effetto effetto rilievo
 
 **Pattern**
 
@@ -85,10 +85,10 @@ Metti in rilievo il testo o i pattern sui tuoi materiali.
 * **Scostamento motivo**: 0-1\
   Scostate ciascuna riga del pattern dalla riga precedente.
 * **Usa rugosità pattern**: attiva/disattiva\
-  Abilitate questa opzione per ignorare la rugosità del materiale sottostante con un valore di rugosità personalizzato ovunque venga visualizzato l’effetto rilievo.\
+  Abilita questa opzione per ignorare la rugosità del materiale sottostante con un valore di rugosità personalizzato ovunque appaia l’effetto effetto rilievo.\
   Quando questa opzione è attivata, verrà visualizzato un controllo **Rugosità pattern** per impostare la rugosità.
 * **Usa criterio metallico**: attiva/disattiva\
-  Attivate questa opzione per ignorare i valori metallici del materiale sottostante con un valore metallico personalizzato ovunque venga visualizzato l’effetto rilievo.\
+  Abilitate questa opzione per ignorare i valori metallici del materiale sottostanti con un valore metallico personalizzato ovunque appaia l’effetto effetto rilievo.\
   Quando questa opzione è attivata, verrà visualizzato un controllo **Metallico pattern** per impostare la rugosità.
 
 **Testo** - Questa sezione viene visualizzata solo se **Selezione pattern** in **Parametri di base** è impostato su **Testo**
@@ -103,8 +103,8 @@ Metti in rilievo il testo o i pattern sui tuoi materiali.
 **Gomma**
 
 * **Gomma normale**: 0-1
-* **Occlusione ambiente gomma**: 0-1
-* **Opacità gomma**: 0-1
+* **Occlusione ambientale Gomma**: 0-1
+* **Opacità Gomma**: 0-1
 
 **Parametri avanzati**
 
@@ -118,6 +118,6 @@ Questi parametri consentono di regolare i valori per l&#39;intero materiale.
 
 ## Guida all’uso
 
-Aggiungete il filtro Rilievo nella parte superiore della serie di livelli, quindi iniziate a regolare i parametri.
+Aggiungete il filtro Rilievo nella parte superiore della Pila livelli, quindi iniziate a regolare i parametri.
 
-I parametri più importanti sono in genere **Parametri di base > Selezione pattern** per modificare il pattern che verrà utilizzato dal filtro e **Pattern > Usa porzione pattern** per attivare e disattivare la suddivisione in porzioni.
+I parametri più importanti sono in genere **Parametri di base > Selezione pattern** per modificare il pattern che verrà utilizzato dal filtro e **Pattern > Usa porzione pattern** per attivare e disattivare l’Affiancamento.

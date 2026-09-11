@@ -28,7 +28,7 @@ Le principali novità includono:
 
 ## Azioni rapide
 
-Avvia tutti i flussi di lavoro principali di Sampler con un solo clic e prepara lo stack di livelli.
+Avvia tutti i flussi di lavoro principali di Sampler con un solo clic e prepara la Pila livelli.
 
 Ulteriori informazioni *[qui](../interface/panels/quick-actions-panel.md)*.
 
@@ -70,21 +70,21 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/h
 
 * [Onboarding] Nuova home page con accesso rapido a contenuti di apprendimento, progetto di esempio, azioni rapide e progetti recenti.
 * [Onboarding] Inizia rapidamente con le nuove Azioni rapide, accessibili dalla pagina principale e dal pannello dedicato
-* [Onboarding] [Contenuto] Le azioni rapide sono flussi di lavoro predefiniti che popolano la pila di livelli con la maggior parte dei livelli utilizzati
+* [Onboarding] [Contenuto] Le azioni rapide sono flussi di lavoro predefiniti che popolano la Pila livelli con i livelli più utilizzati
 * [Onboarding] Possibilità di creare un nuovo progetto tramite un nuovo menu di avvio rapido, tramite azioni rapide o Progetto personalizzato
 * [Onboarding] Possibilità di creare un progetto vuoto direttamente dalla home page tramite il pulsante dedicato
-* [Vista 3D] Nuova rasterizzazione avanzata e tracciamento dei percorsi con nuove funzionalità di rendering (proprietà come rivestimento, lucentezza, translucenza, dispersione sottosuperficiale) e coerenza visiva nell&#39;ecosistema Substance
-* [Vista 3D] Le impostazioni del visualizzatore sono ora accessibili direttamente nella vista 3D
-* [Vista 3D] Possibilità di salvare un&#39;istantanea di rendering negli Appunti o nei file
-* [Vista 3D] Visualizza una griglia per visualizzare l&#39;origine della scena
-* [Vista 3D] Abilita il piano terreno per catturare ombre e riflessi
-* [Vista 3D] Controlla la visibilità e l’opacità del piano terreno
+* [vista 3D] Nuovo rasterizzatore avanzato e tracciatore di percorsi con nuove funzionalità di rendering (proprietà come rivestimento, lucentezza, traslucidità, dispersione sottosuperficiale) e coerenza visiva nell&#39;ecosistema Substance
+* [vista 3D] Le impostazioni del visualizzatore sono ora accessibili direttamente nella vista 3D
+* [vista 3D] Possibilità di salvare un’istantanea di rendering negli Appunti o nei file
+* [vista 3D] Visualizza una griglia per visualizzare l’origine della scena
+* [vista 3D] Consente al piano terreno di catturare ombre e riflessi
+* [vista 3D] Controlla il livello di riflessione e opacità del piano terreno
 * [capture 3D] Posizionare la trama a terra
 * [Applicazione] Verifica la compatibilità hardware all&#39;avvio dell&#39;applicazione
-* [Applicazione] La finestra di segnalazione degli arresti anomali ora si apre subito dopo l’arresto anomalo
+* [Applicazione] La finestra di reporting degli Arresti anomali si apre ora subito dopo l&#39;arresto anomalo
 * [Content] Apri un progetto di esempio per iniziare facilmente
-* [Esportazione] Esportare lo shader di materiali standard Adobe in file USD
-* [Intelligenza artificiale generativa] Seleziona il tag &quot;Non dedurre&quot; quando si utilizza l&#39;immagine come input nei flussi di lavoro da immagine a texture
+* [Esportazione] Esportazione di shader Adobe Standard Material nei file USD
+* [Intelligenza artificiale generativa] Seleziona il tag &quot;Non dedurre&quot; quando si utilizza l&#39;immagine come input nei flussi di lavoro Immagine per Texture
 * [Progetto] Le miniature vengono memorizzate nel file di progetto per velocizzare l’apertura dei progetti
 * [Progetto] Impostazione nelle preferenze per memorizzare i dati della cache all&#39;interno del file di progetto, con modalità diverse (nessuna cache, cache leggera, cache completa)
 * [Scripting] [Breaking change] Migrazione Qt a Qt6.15 - impatto sulla compatibilità dei plug-in esistenti
@@ -96,8 +96,8 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/h
 
 <b>Corretto:</b>
 
-* [capture 3D] Arresto anomalo se non è possibile avviare Acquisizione oggetto in macOS
-* [Applicazione] Arresto anomalo all’uscita
+* [capture 3D] Arresto anomalo in cui non è possibile avviare Object Capture in macOS
+* [Applicazione] Arresto anomalo all&#39;uscita
 * [Applicazione] Blocco all’uscita durante l’aggiunta delle risorse al pannello Progetto
 * [Applicazione] La ridenominazione di una risorsa di progetto non funziona a meno che non si preme invio
 * [Applicazione] Le voci del menu Annulla e Ripeti non sono disattivate quando dovrebbero essere

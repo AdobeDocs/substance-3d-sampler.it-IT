@@ -27,9 +27,9 @@ Questa pagina contiene i cataloghi delle modifiche per le versioni beta di Sampl
 >Le versioni beta di Sampler non sono sempre disponibili. Per scoprire quando verranno rilasciate le future versioni beta, segui i canali social di Substance 3D.
 
 
-## 4.4.0 Beta - Da testo a texture
+## 4.4.0 Beta - Da testo a Texture
 
-Stiamo introducendo il testo nella texture basato sull’Adobe Firefly, un nuovo modo per gli artisti di creare immagini di texture utilizzando solo una descrizione. Questa nuova funzione estende il toolbox dell&#39;artista oltre l&#39;importazione di fotografie personalizzate o d&#39;archivio, fornendo un modo per generare texture direttamente in Sampler. Tutte le immagini con testo in texture sono quadrate e affiancabili con prospettiva corretta, pronte per il flusso di lavoro di creazione del materiale.
+Stiamo introducendo il testo nella Texture basato sull’Adobe Firefly, un nuovo modo per gli artisti di creare immagini di texture utilizzando solo una descrizione. Questa nuova funzione estende il toolbox dell&#39;artista oltre l&#39;importazione di fotografie personalizzate o d&#39;archivio, fornendo un modo per generare texture direttamente in Sampler. Tutte le immagini Text to Texture sono quadrate e affiancabili con una Prospettiva adeguata, pronte per il flusso di lavoro di creazione del materiale.
 
 ![](../assets/wood-ui.png)
 
@@ -50,7 +50,7 @@ Stiamo introducendo il testo nella texture basato sull’Adobe Firefly, un nuovo
 <b>Aggiunto:</b>
 
 * [Firefly] Nuovo pannello Generativo (beta)
-* [Firefly] Genera texture affiancabili da un prompt
+* [Firefly] Genera texture affiancabile da un prompt
 * [Firefly] Genera più variazioni dopo una prima generazione
 * [Firefly] Aggiungi un risultato come livello o nella libreria Risorse
 * [Firefly] Sfoglia la cronologia dei prompt precedenti

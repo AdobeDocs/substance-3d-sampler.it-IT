@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/perforate.html"
 breadcrumb-title: ''
-description: Utilizzate il generatore Perforazione di Substance 3D Sampler per creare pattern perforati e matrici di fori in materiali e texture.
+description: Utilizzate il generatore Perforazione di Substance 3D Sampler per creare pattern perforati e array di fori in materiali e texture.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Perforate
 helpx_experience_level: ""
@@ -79,7 +79,7 @@ Utilizzate il filtro Perfora per aggiungere fori al materiale.
   * **Inverti mappa scala**: attiva/disattiva\
     Invertire i valori della mappa scala
   * **Mappa scala personalizzata**: immagine/pennello\
-    Importa un&#39;immagine da utilizzare come mappa scala o utilizza il pennello per disegnare una mappa scala direttamente nella **2D** **vista**
+    Importa un&#39;immagine da utilizzare come mappa scala o utilizza il pennello per pittura una mappa scala direttamente nella **vista 2D** **vista**
 
 **Maschera**
 
@@ -91,7 +91,7 @@ Questa sezione è visibile solo se è abilitato **Parametri di base > Usa masche
 * **Soglia maschera**: 0-1\
   Modificate la soglia della maschera. Utilizzate insieme i valori **Sfocatura maschera** e **Soglia maschera** per perfezionare i bordi della maschera.
 * **Maschera personalizzata**: immagine/pennello\
-  Importa un&#39;immagine da utilizzare come maschera o dipingi la tua maschera direttamente nella **vista 2D**
+  Importa un&#39;immagine da utilizzare come maschera o pittura una maschera direttamente in **Vista 2D**
 
 **Perforazione**
 
@@ -123,4 +123,4 @@ Questa sezione è visibile solo se è abilitato **Parametri di base > Usa masche
 * **Intensità normale**: da -1 a 1\
   Regolare la forza di ogni perforazione normale
 * **Intensità Height**: 0-1\
-  Regolare la forza di ciascuna mappa del height di perforazioni
+  Regolare l&#39;intensità di ciascuna mappa dell&#39;altezza delle perforazioni

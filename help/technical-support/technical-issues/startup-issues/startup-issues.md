@@ -21,4 +21,4 @@ ht-degree: 0%
 # Problemi di avvio
 
 * [L&#39;applicazione non si avvia su Linux](application-doesn-t-start-on-linux.md)
-* [Arresto anomalo all’avvio - Versione precedente di Obs](crash-at-start-up-old-obs-version.md)
+* [Arresto anomalo all’avvio - Versione precedente dell’Obs](crash-at-start-up-old-obs-version.md)

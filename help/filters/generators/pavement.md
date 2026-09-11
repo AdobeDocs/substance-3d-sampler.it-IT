@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/pavement.html"
 breadcrumb-title: ''
-description: Utilizza il generatore di pavimenti in Substance 3D Sampler per creare trame di pavimentazione e superficie stradale realistiche per i materiali.
+description: Utilizzate il generatore di pavimenti in Substance 3D Sampler per creare texture di pavimentazione e di superficie stradale realistiche per i materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Pavement
 helpx_experience_level: ""
@@ -85,7 +85,7 @@ Ogni pattern dispone di un diverso set di parametri che verranno visualizzati qu
 * **Dimensioni superficie (cm)**: 0-1000\
   Regolare la dimensioni fisiche rappresentata dal materiale
 * **Scala Height di superficie (cm)**: 0-1000\
-  Modificare lo spazio fisico rappresentato dalla mappa del height
+  Modificare lo spazio fisico rappresentato dalla mappa dell&#39;altezza
 * **Smoothness superficie**: 0-1\
   Controllare la quantità di variazione e dettaglio nella superficie
 * **Surface Poke**: 0-1\

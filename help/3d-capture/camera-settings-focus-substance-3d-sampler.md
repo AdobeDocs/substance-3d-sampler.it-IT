@@ -60,7 +60,7 @@ Se avete 2 o più fotografie con diverse aree di interesse, caricatele in livell
 
 Seleziona tutti i livelli e passa a <b>Modifica</b> > <b>Allineamento automatico livelli</b>. Premi OK con le impostazioni predefinite. Photoshop proverà a eseguire un allineamento con perfezionamento pixel di tutti i livelli selezionati
 
-Passa quindi a <b>Modifica</b> > <b>Fusione automatica livelli</b>. Di nuovo, scegli ok con tutte le impostazioni predefinite. Photoshop fonderà insieme le parti più nitide dei livelli.
+Passa quindi a <b>Modifica</b> > <b>Fusione automaticamente livelli</b>. Di nuovo, scegli ok con tutte le impostazioni predefinite. Photoshop fonderà insieme le parti più nitide dei livelli.
 
 Se tutto è andato bene, ora avete una fotografia perfettamente nitida. Vale la pena trasformare almeno alcuni di questi passaggi in un&#39;azione registrata, per farti risparmiare un po&#39; di tempo.
 

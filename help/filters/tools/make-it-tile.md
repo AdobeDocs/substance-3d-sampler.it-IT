@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
-description: Usate lo strumento Crea porzioni in Substance 3D Sampler per creare automaticamente pattern di porzioni senza interruzioni da texture che non sono porzioni.
+description: Usa lo strumento Crea porzioni in Substance 3D Sampler per creare automaticamente pattern di Affiancamento senza interruzioni da texture non Affiancamenti.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Make it Tile
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ## Descrizione
 
-Utilizza il **filtro Affianca** per rendere affiancabile il materiale. Anche il **filtro in porzioni** rende affiancabile il materiale, ma ogni filtro funziona in modo diverso. Se il **filtro Affianca** non funziona, provare il **filtro Affianca**.
+Utilizza il **filtro Affianca** per rendere affiancabile il materiale. Anche il **filtro Affiancamento** rende affiancabile il materiale, ma ogni filtro funziona in modo diverso. Se il **filtro Affianca** non funziona, provare il **filtro Affiancamento**.
 
-Nelle immagini seguenti, puoi vedere come il **filtro Affianca** può convertire un materiale non affiancato in un materiale affiancabile. Questo materiale si affianca bene perché segue un pattern a griglia e non ci sono punti specifici che attirano l&#39;attenzione.
+Nelle immagini seguenti, puoi vedere come il **filtro Crea porzione** può convertire un materiale non Affiancamento in un materiale affiancabile. Questo materiale si affianca bene perché segue un pattern a griglia e non ci sono punti specifici che attirano l&#39;attenzione.
 
 ![](../../assets/3d-2d-filters-cropped-0015-make-it-tile-in.jpg)
 
@@ -64,7 +64,7 @@ Dopo aver **reso piastrella**, questo materiale piastrella bene e senza la linea
 * **Color Equalizer**: 0-50\
   Equalizza i valori di colore per ridurre la visibilità della giuntura.
 * **Height corrispondente**:\
-  Modifica il metodo di fusione delle mappe height per i livelli superiore e inferiore del filtro. Per visualizzare i risultati in modo più chiaro, visualizzare il canale di height nella **vista 2D**. Tenete presente che la corrispondenza dei height non influisce sui canali diversi dal canale del height, pertanto le normali e l’AO non saranno influenzate dalle modifiche apportate alla corrispondenza dei height.
+  Modifica il metodo di fusione delle mappe altezza per il livello superiore e inferiore del filtro. Per visualizzare i risultati in modo più chiaro, visualizzare il canale di height nel **Vista 2D**. Tenete presente che la corrispondenza dei height non influisce sui canali diversi dal canale del height, pertanto le normali e l’AO non saranno influenzate dalle modifiche apportate alla corrispondenza dei height.
 
 **Parametri avanzati**
 
@@ -86,7 +86,7 @@ Il **riquadro** **filtro** funziona sovrapponendo più copie del materiale l&#39
 L’immagine seguente mostra il layout dei livelli:
 
 * Il perimetro verde mostra i bordi del materiale risultante dal **filtro Porzione**
-* Le linee rosse mostrano i bordi del livello inferiore. Lo strato inferiore è scostato del 50% dello spazio UV sugli assi X e Y, quindi le linee rosse sono giunture in porzioni che devono essere coperte.
+* Le linee rosse mostrano i bordi del livello inferiore. Lo strato inferiore è scostato del 50% dello spazio UV sugli assi X e Y, quindi le linee rosse sono giunture Affiancamenti che devono essere coperte.
 * Il quadrato blu e i semicerchi coprono le cuciture rosse. I parametri del filtro consentono di regolare i bordi delle forme blu per garantire che la giuntura rossa non sia visibile, mantenendo la giuntura blu il più uniforme possibile.
 
 ![](../../assets/makeittilediagram.png){width="512px"}

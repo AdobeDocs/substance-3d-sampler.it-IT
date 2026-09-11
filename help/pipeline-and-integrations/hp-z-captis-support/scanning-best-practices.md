@@ -19,7 +19,7 @@ In questa pagina sono illustrate due aree che fanno la differenza maggiore: **pr
 
 ## Preparare il campione fisico
 
-Tutto ciò che è visibile sul campione quando viene acquisito viene inserito nelle mappe. Alcuni minuti di preparazione rimuovono i problemi alla sorgente, prima che diventino lavoro di editing.
+Tutto ciò che è visibile sul campione quando viene acquisito viene eseguito i baking nelle mappe. Alcuni minuti di preparazione rimuovono i problemi alla sorgente, prima che diventino lavoro di editing.
 
 **Pulire l&#39;esempio**
 

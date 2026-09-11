@@ -20,9 +20,9 @@ ht-degree: 2%
 Gli strumenti disponibili nella barra laterale sinistra sono scelte rapide per un accesso più rapido ai filtri più comuni. Per ulteriori informazioni, consulta i **[filtri](../../filters/filters.md) > [strumenti](../../filters/tools/tools.md)** o segui i collegamenti riportati di seguito per ogni strumento nella barra laterale:
 
 * [Ritaglia](../../filters/tools/crop-tool.md)
-* [Trasformazione prospettica](../../filters/tools/perspective-correction.md)
+* [Prospettiva Trasforma](../../filters/tools/perspective-correction.md)
 * [Trasforma](../../filters/tools/transform.md)
-* [Timbro clone](../../filters/tools/clone-stamp.md)
+* [Clona /Clone timbro](../../filters/tools/clone-stamp.md)
 
 Gli strumenti e le funzionalità non filtranti sono descritti nei seguenti articoli:
 

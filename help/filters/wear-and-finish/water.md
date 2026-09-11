@@ -58,7 +58,7 @@ Usa **Filtro Erosione** per indossare macchie alte sul tuo materiale.
 * **Maschera personalizzata**: attiva/disattiva\
   Quando questa opzione è attivata, viene visualizzato il controllo aggiuntivo seguente:
   * **Maschera**: immagine/pennello\
-    Selezionate un&#39;immagine da utilizzare come maschera personalizzata o usate il pennello per colorare una maschera direttamente nella **vista 2D**.
+    Selezionare un&#39;immagine da utilizzare come maschera personalizzata oppure utilizzare il pennello per pittura una maschera direttamente nella **Vista 2D**.
 
 **Dirt**
 
@@ -82,7 +82,7 @@ Questa sezione viene visualizzata solo se è abilitato **Parametri di base > Abi
 * **Distanza bagnata bordi**: 0-1\
   Controllate la distanza nelle aree asciutte in cui si estende l’umidità dei bordi.
 * **Quantità sfocatura Profondità**: 0-1\
-  Regolate la quantità di sfocatura del colore di base per le aree subacquee.
+  Regolate la quantità di sfocatura del colore di base per le aree sott’acqua.
 * **Opacità sfocatura Profondità**: 0-1\
   Regolate la trasparenza dell&#39;acqua.
 * **Colore fango**: selezione colore\

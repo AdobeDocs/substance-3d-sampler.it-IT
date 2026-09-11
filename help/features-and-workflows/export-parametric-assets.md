@@ -20,11 +20,11 @@ ht-degree: 1%
 
 # Esporta risorse parametriche
 
-I parametri esposti possono essere modificati in altre applicazioni senza dover tornare a Sampler. In questo modo è possibile ridurre il tempo di iterazione per concentrarsi sulla ricerca dell&#39;aspetto migliore senza dover passare da un&#39;applicazione all&#39;altra.
+I parametri esposti possono essere modificati in altre applicazioni senza dover tornare a Sampler. In questo modo è possibile ridurre i tempi di iterazione e concentrarsi sulla ricerca dell&#39;aspetto migliore senza dover passare da un&#39;applicazione all&#39;altra.
 
 ## Esporre e annullare l&#39;esposizione dei parametri
 
-Per esporre i parametri, apri il **pannello Proprietà**. Passate il mouse o fate clic con il pulsante destro del mouse sul parametro desiderato, quindi fate clic sull’icona a forma di puntina o su &quot;esponete questo parametro&quot;.
+Per esporre i parametri, apri il **pannello Proprietà**. Passa il mouse o fai clic con il pulsante destro del mouse sul parametro desiderato, quindi fai clic sull&#39;icona del segnaposto o su &quot;esponi questo parametro&quot;.
 
 ![](../assets/ezgif-com-gif-maker-2.gif)
 
@@ -33,7 +33,7 @@ Per esporre i parametri, apri il **pannello Proprietà**. Passate il mouse o fat
 * Nel **Pannello dei parametri esposti**, fai clic con il pulsante destro del mouse sul parametro e scegli &quot;unexpose&quot;.
 
   ![](../assets/ezgif-com-gif-maker-3.gif)
-* Nel **pannello Proprietà** fate clic sull&#39;icona del puntino incrociato o sul parametro con il pulsante destro del mouse e scegliete &quot;annulla l&#39;esposizione del parametro&quot;.
+* Nel **pannello Proprietà**, fai clic sull&#39;icona del segnaposto incrociato oppure fai clic con il pulsante destro del mouse sul parametro e scegli &quot;annulla l&#39;esposizione di questo parametro&quot;.
 
   ![](../assets/ezgif-com-gif-maker-4.gif)
 

@@ -90,9 +90,9 @@ Utilizzato quando il filtro Riempimento viene applicato ai canali di colore.
 * Colore
 Seleziona il colore RGB utilizzato per riempire il canale.
 * Valore personalizzato
-Passa a Attiva/Disattiva per aprire la mappa personalizzata. Seleziona un&#39;immagine per sostituire il canale selezionato con, o dipingi direttamente nella **vista 2D**.
+Passa a Attiva/Disattiva per aprire la mappa personalizzata. Seleziona un&#39;immagine per sostituire il canale selezionato con o pittura direttamente nella **Vista 2D**.
 * Seme casuale
-Modifica la randomizzazione utilizzata quando sono attivate le variazioni procedurali.
+Modifica la casualità utilizzata quando sono attivate le variazioni procedurali.
 * Metodo fusione
 Determina il modo in cui il riempimento si fonde con i livelli sottostanti (ad esempio: Copia, Aggiungi, Moltiplica).
 * Opacità
@@ -116,9 +116,9 @@ Utilizzato quando il filtro Riempimento viene applicato a canali in scala di gri
 * Valore
 Imposta un singolo valore in scala di grigi per il canale.
 * Seme casuale
-Modifica la randomizzazione utilizzata quando sono attivate le variazioni procedurali.
+Modifica la casualità utilizzata quando sono attivate le variazioni procedurali.
 * Valore personalizzato
-Passa a Attiva/Disattiva per aprire la mappa personalizzata. Seleziona un&#39;immagine per sostituire il canale selezionato con, o dipingi direttamente nella **vista 2D**.
+Passa a Attiva/Disattiva per aprire la mappa personalizzata. Seleziona un&#39;immagine per sostituire il canale selezionato con o pittura direttamente nella **Vista 2D**.
 * Metodo fusione
 Copia, Aggiungi (Scherma lineare), Subastratta, Moltiplica, Aggiungi sotto, Max (Schiarisci), Min (Scurisci), Interruttore, Dividi, Sovrapponi, Schermo, Luce soffusa.
 Seleziona il metodo di fusione per fondere l’input personalizzato con i livelli sottostanti.
@@ -127,7 +127,7 @@ Regola l’opacità delle nuove informazioni del canale in relazione alle inform
 
 Questa modalità è utile per definire proprietà fisiche uniformi, come rugosità costante o valore di opacità.
 
-#### Parametri mappa normale
+#### Mappa normale parametri
 
 Utilizzato quando il filtro Riempimento viene applicato a **Canali normali**.
 
@@ -139,9 +139,9 @@ Utilizzato quando il filtro Riempimento viene applicato a **Canali normali**.
 ##### Parametri disponibili
 
 * Seme casuale
-Modifica la randomizzazione utilizzata quando sono attivate le variazioni procedurali.
+Modifica la casualità utilizzata quando sono attivate le variazioni procedurali.
 * Valore personalizzato
-Passa a Attiva/Disattiva per aprire la mappa personalizzata. Seleziona un&#39;immagine per sostituire il canale selezionato con, o dipingi direttamente nella **vista 2D**.
+Passa a Attiva/Disattiva per aprire la mappa personalizzata. Seleziona un&#39;immagine per sostituire il canale selezionato con o pittura direttamente nella **Vista 2D**.
 * Opacità
 Regola l’opacità delle nuove informazioni del canale in relazione alle informazioni esistenti del canale. In altre parole, questo controlla l’opacità della maschera usata per applicare il nuovo riempimento del canale.
 
@@ -158,10 +158,10 @@ Utilizzato per i canali che si basano su un singolo valore fisico uniforme anzic
 #### Parametri disponibili
 
 * Seme casuale
-Modifica la randomizzazione utilizzata quando sono attivate le variazioni procedurali.
+Modifica la casualità utilizzata quando sono attivate le variazioni procedurali.
 * Valore
 Definisce il valore costante applicato al canale.
-* Metodo fusione
+* Modalità Fusione
 Tra Normale e Moltiplica
 
 Questa modalità è particolarmente utile quando si utilizzano comportamenti avanzati per i materiali introdotti tramite i modelli, in cui alcune proprietà sono controllate da valori scalari anziché da mappe.
@@ -174,6 +174,6 @@ Il filtro Riempimento viene in genere utilizzato per:
 * Ignora valori di canale esistenti
 * Imposta proprietà fisiche uniformi (ad esempio rugosità fissa o metallizzazione)
 * Neutralizzare i canali, ad esempio Normale, prima di ricostruire i dettagli
-* Modifica rapida delle proprietà avanzate, ad esempio i valori di sfumatura, traslucidità o rivestimento
+* Modifica rapida delle proprietà avanzate, come fuzz, traslucidità o valori di rivestimento
 
 Poiché il filtro Riempimento si adatta automaticamente al canale selezionato, fornisce un flusso di lavoro coerente e prevedibile per tutti i tipi di materiale.

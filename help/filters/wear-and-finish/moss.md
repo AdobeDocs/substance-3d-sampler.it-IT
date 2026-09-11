@@ -80,7 +80,7 @@ Questa sezione viene visualizzata solo se è stata scelta **Maschera personalizz
 * **Maschera personalizzata - Inverti**: attiva/disattiva\
   Invertite la maschera.
 * **Maschera personalizzata**: immagine/pennello\
-  Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+  Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
 
 **Moss**
 
@@ -123,4 +123,4 @@ I seguenti parametri sono disponibili indipendentemente dall&#39;opzione selezio
 
 * **Intensità normale**: 0-1\
   Regolate la forza delle normali del muschio.
-* **Intensità Occlusione ambiente** Controlla l&#39;intensità dell&#39;occlusione ambiente del muschio.
+* **Intensità Occlusione ambientale** Controlla l&#39;intensità dell&#39;occlusione ambientale del muschio.

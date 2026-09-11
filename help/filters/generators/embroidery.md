@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/embroidery.html"
 breadcrumb-title: ''
-description: Usa il generatore di ricami in Substance 3D Sampler per creare pattern di tessuto ricamato e trame di giuntura per i materiali.
+description: Usa il generatore di ricami in Substance 3D Sampler per creare pattern di tessuto ricamato e texture per cuciture per i materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Embroidery
 helpx_experience_level: ""
@@ -43,7 +43,7 @@ Nell’immagine sopra, l’immagine sorgente è stata importata. L’immagine è
 
 ![](../../assets/3d-2d-filters-cropped-0034-embroidery-out.jpg)
 
-Nell&#39;immagine precedente, il **filtro Ricamo** è stato aggiunto alla pila di livelli e ha convertito l&#39;immagine sorgente in una patch ricamata. L&#39;immagine di origine è opaca, ma l&#39;output del **filtro Ricamo** è trasparente.
+Nell&#39;immagine precedente, il **filtro Ricamo** è stato aggiunto alla Pila livelli e ha convertito l&#39;immagine di origine in una patch ricamata. L&#39;immagine di origine è opaca, ma l&#39;output del **filtro Ricamo** è trasparente.
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ Ulteriori informazioni [qui](../../pipeline-and-integrations/tajima-exporter-plu
 * <b>Numero casuale</b>:\
   Valore di inizializzazione casuale su cui sono basati tutti gli altri parametri casuali in questo filtro.
 * <b>Immagine</b>: immagine/maschera\
-  Seleziona un&#39;immagine dal tuo sistema o dipingi una maschera personalizzata.
+  Seleziona un&#39;immagine dal tuo computer o pittura una maschera personalizzata.
 * <b>Conteggio colori</b>: 1-8\
   Il filtro per ricami proverà a suddividere le immagini importate in colori separati: modifica questo valore per cambiare il numero di colori utilizzati.
 * <b>Densità</b>: 80-300\
@@ -94,8 +94,8 @@ Usate i controlli per regolare ogni zona di colore singolarmente.
   Modificate il valore di rugosità per rendere il ricamo ruvido o lucido.
 * <b>Metallico: </b>0-1\
   Modificate il valore Metallico per aggiungere un tocco metallico ai filetti.
-* <b>Livello Anisotropia: </b>0-1\
-  Modificate il livello di Anisotropia per accentuare la metallizzazione.
+* <b>Livello di anisotropia: </b>0-1\
+  Modificate il Livello di anisotropia per accentuare la metallizzazione.
 
 <b>Avanzate</b>
 
@@ -116,8 +116,8 @@ Inizialmente il filtro Ricamo può essere un po&#39; confuso, ma con pochi param
 
 Per usare il filtro Ricamo:
 
-1. Aggiungi il filtro Ricamo al gruppo di livelli.
-1. Utilizzate <b>Parametri di base > Immagine</b> per aggiungere un&#39;immagine al filtro oppure aggiungete un&#39;immagine alla pila di livelli sotto il filtro Ricamo (non in uno degli slot di input). Se un&#39;immagine non viene aggiunta a <b>Parametri di base > Immagine</b>, il filtro preleva automaticamente le immagini dai canali di digitalizzazione, se disponibili.
+1. Aggiungi il filtro Ricamo alla tua Pila livelli.
+1. Utilizzate <b>Parametri di base > Immagine</b> per aggiungere un&#39;immagine al filtro oppure aggiungete un&#39;immagine alla Pila livelli sotto il filtro Ricamo (non in uno degli slot di input). Se un&#39;immagine non viene aggiunta a <b>Parametri di base > Immagine</b>, il filtro preleva automaticamente le immagini dai canali di digitalizzazione, se disponibili.
 1. Regolate <b>Parametri di base > Conteggio colori </b> fino a ottenere il bilanciamento del colore corretto per l’immagine. Con un limite di 8 colori, attivate o disattivate i colori per isolare i colori necessari.\
    Il filtro Ricamo funziona meglio con i colori piatti e le immagini illustrate.
 1. Regolate altri parametri per perfezionare l’aspetto del cerotto.
@@ -128,4 +128,4 @@ Per usare il filtro Ricamo:
 1. Aggiungi il filtro Ricamo allo slot di input del filtro Decalcomania.
 1. Seguite i passaggi normali per regolare il pattern Ricamo.
 
-Il livello Decal converte l’input Ricamo in decalcomania: la trasparenza del livello Ricamo spiega al livello decalcomania come mascherare il pattern Ricamato. Con il livello Decal puoi anche spostare il pattern sul materiale o abilitare la funzionalità come affiancamento.
+Il livello Decal converte l’input Ricamo in decalcomania: la trasparenza del livello Ricamo spiega al livello decalcomania come mascherare il pattern Ricamato. Con il livello Decal puoi anche spostare il pattern sul materiale o abilitare la funzionalità come l&#39;Affiancamento.

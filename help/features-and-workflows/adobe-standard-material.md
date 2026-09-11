@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
 breadcrumb-title: ''
-description: Scopri come utilizzare i Materiali standard Adobe in Substance 3D Sampler per creare materiali compatibili con lo standard di materiali Adobe.
+description: Scopri come utilizzare l’Adobe Standard Material in Substance 3D Sampler per creare materiali compatibili con lo standard Adobe per i materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > Adobe Standard Material
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> Per impostazione predefinita, ora Substance 3D Sampler utilizza il modello di materiale [OpenPBR](openpbr.md) anziché il materiale Adobe Standard.
+> Per impostazione predefinita, ora Substance 3D Sampler utilizza il modello di materiale [OpenPBR](openpbr.md) anziché l&#39;Adobe Standard Material.
 
 
 ## Proprietà dei materiali standard
@@ -51,7 +51,7 @@ La visibilità della superficie.
 
 ![](../assets/surface-opacity.jpg)
 
-**occlusione ambiente**
+**Occlusione ambientale**
 
 Ombre provenienti da cavità e pieghe che impediscono alla luce di colpire la superficie.
 
@@ -77,7 +77,7 @@ L’intensità dell’effetto normale.
 
 **Combina normale e height**
 
-Applica la texture normale alla texture del height.
+Applica la texture normale sopra la texture del height.
 
 **Height**
 
@@ -89,15 +89,15 @@ Scala del height in unità di scena. Applicabile sia allo spostamento che alla p
 
 **Livello Height**
 
-Il valore della texture del height che rappresenta lo spostamento zero.
+Valore della texture di height che rappresenta lo spostamento zero.
 
-**Livello di Anisotropia**
+**Livello di anisotropia**
 
-Quantità di estensione delle riflessioni in una direzione lungo la superficie.
+Quantità di allungamento delle riflessioni in una direzione lungo la superficie.
 
 ![](../assets/surface-anisotropy.jpg)
 
-**Angolo di Anisotropia**
+**Angolo di anisotropia**
 
 Rotazione antioraria dell’effetto anisotropo.
 
@@ -203,7 +203,7 @@ Moltiplicatore del thickness di volumi.
 
 ## Proprietà rivestimento
 
-**Opacità pelo**
+**Opacità del rivestimento**
 
 Simula un livello sopra il materiale. Utilizzato per creare cappotti, lacche e vernici trasparenti.
 
@@ -233,12 +233,12 @@ L&#39;intensità dei riflessi di luce sul pelo ad angoli di visuale.
 
 ![](../assets/coat-coatspecular.jpg)
 
-**Pelo normale**
+**Normale dei rivestimenti**
 
 Simula i dettagli della superficie come protuberanze e crepe sulla superficie del pelo.
 
 ![](../assets/coat-coatnormal.jpg)
 
-**Scala normale rivestimento**
+**Scala Normali del rivestimento**
 
-La forza dell&#39;effetto normale del pelo.
+La forza dell’effetto normale dei rivestimenti.

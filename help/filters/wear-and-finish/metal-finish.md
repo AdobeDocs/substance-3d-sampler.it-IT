@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
 breadcrumb-title: ''
-description: Utilizzate il filtro Finitura metallo in Substance 3D Sampler per applicare varie finiture e texture alle superfici metalliche dei materiali.
+description: Utilizzate il filtro Finitura metallo in Substance 3D Sampler per applicare varie finiture e texture di superfici metalliche ai materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Metal Finish
 helpx_experience_level: ""
@@ -96,7 +96,7 @@ Converti il tuo materiale in un metallo con una serie di finiture e stili.
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocate la maschera.
   * **Maschera personalizzata - Inverti**: attiva/disattiva\
@@ -105,7 +105,7 @@ Converti il tuo materiale in un metallo con una serie di finiture e stili.
 **Parametri avanzati**
 
 * **Colore di base**: attiva/disattiva\
-  Consente di impostare se il canale del colore di base è interessato dal filtro.
+  Consente di impostare se il filtro agisce sul canale del colore di base.
 * **Metallico**: attiva/disattiva\
   Imposta se il filtro agisce sul canale metallico.
 * **Rugosità**: attiva/disattiva\
@@ -126,14 +126,14 @@ Converti il tuo materiale in un metallo con una serie di finiture e stili.
 * **Height**: attiva/disattiva\
   Consente di impostare se il filtro agisce sul canale del height.
 * **Emissivo**: attiva/disattiva\
-  Impostare se il canale di emissione è influenzato dal filtro. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
+  Impostate se il filtro agisce sul canale emissivo. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
   * **Emissivo - Colore**: selezione colore\
-    Imposta il colore del canale di emissione.
-* **Occlusione ambiente**: attiva/disattiva\
-  Consente di specificare se il filtro agisce sul canale di occlusione dell’ambiente. Se questa opzione è attivata, compaiono i seguenti controlli aggiuntivi:
-  * **Occlusione ambiente - Intensità**: 0-1\
+    Imposta il colore del canale emissivo.
+* **Occlusione ambientale**: attiva/disattiva\
+  Consente di impostare se il canale di occlusione ambientale è interessato dal filtro. Se questa opzione è attivata, compaiono i seguenti controlli aggiuntivi:
+  * **Occlusione ambientale - Intensità**: 0-1\
     Regolate l’intensità dell’AO generato.
-  * **Occlusione ambiente** **- Raggio**: 0-1\
+  * **Occlusione ambientale** **- Raggio**: 0-1\
     Regolate il raggio dell’effetto AO.
 * **Opacità**: attiva/disattiva\
   Impostate se il filtro agisce sul canale di opacità. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:

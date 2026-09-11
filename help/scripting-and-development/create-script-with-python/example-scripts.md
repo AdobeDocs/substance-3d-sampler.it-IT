@@ -227,7 +227,7 @@ for layer in my_asset_layers:
 ```
 
 
-## Modello stack di livelli
+## Pila livelli modello
 
 Questo script aggiunge automaticamente un set di filtri (definiti all’interno dello script) al materiale corrente.
 

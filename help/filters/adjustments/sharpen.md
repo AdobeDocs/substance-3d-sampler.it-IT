@@ -59,7 +59,7 @@ Usa i predefiniti per cambiare rapidamente i parametri e vedere diversi stili di
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D
+    Seleziona un’immagine da usare come maschera o usa il pennello per pittura una maschera personalizzata direttamente nella Vista 2D
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocare la maschera
   * **Maschera personalizzata - Inverti**: attiva/disattiva\

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/splatter.html"
 breadcrumb-title: ''
-description: Usate il generatore di splatter in Substance 3D Sampler per creare effetti di splatter di vernice e pattern casuali per le texture di materiale.
+description: Usate il generatore di splatter in Substance 3D Sampler per creare effetti di splatter di pittura e pattern casuali per texture di materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Splatter
 helpx_experience_level: ""
@@ -78,7 +78,7 @@ Suddividi le istanze di altri materiali nel tuo materiale.
 * **Regolazione HSL**: 0-1\
   Regolare Tonalità, Saturazione e Luminosità delle istanze
 * **HSL casuale**: 0-1\
-  Controllate la casualità di Tonalità, Saturazione e Luminosità di ogni istanza
+  Controlla la casualità di Tonalità, Saturazione e Luminosità di ogni istanza
 
 **Normale**
 
@@ -111,7 +111,7 @@ Suddividi le istanze di altri materiali nel tuo materiale.
 * **Smoothness Pendenza in background**: 0-2\
   Regola la pendenza dello sfondo ai fini del parametro **Inclina da Pendenza sfondo**
 * **Conformità allo sfondo**: 0-1\
-  Controlla l’impatto della mappa del height di sfondo sulla mappa del height di istanze. In questo modo è possibile ridurre le istanze che contornano i dettagli dello sfondo
+  Controlla l’impatto della mappa dell’altezza dello sfondo sulla mappa dell’altezza delle istanze. In questo modo è possibile ridurre le istanze che contornano i dettagli dello sfondo
 * **Sfondo uniforme**: 0-1\
   Regola quanti dettagli sono visibili a causa della **Conformità allo sfondo**
 
@@ -142,7 +142,7 @@ Il filtro Spruzzo è un modo utile per dare dispersione alle risorse nel materia
 
 Per usare il filtro Spruzzo:
 
-1. Aggiungere il filtro Spruzzo alla pila di livelli
+1. Aggiungere il filtro Spruzzo alla Pila livelli
 1. Sotto il livello di splatter, appariranno gli slot di input
 1. È possibile modificare il numero di slot di input disponibili con **Parametri di base > Input materiale**
 1. Trascina i materiali negli slot di input dello splatter

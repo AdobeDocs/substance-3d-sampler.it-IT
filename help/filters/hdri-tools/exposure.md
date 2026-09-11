@@ -33,13 +33,13 @@ ht-degree: 3%
 
 ## Descrizione
 
-Modificate l&#39;esposizione della luce ambiente.
+Modificate l&#39;esposizione della luce ambientale.
 
-Le immagini seguenti mostrano come utilizzare il **filtro Esposizione** per regolare le luci dell&#39;ambiente.
+Le immagini seguenti mostrano come utilizzare il **filtro Esposizione** per regolare le luci ambientali.
 
 ![](../../assets/3d-2d-filters-cropped-0030-exposure-out.jpg)
 
-L&#39;immagine qui sopra mostra la luce ambiente prima che sia stato aggiunto il **filtro Esposizione**.
+L&#39;immagine sopra mostra la luce ambientale prima dell&#39;aggiunta del **filtro Esposizione**.
 
 ![](../../assets/3d-2d-filters-cropped-0031-exposiure-in.jpg)
 
@@ -54,4 +54,4 @@ Con il **filtro Esposizione**, l&#39;esposizione dell&#39;ambiente è stata aume
 **Parametri di base**
 
 * **Esposizione (EV)**: da -8 a 8\
-  Regola l&#39;esposizione della luce ambiente. EV sta per Valore esposizione ed è un termine fotografico utilizzato per rappresentare la combinazione di velocità dell&#39;otturatore e apertura.
+  Regolate l’esposizione della luce ambientale. EV sta per Valore esposizione ed è un termine fotografico utilizzato per rappresentare la combinazione di velocità dell&#39;otturatore e apertura.

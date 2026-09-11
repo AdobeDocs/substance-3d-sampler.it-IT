@@ -29,9 +29,9 @@ Le opzioni Invia a... consentono di inviare direttamente la risorsa ad altre app
 Attualmente Sampler supporta l&#39;invio a:
 
 * **Substance 3D Painter**: importa materiali e ambienti che puoi utilizzare durante la creazione di texture delle risorse.
-* **Substance 3D Stager**: importa le luci ambiente per cambiare l&#39;umore della scena. Disponibile solo con luci ambiente, disattivata per i materiali.
+* **Substance 3D Stager**: importa luci ambientali per cambiare l&#39;umore della scena. Disponibile solo con luci ambientali, disattivato per i materiali.
 
-I materiali vengono sempre inviati come SBSAR, gli ambienti come EXR.
+I materiali vengono sempre inviati come SBSAR, negli ambienti come EXR.
 
 ## Esporta
 
@@ -50,8 +50,8 @@ Con le impostazioni del materiale selezionate, potete modificare vari parametri 
 | Formato | Scegli se esportare come SBS, SBSAR o come raccolta di immagini in un formato immagine specifico |
 | Predefinito | Seleziona un predefinito per organizzare automaticamente l’esportazione per un’applicazione specifica. [Ulteriori informazioni sui predefiniti sono disponibili qui](../../getting-started/export/default-presets/default-presets.md). I predefiniti sono disponibili solo quando è selezionato un formato di immagine. |
 | Compressione | Scegli se la compressione dà priorità alla velocità o all&#39;efficienza <br> <ul> <li> **Automatico**: consenti a Sampler di scegliere. <li> **Migliore**: ottimizzazione dell&#39;efficienza della compressione per file più piccoli. <li> **Nessuno**: l&#39;assenza di compressione comporta un&#39;apertura e una chiusura più rapide dei file esportati, ma dimensioni maggiori. </ul> |
-| Risoluzione | Modifica la risoluzione dell’esportazione. Questa opzione viene visualizzata in modo diverso in base al formato selezionato <br> <ul> <li> **SBSAR/SBS**: selezionate una larghezza e un height predefiniti per il materiale. Questi possono essere aggiornati in seguito. <li> **Formato immagine**: scegli tra **Output dei livelli**, che esporta ogni mappa con le dimensioni definite dallo stack di livelli, o **Ignora tutto**, che consente di specificare una larghezza e un height per l&#39;esportazione. |
-| Modello di materiale | Seleziona se esportare come materiale standard Adobe o come materiale OpenPBR. L&#39;opzione selezionata dipende dalle altre applicazioni utilizzate nella pipeline. Saranno disponibili diversi canali in base al Modello di materiale. |
+| Risoluzione | Modifica la risoluzione dell’esportazione. Questa opzione viene visualizzata in modo diverso in base al formato selezionato <br> <ul> <li> **SBSAR/SBS**: selezionare una larghezza e un height predefiniti per il materiale. Questi possono essere aggiornati in seguito. <li> **Formato immagine**: scegli tra **Output dei livelli**, che esporta ogni mappa alle dimensioni definite dalla Pila livelli, o **Ignora tutto**, che consente di specificare una larghezza e un height per l&#39;esportazione. |
+| Modello di materiale | Scegliete se esportare come Adobe Standard Material o come materiale OpenPBR. L&#39;opzione selezionata dipende dalle altre applicazioni utilizzate nella pipeline. Saranno disponibili diversi canali in base al Modello di materiale. |
 | Canali | Attivate/disattivate i canali da esportare come parte della risorsa. |
 
 >[!NOTE]

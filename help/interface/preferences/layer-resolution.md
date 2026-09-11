@@ -20,7 +20,7 @@ ht-degree: 2%
 
 # Risoluzione livello
 
-Il sistema di risoluzione dei livelli offre il pieno controllo della risoluzione di ogni livello nel gruppo di livelli. Un livello può assumere la risoluzione delle dimensioni del documento o la risoluzione del livello sottostante.
+Il sistema di risoluzione dei livelli offre il pieno controllo della risoluzione di ogni livello nella Pila livelli. Un livello può assumere la risoluzione delle dimensioni del documento o la risoluzione del livello sottostante.
 
 La risoluzione viene visualizzata su ciascun livello per visualizzare facilmente in che modo qualsiasi lavoro sarà influenzato dalla risoluzione del materiale.
 

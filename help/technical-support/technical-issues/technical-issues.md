@@ -42,10 +42,10 @@ In questa pagina vengono raggruppati i problemi noti più comuni o le domande re
 
 ## Problemi di stabilità
 
-* [Arresto anomalo durante l’esportazione di un materiale](stability-issues/crash-when-exporting-a-material.md)
+* [Arresto anomalo durante l&#39;esportazione di un materiale](stability-issues/crash-when-exporting-a-material.md)
 * [Arresto anomalo quando si utilizza Image to Material o Delighter](stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
 
 ## Problemi di avvio
 
 * [L&#39;applicazione non si avvia su Linux](startup-issues/application-doesn-t-start-on-linux.md)
-* [Arresto anomalo all’avvio - Versione precedente di OBS](startup-issues/crash-at-start-up-old-obs-version.md)
+* [Arresto anomalo all’avvio - Versione OBS precedente](startup-issues/crash-at-start-up-old-obs-version.md)

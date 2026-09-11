@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **Albedo &#x200B;**&#x200B;**Lucidità**&#x200B;**Normale (OpenGL)**&#x200B;**Trasparenza** |
+| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **Albedo &#x200B;**&#x200B;**Lucentezza**&#x200B;**Normale (OpenGL)**&#x200B;**Trasparenza** |

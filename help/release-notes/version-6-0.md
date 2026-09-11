@@ -132,7 +132,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * [Preferenze] Aggiungete una preferenza di modello di materiale predefinita
 * Il predefinito [Predefinito] predefinito ora utilizza l&#39;modello di materiale
 * [Rendering] Abilita il rendering 8K
-* [Rendering] Gestisce l’OpenPBR shader nella scena USD
+* [Rendering] - shader handle nella scena USD
 * [Rendering] Eseguire il rendering delle immagini alle dimensioni del documento quando non si esegue l’esportazione
 * [Scripting] modello di materiale di handle per la creazione di risorse nell&#39;API Python
 * [Scripting] Nuova proprietà MaterialModel sulla risorsa
@@ -187,7 +187,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * [Filtri] Correggere le dimensioni di output del ritaglio
 * [Filtri] Eseguire l&#39;aggiornamento del filtro con il parametro bloccato
 * [Filtri] per evitare l&#39;arresto anomalo di macOS durante la suddivisione automatica
-* [Filtri] Impedisce l&#39;arresto anomalo durante l&#39;ingrandimento se manca un input
+* [Filtri] Impedisce l&#39;arresto anomalo di ingrandimento quando manca un input
 * [Filtri] per evitare l&#39;arresto anomalo durante il caricamento di un filtro composto senza nome di file
 * [Filtri]: modifica della maschera di destinazione duplicata in PatchMatch
 * [Importazione immagini] Correggere la misura manuale automatica per dimensioni fisiche
@@ -226,7 +226,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * [UI] Correggere la modalità di ritorno a capo automatico del selettore unificato
 * [IU] Non consentire l&#39;aggiunta di caratteri speciali nel campo del nome dei metadati
 * La visualizzazione dello strumento misura Dimensioni fisiche [UI] è interrotta
-* [Interfaccia utente] Impedisce l&#39;arresto anomalo durante l&#39;apertura del pannello delle impostazioni del canale
+* [IU] Impedisce l&#39;arresto anomalo durante l&#39;apertura del pannello delle impostazioni dei canali
 * [UI] Impedisce l&#39;arresto anomalo quando si utilizza &#39;Ripristina il layout predefinito&#39;
 * [IU] Impedisce la scomparsa della notifica di aggiornamento nel pannello della struttura
 * [UI] Assegna priorità al filtro dinamico durante la ricerca per nome

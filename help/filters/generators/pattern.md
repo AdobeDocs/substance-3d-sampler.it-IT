@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/pattern.html"
 breadcrumb-title: ''
-description: Utilizzate il generatore di pattern in Substance 3D Sampler per creare pattern procedurali e progetti ripetuti per texture di materiali.
+description: Utilizzate il generatore di serie in Substance 3D Sampler per creare serie di procedurali e progetti ripetuti per texture di materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Pattern
 helpx_experience_level: ""
@@ -78,11 +78,11 @@ Aggiungi un pattern al tuo materiale da una delle opzioni disponibili o usa un&#
   Impostate la ruvidità del colore selezionato in base alla <b>Quantità colore</b>
 * <b>Metallico</b>: 0-1\
   Impostate la ruvidità del colore selezionato in base alla <b>Quantità colore</b>
-* <b>Modalità rilievo</b>: attiva/disattiva\
-  Selezionate la direzione del rilievo del colore selezionato, in base alla quantità di colore <b></b>
-* <b>Intensità rilievo: </b>0-1<b>\
+* <b>Modalità Effetto rilievo</b>: attiva/disattiva\
+  Seleziona la direzione dell&#39;Effetto rilievo del colore selezionato, dipende dalla quantità di colore <b></b>
+* <b>Intensità Effetto rilievo: </b>0-1<b>\
   </b>Regola l&#39;intensità del rilievo del colore selezionato, in base alla <b> quantità di colore</b>
-* <b>Distanza rilievo: </b>0-1\
-  Allunga e smussa la zona in rilievo del colore selezionato, in base alla quantità di colore <b></b>
-* <b>Granulosità rilievo: </b>0-1\
+* <b>Distanza Effetto rilievo: </b>0-1\
+  Allungamento e smussa la zona in rilievo del colore selezionato, in base alla quantità di colore <b></b>
+* <b>Grana Effetto rilievo: </b>0-1\
   Aggiungete granulosità al colore selezionato, in base alla <b>Quantità colore</b>

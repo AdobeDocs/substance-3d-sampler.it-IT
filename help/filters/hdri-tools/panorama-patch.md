@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrizione
 
-Applicare l&#39;area problematica alla luce ambiente. Panorama patch mantiene la trasformazione e l’inclinazione in modo che corrisponda alla patch con la superficie di sfondo in modo naturale.
+Applicate l&#39;area problematica nella luce ambientale. Panorama patch mantiene la trasformazione e l’inclinazione in modo che corrisponda alla patch con la superficie di sfondo in modo naturale.
 
 Le immagini seguenti mostrano la <b>patch panorama </b>in azione - in questo caso, sostituendo il centro di una grande nuvola con cieli aperti.
 
@@ -54,4 +54,4 @@ Le immagini seguenti mostrano la <b>patch panorama </b>in azione - in questo cas
 
 ## Guida all’uso
 
-Aggiungete il **filtro Toppa panorama** nella parte superiore della serie di livelli, quindi utilizzate le maniglie nella **vista 2D** per regolare i percorsi di origine e patch.
+Aggiungete il **filtro Patch panorama** nella parte superiore della Pila livelli, quindi utilizzate le maniglie nella **Vista 2D** per regolare i percorsi di origine e patch.

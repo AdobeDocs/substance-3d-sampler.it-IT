@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/hue-saturation.html"
 breadcrumb-title: ''
-description: Utilizza il filtro Tonalità/Saturazione in Substance 3D Sampler per regolare i valori di tonalità, saturazione e luminosità nelle texture e nei materiali.
+description: Utilizza il filtro Tonalità/Saturazione in Substance 3D Sampler per regolare i valori di tonalità, saturazione e Luminosità in texture e materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > HueSaturation
 helpx_experience_level: ""
@@ -65,7 +65,7 @@ Le immagini seguenti mostrano il **filtro Tonalità/Saturazione** utilizzato per
 * **Saturazione**: da -1 a 1\
   Regolate la saturazione per far risaltare i colori o ridurre l&#39;intensità del colore.
 * **Luminosità**: da -1 a 1\
-  Modificate la luminosità dei colori.
+  Modificate la Luminosità dei colori.
 * **Colora**: attiva/disattiva\
   Quando è disattivato, il filtro regola i colori già presenti. Quando è attivato, il filtro sostituirà i colori in base ai cursori Tonalità, Saturazione e Luminosità mantenendo i dettagli.
 
@@ -74,7 +74,7 @@ Le immagini seguenti mostrano il **filtro Tonalità/Saturazione** utilizzato per
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D
+    Seleziona un’immagine da usare come maschera o usa il pennello per pittura una maschera personalizzata direttamente nella Vista 2D
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocare la maschera
   * **Maschera personalizzata - Inverti**: attiva/disattiva\

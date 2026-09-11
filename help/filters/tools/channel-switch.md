@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
-description: Utilizza lo strumento Cambia canale in Substance 3D Sampler per riorganizzare e scambiare i canali di colore nelle mappe texture per la creazione di materiale.
+description: Utilizza lo strumento Channel Switch in Substance 3D Sampler per riorganizzare e scambiare i canali di colore nelle mappe texture per la creazione di materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Channel Switch
 helpx_experience_level: ""

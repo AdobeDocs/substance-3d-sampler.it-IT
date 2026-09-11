@@ -20,7 +20,7 @@ ht-degree: 2%
 
 # Esporta
 
-Puoi esportare le risorse selezionando **Esporta come** nel **menu File** o con la scelta rapida **Ctrl + E**. Verrà aperta la [finestra Esportazione](../../getting-started/export/export-window/export-window.md) in cui è possibile personalizzare l&#39;esportazione.
+Puoi esportare le tue risorse selezionando **Esporta come** nel **menu File** o con la scelta rapida da tastiera **Ctrl + E**. Verrà aperta la [finestra Esportazione](../../getting-started/export/export-window/export-window.md) in cui è possibile personalizzare l&#39;esportazione.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Puoi esportare le risorse selezionando **Esporta come** nel **menu File** o con 
 Sampler supporta i principali formati di file per le tue risorse:
 
 * I materiali possono essere esportati come file **SBS** o **SBSAR**.
-* In alternativa, è possibile esportare i materiali per le texture bitmap per canale nei seguenti formati:
+* In alternativa, potete esportare i materiali dalle texture bitmap per canale nei seguenti formati:
   * **EXR**
   * **JPEG**
   * **PNG**

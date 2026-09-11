@@ -31,7 +31,7 @@ ht-degree: 0%
 Modifica i materiali parametrici all&#39;interno di qualsiasi software che supporti i file SBSAR, come CLO, UE5, Blender, Photoshop e Illustrator, tra gli altri.\
 Ciò è ora possibile grazie alla nuova capacità di Sampler di esporre i parametri delle risorse, che consente di velocizzare le iterazioni e di eliminare le differenze tra Sampler e altri software.
 
-Esponete i parametri del materiale facendo semplicemente clic su una puntina.
+Esponete i parametri del materiale facendo semplicemente clic su un segnaposto.
 
 I punti colore vi aiuteranno a navigare nei parametri esposti e nei diversi pannelli.
 
@@ -96,19 +96,19 @@ API [Python API] per la gestione dei progetti\
 
 **Corretto:**
 
-[Applicazione] L&#39;applicazione potrebbe arrestarsi in modo anomalo all&#39;uscita quando era in corso la generazione di una miniatura\
-[Applicazione] L’applicazione potrebbe bloccarsi quando si utilizza &quot;Salva con nome&quot; all’uscita\
+[Applicazione] L&#39;applicazione potrebbe uscire quando è in corso la generazione di una miniatura. L&#39;arresto anomalo dell&#39;applicazione può essere eseguito\
+[Applicazione] Potrebbe verificarsi un arresto anomalo dell’applicazione quando si utilizza &quot;Salva con nome&quot; all’uscita\
 [Applicazione] L&#39;applicazione potrebbe bloccarsi durante l&#39;arresto di MacOS\
 [Applicazione] Quando si salva con la finestra di dialogo del colore aperta, le modifiche non vengono salvate\
 [Esporta] La convenzione di denominazione dell’utilizzo non è corretta durante l’esportazione\
-[Livelli] Se si trascina un materiale sopra un filtro, si potrebbe verificare l’arresto anomalo\
-[Livelli] L’aggiornamento di uno stack di livelli obsoleto potrebbe aggiornare stack di livelli non correlati\
+[Livelli] Se si trascina un materiale sopra un filtro si potrebbe verificare l’arresto anomalo\
+[Livelli] L’aggiornamento di una Pila livelli obsoleta potrebbe aggiornare Pile livelli non correlate\
 [Metadati] I campi vuoti vengono esportati\
 [Metadati] Quando è presente un solo elemento di metadati, l’interfaccia utente consente di riordinarlo.\
 [Progetto] Il calcolo non termina mai dopo la duplicazione di un materiale\
 [Progetto] La risorsa del progetto viene duplicata dopo il salvataggio iniziale del progetto\
 [Progetto] Calcoli non necessari quando si cambia risorsa\
-[Rendering] Alcune pile di livelli non vengono renderizzate correttamente dopo l’eliminazione di un livello\
+[Rendering] Alcune Pile livelli non vengono riprodotte correttamente dopo l’eliminazione di un livello\
 [Sicurezza] Correzione di CVE-2015-20107\
 [UI] Gli output 2D possono essere sfocati a seconda delle dimensioni della finestra\
 [UI] L&#39;anteprima delle risorse può rimanere aperta in primo piano quando l&#39;applicazione perde lo stato attivo\

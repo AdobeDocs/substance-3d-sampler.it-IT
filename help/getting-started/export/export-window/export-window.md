@@ -45,7 +45,7 @@ Quando esportate Materiali, il pannello Impostazioni materiale della finestra Es
 
 * <b>Formato</b>: selezionate un formato di file per la risorsa esportata.
   * <b>SBSAR</b>: esporta il tuo materiale per utilizzarlo in qualsiasi applicazione che supporti i materiali di Substance.
-  * <b>SBS</b>: esporta il materiale in modo che possa essere aperto in Substance 3D Designer.
+  * <b>SBS</b>: esportate il materiale in modo che possa essere aperto in Substance 3D Designer.
   * <b>EXR, JPEG, PNG, TARGA, TIFF</b>: esporta il materiale come raccolta di file di immagine.
 
 >[!NOTE]
@@ -63,7 +63,7 @@ Quando esportate Materiali, il pannello Impostazioni materiale della finestra Es
 >
 > La selezione del predefinito non è disponibile quando il formato di esportazione è SBS o SBSAR. Per questi formati, il file di output è già configurato per essere utilizzabile in tutti i prodotti Substance e le integrazioni Substance.
 
-* <b>Tipo di materiale </b>(SBSAR, SBS): selezionare se il materiale esportato si comporta come un materiale standard, una decalcomania o un atlas. Questa impostazione può modificare il modo in cui viene trattata da altre applicazioni che supportano i file SBSAR e SBS.
+* <b>Tipo di materiale </b>(SBSAR, SBS): selezionare se il materiale esportato si comporta come un materiale standard, una decalcomania o un atlas. Questa impostazione può modificare il modo in cui viene trattata dalle altre applicazioni che supportano i file SBSAR e SBS.
 
 ![](../../../assets/screenshot-2023-01-24-at-16-32-58.png)
 
@@ -81,7 +81,7 @@ Quando esportate Materiali, il pannello Impostazioni materiale della finestra Es
 
 ![](../../../assets/SAPR_ResolutionTextures.png)
 
-* **Modello di materiale** (tutti i formati se sono in un predefinito predefinito): selezionate uno standard shader per le texture esportate.
+* **Modello di materiale** (tutti i formati sono in predefinito): selezionate uno standard di shader per la texture esportata.
   * La modifica del Modello di materiale influirà sui nomi dei file esportati. Ad OpenPBR, viene utilizzato &quot;Metalness&quot; invece di ASM, che utilizza &quot;Metallic&quot;.
 
 ### Informazioni aggiuntive

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/plane-light.html"
 breadcrumb-title: ''
-description: Utilizzate lo strumento Luce piano in Substance 3D Sampler per aggiungere sorgenti luminose piane agli ambienti HDRI per creare effetti di luce per area.
+description: Utilizzate lo strumento Luce piano in Substance 3D Sampler per aggiungere sorgenti planari di luce agli ambienti HDRI per creare effetti di illuminazione di area.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > HDRI Tools > Plane Light
 helpx_experience_level: ""
@@ -57,11 +57,11 @@ Aggiungete una luce a forma di piano piano all&#39;ambiente.
       Selezionate il colore della luce.
   * **Input immagine**
     * **Input immagine forma**: immagine/pennello\
-      Importate un’immagine da usare come colore. È possibile utilizzare lo strumento Pennello per colorare direttamente nella **vista 2D**, ma questo filtro può produrre risultati imprevedibili.
+      Importate un’immagine da usare come colore. È possibile utilizzare lo strumento Pennello per eseguire pitture direttamente in **Vista 2D**, ma questo filtro può produrre risultati imprevedibili.
   * **Sfondo di esempio**
     * Lo sfondo di esempio non rende disponibili nuovi parametri, ma basa il colore della luce sui valori dello sfondo.
 * **Modalità posizione**:\
-  Modificate il metodo utilizzato per determinare la posizione delle luci. I parametri nella sezione **Coordinate posizione** verranno modificati in base alla selezione. Con **Posizione universale** selezionato, le maniglie scompariranno dalla **vista 2D** e utilizzate invece i parametri in **Coordinate posizione** per modificare la posizione della luce.
+  Modificate il metodo utilizzato per determinare la posizione delle luci. I parametri nella sezione **Coordinate posizione** verranno modificati in base alla selezione. Con **Posizione universale** selezionato, le maniglie scompariranno dalle **Vista 2D**, ma per modificare la posizione della luce utilizzare i parametri in **Coordinate posizione**.
 
 **Forma**
 
@@ -76,7 +76,7 @@ Aggiungete una luce a forma di piano piano all&#39;ambiente.
 * **Durezza motivo**: 0-1\
   Ammorbidite o sfocate i bordi della luce
 * **Modalità UV modello**:\
-  Scegli se le trasformazioni estendono l&#39;intera forma o solo il centro della forma per mantenere i dettagli dei bordi e degli angoli.
+  Scegli se i Trasforma allungamento l&#39;intera forma o solo il centro della forma per mantenere i dettagli dei bordi e degli angoli.
 
 **Coordinate posizione**
 

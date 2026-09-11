@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrizione
 
-Regolate la temperatura della luce ambiente.
+Regola la temperatura della luce ambientale.
 
 Le immagini seguenti mostrano come utilizzare il **filtro Color temperature adjustment** per rendere la luce di una luce ambiente più calda o più fredda.
 
@@ -70,7 +70,7 @@ Le immagini seguenti mostrano come utilizzare il **filtro Color temperature adju
 * **Maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D
+    Seleziona un’immagine da usare come maschera o usa il pennello per pittura una maschera personalizzata direttamente nella Vista 2D
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocare la maschera
   * **Maschera personalizzata - Inverti**: attiva/disattiva\

@@ -22,11 +22,11 @@ ht-degree: 2%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| Corona Renderer | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li><li data-preserve-html="true">Specular/lucidità PBR</li></ul> | **Diffusione**&#x200B;**RiflessioneGlossità** (\*)**ColoreRiflessione** (\*\*)**FrescoIOR** (\*\*\*)**Normale &#x200B;**&#x200B;**Spostamento**&#x200B;**&#x200B; Emissivo**&#x200B;**Opacità** |
+| Corona Renderer | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li><li data-preserve-html="true">Specular/Lucentezza PBR</li></ul> | **Diffusa**&#x200B;**RiflessioneGlossità** (\*)**ColoreRiflessione** (\*\*)**FrescoIOR** (\*\*\*)**Normale &#x200B;**&#x200B;**Spostamento**&#x200B;**&#x200B; Emissivo &#x200B;**&#x200B;**Opacità** |
 
 >[!NOTE]
 >
-> **(\*)** Riflessione Glossiness: versione quadrata del canale glossiness (Glossiness \* Glossiness)
+> **(\*)** Lucentezza di riflessione: versione quadrata del canale della lucentezza (Lucentezza \* Lucentezza)
 > 
 > **(\*\*)** Colore di riflessione: esporta una mappa in cui il bianco indica materiali dielettrici e altri colori per materiali metallici
 > 

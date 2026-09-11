@@ -55,7 +55,7 @@ La rete neurale è stata addestrata su un&#39;ampia gamma di materiali come tess
 
 ### B2M
 
-L&#39;algoritmo **B2M** utilizza il metodo Bitmap to Material basato su Substance per generare più canali, quali colore di base, normale, metallico, rugosità e occlusione ambientale, utilizzando tecniche procedurali.
+L&#39;algoritmo **B2M** utilizza il metodo Bitmap to Material basato su Substance per generare più canali quali colore di base, normale, metallico, rugosità e occlusione ambientale utilizzando tecniche procedurali.
 
 Questo algoritmo può produrre risultati meno precisi ma funziona su una gamma più ampia di immagini di input.
 

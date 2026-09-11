@@ -50,7 +50,7 @@ Le immagini seguenti mostrano **Color Replace** in azione. Osservate come le are
 * **Segmentazione avanzata**: attiva/disattiva\
   Quando questa opzione è attivata, il filtro può utilizzare un canale separato per generare le informazioni della maschera dal canale interessato dalla funzione Sostituisci colore.
   * **Maschera** **Da**:\
-    Selezionate un canale da usare come sorgente per la generazione della maschera. Ad esempio, maschera dal valore metallico sostituisce il colore di base delle aree metalliche del materiale
+    Selezionate un canale da usare come sorgente per la generazione della maschera. Ad esempio, la maschera del valore metallico sostituisce il colore di base di aree metalliche del materiale
 * **Sostituisci in**:\
   Selezionate il canale interessato dalla sostituzione del colore.
 * **Colore di destinazione**: selezione colore\
@@ -70,12 +70,12 @@ Le immagini seguenti mostrano **Color Replace** in azione. Osservate come le are
 
 **Maschera**
 
-Questa maschera è separata dalla maschera creata con **Parametri di base**: potete usare una maschera personalizzata per colorare o usare un&#39;immagine per specificare le aree su cui agire con il filtro **Sostituzione colore** nel suo insieme.
+Questa maschera è separata dalla maschera creata con **Parametri di base**: potete utilizzare una maschera personalizzata per creare una pittura oppure un&#39;immagine per specificare le aree su cui agire con il filtro **Sostituzione colore** nel suo insieme.
 
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D
+    Seleziona un’immagine da usare come maschera o usa il pennello per pittura una maschera personalizzata direttamente nella Vista 2D
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocare la maschera
   * **Maschera personalizzata - Inverti**: attiva/disattiva\
@@ -87,11 +87,11 @@ Il **filtro Sostituisci colore** è un metodo efficace per modificare l’aspett
 
 Il filtro funziona creando prima una maschera basata sui valori di luminosità e colore di un punto scelto e quindi sostituendo il colore dell’area definita da quella maschera. Quindi, per usare il filtro:
 
-1. Aggiungi il **filtro Sostituisci colore** allo stack di livelli
+1. Aggiungi il **filtro Sostituisci colore** alla Pila livelli
 1. Determinate quale canale volete usare per creare la maschera e quale canale volete sostituire il colore di
    1. Se desideri basare la maschera su un canale ma sostituire il colore di un altro, abilita **Segmentazione avanzata** e seleziona i rispettivi canali.
    1. Se desideri basare la maschera su un canale e sostituire il colore dello stesso canale, mantieni disabilitata la **segmentazione avanzata**.
-1. Spostare il controllo nella **vista 2D** sul colore che si desidera sostituire.
+1. Spostare il controllo in **Vista 2D** sul colore che si desidera sostituire.
 1. Potete regolare le aree della maschera utilizzando i controlli **Intervallo maschera**, **Smoothness maschera** e **Sfocatura maschera**.
 1. Selezionate un **colore di destinazione** e regolate la **variazione di luminosità** fino a ottenere l&#39;effetto desiderato.
 1. Facoltativamente, puoi aggiungere una maschera personalizzata per applicare gli effetti del filtro solo nelle aree scelte. La maschera personalizzata non influisce sulla maschera creata al punto 1, ma è una maschera aggiuntiva che puoi utilizzare per regolare ulteriormente il punto in cui viene applicato l’effetto.

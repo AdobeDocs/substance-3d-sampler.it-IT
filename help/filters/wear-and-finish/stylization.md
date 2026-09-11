@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/stylization.html"
 breadcrumb-title: ''
-description: Utilizzate il filtro Stilizzazione in Substance 3D Sampler per applicare effetti artistici e look stilizzati ai materiali e alle texture.
+description: Utilizza il filtro Stilizzazione in Substance 3D Sampler per applicare effetti artistici e look stilizzati ai materiali e alla texture.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -61,7 +61,7 @@ Le immagini seguenti mostrano il materiale della corteccia prima e dopo aver app
 
 <b>Dipinto a mano</b>
 
-    Questo predefinito applica un contrasto maggiore rispetto ai precedenti, imita i tratti di pennello manuali per guazzo o pittura a olio
+    Questo predefinito applica un contrasto maggiore rispetto ai precedenti, imita i tratti di pennello manuali di guazzo o pittura ad olio
 
 ## Parametri di base
 
@@ -151,7 +151,7 @@ Le immagini seguenti mostrano il materiale della corteccia prima e dopo aver app
   Scegliere il livello di variazione dell’intensità della variazione applicata alla mappa delle grungi aggiunta
 
 * <b>Grunge</b>: immagine \
-  Scegliete un’immagine o un generatore di texture disponibile nella libreria di risorse di Sampler da utilizzare come mappa di grunge
+  Scegli un&#39;immagine o un generatore di Texture disponibile nella libreria di risorse di Sampler da utilizzare come mappa di grunge
 
 ## Parametri tecnici
 
@@ -165,10 +165,10 @@ Le immagini seguenti mostrano il materiale della corteccia prima e dopo aver app
   Consenti a Sampler di ricalcolare la normale in base alle modifiche applicate al materiale
 
 * <b>Intensità normale</b>: 0-1 \
-  Regola l’intensità della mappa Normale
+  Regolare l’intensità della Mappa normale
 
 * <b>Ammorbidimento normale</b>: 0-1\
   Ammorbidite la normale per un aspetto più uniforme del materiale
 
-* <b>Intensità Occlusione ambiente</b>: 0-1\
+* <b>Intensità Occlusione ambientale</b>: 0-1\
   Regola il livello del contrasto sulla mappa AO

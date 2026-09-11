@@ -29,12 +29,12 @@ Dal pannello di azione rapida, fai clic su un&#39;azione rapida per aggiungerla 
 * **Recenti**: accedete alle azioni rapide utilizzate più di recente.
 * **Lavorare sulle immagini**: importare, convertire o regolare le immagini.
 * **Migliorare la scansione del materiale**: allineare, rifinire o suddividere un materiale scansionato per ottenere risultati migliori.
-* **Create un materiale dalle immagini**: aggiungete i livelli necessari alla pila di livelli per convertire una o più immagini in un materiale.
+* **Creazione di un materiale dalle immagini**: aggiungete i livelli necessari alla Pila livelli per convertire una o più immagini in un materiale.
 * **Creare un materiale da zero**: crea una nuova risorsa di materiale con i livelli iniziali.
 
 Quando passate il cursore del mouse su un’azione rapida, potete utilizzare il pulsante delle opzioni visualizzato per:
 
-* **Applicate** l&#39;azione rapida allo stack di livelli.
+* **Applicare** l&#39;azione rapida alla Pila livelli.
 * **Imposta** l&#39;azione rapida tramite le finestre di dialogo.
 * **Crea una nuova risorsa** utilizzando l&#39;azione rapida selezionata.
 * **Crea un nuovo progetto** utilizzando l&#39;azione rapida selezionata.

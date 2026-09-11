@@ -24,16 +24,16 @@ Gli strumenti sono il set di filtri più grande di Sampler, quindi può essere d
 
 Molti strumenti possono essere utilizzati su immagini e materiali. In genere è consigliabile utilizzare i filtri per correggere un’immagine prima di convertirla in una parte del materiale. Correggendo prima l&#39;immagine, gli strumenti devono funzionare solo su un singolo canale: i dati dell&#39;immagine, mentre la correzione del materiale richiede la correzione di più canali. La correzione di un solo canale riduce la quantità di elaborazione richiesta, ma riduce anche la possibilità di errori.
 
-I filtri degli strumenti spesso utilizzano maniglie e altri controlli nella **vista 2D**, quindi è spesso consigliabile che la **vista 2D** sia visibile mentre si lavora con gli strumenti.
+I filtri degli strumenti utilizzano spesso maniglie e altri controlli in **Vista 2D**, quindi è spesso consigliabile che il **Vista 2D** sia visibile mentre si lavora con gli strumenti.
 
 >[!NOTE]
 >
 > Alcuni strumenti sono disponibili nella **barra laterale sinistra** per un accesso più rapido:
 > 
 > * [Ritaglio](crop-tool.md)
-> * [Trasformazione prospettica](perspective-correction.md)
+> * [Trasforma Prospettiva](perspective-correction.md)
 > * [Trasformazione](transform.md)
-> * [Timbro clone](clone-stamp.md)
+> * [Clona /Clone timbro](clone-stamp.md)
 
 Sampler include i seguenti strumenti:
 
@@ -41,7 +41,7 @@ Sampler include i seguenti strumenti:
 * [Atlas splitter](atlas-splitter.md)
 * [Generazione canali](channels-generation.md)
 * [Interruttore canale](channel-switch.md)
-* [Timbro clone](clone-stamp.md)
+* [Clona /Clone timbro](clone-stamp.md)
 * [Strumento taglierina](crop-tool.md)
 * [Delight (basata su IA)](delight-ai-powered.md)
 * [Height in AO](height-to-ao.md)
@@ -57,5 +57,5 @@ Sampler include i seguenti strumenti:
 * [Affiancamento](tiling.md)
 * [Trasforma](transform.md)
 * [Ordito](warp.md)
-* [Altera trasformazione](warp-transform.md)
+* [Altera Trasforma](warp-transform.md)
 * [Miglioramento](upscale.md)

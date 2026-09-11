@@ -60,6 +60,6 @@ Regolare la polarizzazione delle luci video è diverso, ma più semplice. Dovret
 
 <b>Ogni singola sorgente luminosa visualizzata nei riflessi deve essere polarizzata</b>, quindi potrebbe essere necessario chiudere le finestre o spegnere gli schermi.
 
-Una volta impostato correttamente, dovresti essere in grado di acquisire un oggetto come se fosse completamente opaco, senza riflessi e senza luce. Proprio come la trama con la sola texture del colore di base applicata, consente di catturare oggetti riflessivi difficili.
+Una volta impostato correttamente, dovresti essere in grado di acquisire un oggetto come se fosse completamente opaco, senza riflessi e senza luce. Proprio come la trama con la sola texture di colore di base applicata, consente di catturare oggetti riflettenti difficili.
 
 Ora scopri di più su [come elaborare il tuo Capture 3D utilizzando Substance 3D Sampler](processing-advanced-3d-captures.md).

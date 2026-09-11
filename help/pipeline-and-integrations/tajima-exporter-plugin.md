@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
 breadcrumb-title: ''
-description: Scopri come utilizzare il plug-in Tajima Exporter in Substance 3D Sampler per esportare i progetti di ricamo nel software Tajima DG17.
+description: Scopri come utilizzare il plug-in di Esportazione Tajima in Substance 3D Sampler per esportare i progetti di ricamo nel software Tajima DG17.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Plug-in Tajima Exporter
+title: Plug-in di Esportazione Tajima
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Plug-in di Tajima Exporter dei file di ricamo
+# Plug-in di Esportazione Tajima di file di ricamo
 
 Con questa prima prova di concetto, è ora possibile trasferire i progetti ricamati digitalmente da Substance 3D direttamente nel software di ricamo <b>Tajima DG17</b>, eliminando la necessità di una lunga digitalizzazione manuale.
 

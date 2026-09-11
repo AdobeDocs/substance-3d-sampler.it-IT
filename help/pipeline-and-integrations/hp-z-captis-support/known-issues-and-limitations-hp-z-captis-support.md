@@ -25,7 +25,7 @@ ht-degree: 0%
 * Il flusso di lavoro Sampler con HP Z Captis è disponibile solo per ora su Windows.
 
 * Se si scollega fisicamente il dispositivo mentre è in corso una scansione, l’acquisizione non viene interrotta. Se il dispositivo viene disconnesso durante l&#39;acquisizione, attendere 30 secondi prima di riconnetterlo per consentire la riconnessione alla sessione di acquisizione in corso.
-* Le cinque mappe esportate oggi sono Colore base, Rugosità, Normale, Height, Opacità.
+* Le cinque mappe esportate oggi sono Colore di base, Rugosità, Normale, Height, Opacità.
 * Quando si chiude la finestra durante un&#39;acquisizione, i metadati che sono stati inseriti vengono persi.
 * Quando si fa clic su uno dei pulsanti &quot;Sfoglia contenuto&quot; o &quot;Arresta&quot; durante il trasferimento dei dati da Captis tramite USB, il trasferimento si interrompe.
 

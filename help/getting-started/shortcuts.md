@@ -20,7 +20,7 @@ ht-degree: 13%
 
 # Scelte rapide
 
-In questa pagina sono elencate tutte le scelte rapide da tastiera disponibili e le relative azioni.
+In questa pagina sono elencate tutte le scelte rapide da tastiera da tastiera disponibili e le relative azioni.
 
 ## Scelte rapide globali
 
@@ -34,7 +34,7 @@ In questa pagina sono elencate tutte le scelte rapide da tastiera disponibili e 
 | Solo vista 3D | 3 | 3 |
 | Solo vista 2D | 2 | 2 |
 
-## Scelte rapide della vista 3D
+## Scelte rapide da vista 3D
 
 | *Azione* | *Windows* | *MacOS* |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ In questa pagina sono elencate tutte le scelte rapide da tastiera disponibili e 
 | Rotazione dell&#39;ambiente | Maiusc + Mouse a destra | Maiusc + Mouse a destra |
 | Visibilità ambiente | 1 | 1 |
 
-## Scelte rapide della vista 2D
+## Scelte rapide da vista 2D
 
 <table data-preserve-html="true" style="width: 50.061%;">
 <colgroup><col style="width: 39.9838%;"/><col style="width: 30.5565%;"/><col style="width: 29.5004%;"/></colgroup><tbody><tr><th><i>Azione</i></th>
@@ -72,7 +72,7 @@ In questa pagina sono elencate tutte le scelte rapide da tastiera disponibili e 
 </tr><tr><td>Messa a fuoco</td>
 <td>F</td>
 <td>F</td>
-</tr><tr><td>Affiancatura texture</td>
+</tr><tr><td>Affiancamento texture</td>
 <td>T</td>
 <td>T</td>
 </tr><tr><td>Passaggio da un canale all’altro</td>
@@ -130,7 +130,7 @@ In questa pagina sono elencate tutte le scelte rapide da tastiera disponibili e 
 </tr><tr><td>Trasformazione centrata + mantieni proporzioni</td>
 <td>Maiusc + CTRL + Mouse a sinistra</td>
 <td>Maiusc + <span class="NormalTextRun SCXW1728708 BCX0">⌘</span> + Mouse a sinistra</td>
-</tr><tr><td colspan="3" data-highlight-colour="grey" title="Colore di sfondo: grigio"><b>Timbro clone</b></td>
+</tr><tr><td colspan="3" data-highlight-colour="grey" title="Colore di sfondo: grigio"><b>Clona /Clone timbro</b></td>
 </tr><tr><td>Nuova sorgente</td>
 <td>CTRL + Mouse a sinistra</td>
 <td><span class="NormalTextRun SCXW1728708 BCX0">⌘</span> + Mouse a sinistra</td>

@@ -24,9 +24,9 @@ ht-degree: 4%
 >
 > Cambiamenti futuri
 > 
-> Il supporto per luci ambiente e trame verrà rimosso con il rilascio di Sampler V5.2. La rimozione delle luci ambiente includerà anche la rimozione di Strumenti HDRI e filtri.
+> Il supporto per luci ambientali e trame verrà rimosso con Sampler V5.2. La rimozione delle luci ambientali comprende anche la rimozione di Strumenti HDRI e filtri.
 
-I filtri nella sezione Strumenti HDRI sono strumenti specifici per lavorare con le luci ambiente. HDRI è l’acronimo di High dynamic range immagine, ma viene comunemente utilizzato per fare riferimento alle immagini panoramiche utilizzate per creare le luci ambiente. La modifica delle immagini panoramiche nei software tradizionali può essere difficile a causa di come le informazioni sferiche 3D devono essere mappate su un file di immagine 2D: gli Strumenti HDRI in Sampler sono progettati tenendo presente questa considerazione, in modo che l&#39;applicazione di patch e l&#39;aggiunta di luci alle immagini HDRI sia molto più semplice.
+I filtri nella sezione Strumenti HDRI sono strumenti specifici per lavorare con le luci ambiente. HDRI è l’acronimo di Immagine High dynamic range, ma viene comunemente utilizzato per fare riferimento alle immagini panoramiche utilizzate per creare luce ambientale. La modifica delle immagini panoramiche nei software tradizionali può essere difficile a causa di come le informazioni sferiche 3D devono essere mappate su un file di immagine 2D: gli Strumenti HDRI in Sampler sono progettati tenendo presente questa considerazione, in modo che l&#39;applicazione di patch e l&#39;aggiunta di luci alle immagini HDRI sia molto più semplice.
 
 I seguenti filtri sono Strumenti HDRI:
 

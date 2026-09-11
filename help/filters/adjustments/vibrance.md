@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/vibrance.html"
 breadcrumb-title: ''
-description: Utilizzate il filtro Vividezza di Substance 3D Sampler per migliorare la saturazione del colore e la vividezza delle texture, preservando i toni dell’incarnato.
+description: Utilizzate il filtro Vividezza di Substance 3D Sampler per migliorare la saturazione e la vividezza dei colori nella texture, preservando i toni dell’incarnato.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Vibrance
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrizione
 
-Il filtro Vividezza consente di regolare rapidamente la vividezza del colore di base o dei canali diffusi del materiale.
+Il filtro Vividezza consente di regolare rapidamente la vividezza dei canali di Colore di base o Diffusa del materiale.
 
 Vividezza e Saturazione funzionano in modo simile in quanto aumentano l’intensità dei colori. Mentre Saturazione aumenta l’intensità di tutti i colori nell’immagine, Vividezza aumenta principalmente l’intensità dei toni spenti o spenti.
 
@@ -53,7 +53,7 @@ Vividezza e Saturazione funzionano in modo simile in quanto aumentano l’intens
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D
+    Seleziona un’immagine da usare come maschera o usa il pennello per pittura una maschera personalizzata direttamente nella Vista 2D
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocare la maschera
   * **Maschera personalizzata - Inverti**: attiva/disattiva\

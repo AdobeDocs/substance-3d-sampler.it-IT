@@ -20,7 +20,7 @@ ht-degree: 5%
 
 # Fromato normale
 
-Le mappe normali vengono elaborate utilizzando il formato <b>DirectX</b>, mantengono un flusso di lavoro <b> OpenGL</b> per importare ed esportare il formato OpenGL modificando la preferenza del formato normale.
+La mappa normale viene elaborata utilizzando il formato <b>DirectX</b>, mantenere un flusso di lavoro <b> OpenGL</b> per importare ed esportare il formato OpenGL modificando la preferenza del formato normale.
 
 *Impostazione predefinita: DirectX*
 

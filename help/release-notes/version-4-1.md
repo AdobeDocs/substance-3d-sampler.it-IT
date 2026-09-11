@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/release-notes/version-4-1.html"
 breadcrumb-title: ''
-description: Consultate le note sulla versione di Substance 3D Sampler 4.1 per informazioni sul filtro Alterazione pittura, sugli aggiornamenti del filtro Ricamo e sui miglioramenti apportati alla capture 3D.
+description: Leggete le note sulla versione di Substance 3D Sampler 4.1 per informazioni sul filtro Alterazione Pittura, sugli aggiornamenti del filtro Ricamo e sui miglioramenti apportati alla capture 3D.
 helpx_creative_field: ""
 helpx_description: Sampler > Release Notes > Version 4.1
 helpx_experience_level: ""
@@ -20,14 +20,14 @@ ht-degree: 0%
 
 # Versione 4.1
 
-<b>Substance 3D Sampler 4.1.0 </b>introduce nuovi contenuti con il filtro <b>Alterazione pittura </b> e una versione migliorata del filtro <b>Ricamo </b>. Questo aggiornamento include alcuni miglioramenti al capture 3D.
+<b>Substance 3D Sampler 4.1.0 </b>introduce nuovi contenuti con il filtro <b>Alterazione Pittura </b> e una versione migliorata del filtro <b>Ricamo </b>. Questo aggiornamento include alcuni miglioramenti al capture 3D.
 
 *Data di pubblicazione: 28 marzo 2023*
 
 ## Alterazione dipinto
 
-Il filtro Alterazione pittura consente di alterare i materiali disegnando curve sulla vista 2D.\
-L&#39;opzione Raddrizza consente di riallineare i materiali per un flusso di lavoro di suddivisione in porzioni semplice e uniforme.
+Il filtro Alterazione Pittura consente di alterare i materiali disegnando curve sulla Vista 2D.\
+L’opzione Raddrizza consente di riallineare i materiali per un flusso di lavoro di Affiancamento semplice e fluido.
 
 ## Ricamo
 
@@ -44,7 +44,7 @@ Può ricamare fino a 6 colori e combina diverse tecniche di giuntura.
 
 <b>Corretto:</b>
 
-* [Livelli] Perdita di memoria durante l’ottimizzazione dei materiali e dei filtri delle Substance che causa arresti anomali
+* [Livelli] Perdita di memoria quando si modificano materiali e filtri della Substance che causano arresti anomali
 
 <b>4.1.1 CANNOLI</b>
 
@@ -57,31 +57,31 @@ Può ricamare fino a 6 colori e combina diverse tecniche di giuntura.
 
 <b>Corretto:</b>
 
-* [capture 3D] Le applicazioni si arrestano in modo anomalo quando il modulo di rendering del capture 3D non riesce
-* [capture 3D] Arresto anomalo quando non è possibile caricare un’immagine
+* [capture 3D] arresti anomali di applicazioni quando il modulo di rendering del capture 3D non riesce
+* [capture 3D] Arresto anomalo in cui non è possibile caricare un&#39;immagine
 * [capture 3D] Arresto anomalo quando si raggiunge la fase di ricostruzione della trama
 * [capture 3D] Arresto anomalo durante il ridimensionamento del rettangolo di selezione
 * [capture 3D] L’importazione di maschere conformi alla convenzione non assegna correttamente la maschera
 * [capture 3D] Problemi di rendering durante la regolazione del rettangolo di selezione
 * [capture 3D] Il passaggio da una versione all’altra e l’alternanza delle opzioni di rendering durante l’elaborazione del post di Capture 3D è lento
 * [capture 3D] Il passaggio da una versione all’altra durante la fase di post-elaborazione del capture 3D a volte non funziona
-* [Applicazione] Arresto anomalo all’avvio
+* [Applicazione] Arresto anomalo all&#39;avvio
 * [Applicazione] Arresto anomalo durante la duplicazione di un materiale rinominato
-* [Applicazione] Arresto anomalo quando si apre un progetto .alch legacy senza la relativa cartella di dipendenza
-* [Applicazione] Arresto anomalo quando si collega/scollega uno schermo, il computer passa alla modalità di sospensione o è accessibile in remoto
-* [Applicazione] Arresti anomali e perdite di memoria correlati alla gestione di risorse non persistenti
+* [Applicazione] Arresto anomalo quando si apre un progetto .alch legacy senza la relativa cartella dipendenze
+* [Applicazione] Arresto anomalo di collegamento/scollegamento di uno schermo, computer in modalità sospensione o accesso remoto
+* [Applicazione] Arresti anomali e perdite di memoria relative alla gestione delle risorse non persistenti
 * [Esportazione] La scelta del formato di materiale per i tipi di file di oggetti 3D che incorporano o fanno riferimento a texture deve essere disattivata
-* [Esporta] Arresto anomalo se si verifica un errore durante l’esportazione di oggetti 3D
-* [Esportazione] Arresto anomalo durante l’esportazione di un file .sbs/.sbsar
-* [Esporta] Arresto anomalo durante l’importazione di un predefinito personalizzato con lo stesso Label ma non lo stesso nome di file
-* [Esportazione] L&#39;esportazione di una luce di ambiente in un file .sbs/.sbsar a volte non funziona
+* [Esportazione] Arresto anomalo di un problema durante l’esportazione di oggetti 3D
+* [Esportazione] Arresto anomalo durante l&#39;esportazione di un file .sbs/.sbsar
+* [Esporta] Arresto anomalo durante l’importazione di un predefinito personalizzato che ha lo stesso Label ma non lo stesso nome di file
+* [Esportazione] L’esportazione di una luce ambientale in un file .sbs/.sbsar a volte non funziona
 * [Export] L’esportazione Gltf/Glb codifica le texture in base64
 * [Esporta] Il campo di testo Nome non funziona quando si rimette a fuoco
-* [Esporta] Mantieni affiancamento non funziona quando si esporta un livello Immagine in materiale (IA Powered) in un file .sbs/.sbsar
+* [Esportazione] Mantieni Affiancamento non funziona quando si esporta un livello Immagine in materiale (IA Powered) in un file .sbs/.sbsar
 * [Export] Quando si esporta gltf e si sostituiscono i file, l&#39;elenco dei file da sostituire non è corretto
 * [Parametri esposti] Il valore di inizializzazione casuale non funziona nei file .sbs/.sbsar esportati
-* [Livelli] Il riempimento in base al contenuto a volte si arresta in modo anomalo quando viene aggiunto per la seconda volta
-* [Layers] Arresto anomalo durante l’elaborazione di una pila di livelli
+* [Livelli] A volte Riempimento in base al contenuto arresto anomalo quando viene aggiunto per la seconda volta
+* arresto anomalo [Layers] (Livelli) durante il calcolo di una Pila livelli
 * [Layers] La cache del disco da immagine a materiale (AI) non funziona
 * [Livelli] Possibile arresto anomalo durante l’ottimizzazione di un livello
 * [Prestazioni] Perdite di memoria
@@ -96,14 +96,14 @@ Può ricamare fino a 6 colori e combina diverse tecniche di giuntura.
 <b>Aggiunto:</b>
 
 * [Content] Nuovo filtro Ricamo
-* [Contenuto] Nuovo filtro Alterazione pittura
+* [Contenuto] Nuovo filtro Alterazione Pittura
 * [UI] Aggiungi opzione di esportazione nel menu File
 * [capture 3D] Il pulsante Indietro è ora disponibile nel passaggio di allineamento
 * [capture 3D] Immagini Handle JPEG orientamento EXIF
 * [capture 3D] Scripting - Nuova proprietà dataset\_info.camera
 * [capture 3D] Aggiungere il supporto Linux (consultare la documentazione)
 * [capture 3D] Verificare l&#39;accesso in lettura alle immagini importate
-* [Onboarding] Scopri - 2 nuove esercitazioni (Ricamo e Alterazione pittura)
+* [Onboarding] Scopri - 2 nuove esercitazioni (Ricamo e Alterazione della Pittura)
 * [Onboarding] Aggiornato il contenuto Novità
 
 <b>Corretto:</b>
@@ -111,7 +111,7 @@ Può ricamare fino a 6 colori e combina diverse tecniche di giuntura.
 * [capture 3D] Mantieni la posizione della fotocamera quando si cambia versione
 * [capture 3D] Unire tutti i gruppi di un oggetto
 * [capture 3D] Rinominate le trame generate in Originale
-* [Applicazione] Arresto anomalo quando si tenta di generare la miniatura di un’immagine inesistente
+* [Applicazione] Arresto anomalo quando si tenta di generare la miniatura di un&#39;immagine inesistente
 * [Risorse] L’icona del cestino non esegue alcuna operazione nel pannello Risorse
 * [Contenuto] L’aggiornamento dei filtri con slot per materiale non funziona come previsto
 * [Esportazione] Possibile arresto anomalo durante l’esportazione di una risorsa con filtri specifici

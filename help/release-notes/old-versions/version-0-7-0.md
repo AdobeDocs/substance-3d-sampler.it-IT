@@ -49,14 +49,14 @@ Aggiunto:
 * [Content] Nuovo filtro finitura Metal
 * [Content] Nuovo filtro Snow
 * [Content] Nuovo filtro casuale
-* [Contenuto] Ora puoi importare le texture direttamente nel filtro Materiale di base
+* [Contenuto] Ora puoi importare la texture direttamente nel filtro Materiale di base
 
 Fisso:
 
-* Correggere un arresto anomalo durante il salvataggio di una pila di livelli
+* Correggere un arresto anomalo durante il salvataggio della Pila livelli
 * È possibile aggiungere un valore superiore a 1 nel cursore di rotazione dell’ambiente
-* Non perdere i parametri di fusione quando un livello di fusione viene trasformato avanti e indietro dal livello di fusione al livello di materiale
-* Correggere i duplicati quando si generano più volte variazioni dello stesso stack di livelli
+* Non perdere i parametri di fusione quando un livello di fusione viene Trasforma avanti e indietro dal livello di fusione al livello di materiale
+* Correggere i duplicati quando si generano più volte variazioni della stessa Pila livelli
 * Quando riapri un materiale, Alchemist memorizza gli intervalli modificati (min e max) dei cursori
 
 Problemi noti:
