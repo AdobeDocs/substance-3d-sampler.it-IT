@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embossing.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/embossing.html"
 breadcrumb-title: ''
 description: Usa il generatore Rilievo di Substance 3D Sampler per creare pattern in rilievo ed effetti di rilievo della superficie sollevata nei materiali.
 helpx_creative_field: ""

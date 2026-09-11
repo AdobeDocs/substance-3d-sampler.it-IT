@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-extract.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/nadir-extract.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Nadir extract in Substance 3D Sampler per estrarre e isolare l’area inferiore dalle immagini dell’ambiente HDRI.
 helpx_creative_field: ""

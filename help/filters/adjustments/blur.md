@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/blur.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/blur.html"
 breadcrumb-title: ''
 description: Usate il filtro Sfocatura in Substance 3D Sampler per applicare effetti di sfocatura e ridurre la nitidezza dell’immagine nei livelli di texture e materiale.
 helpx_creative_field: ""

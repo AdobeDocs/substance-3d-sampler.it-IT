@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface.html"
 breadcrumb-title: ''
 description: Informazioni sull'interfaccia di Substance 3D Sampler, tra cui le finestre delle viste, le barre laterali e i pannelli, per navigare e utilizzare l'applicazione in modo efficace.
 helpx_creative_field: ""

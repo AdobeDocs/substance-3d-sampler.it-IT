@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/channel-settings-panel.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/panels/channel-settings-panel.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare il pannello Impostazioni canale in Substance 3D Sampler per gestire i canali di materiale e controllare la visibilità del canale.
 helpx_creative_field: ""

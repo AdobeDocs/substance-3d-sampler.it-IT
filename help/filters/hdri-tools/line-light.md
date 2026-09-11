@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/line-light.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/line-light.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Luce linea in Substance 3D Sampler per aggiungere sorgenti luminose lineari agli ambienti HDRI per un controllo preciso dell’illuminazione.
 helpx_creative_field: ""

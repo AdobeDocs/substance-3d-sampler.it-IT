@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Raddrizza orizzonte in Substance 3D Sampler per correggere l’allineamento dell’orizzonte nelle immagini dell’ambiente HDRI.
 helpx_creative_field: ""

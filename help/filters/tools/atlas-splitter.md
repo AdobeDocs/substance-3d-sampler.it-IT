@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-splitter.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/atlas-splitter.html"
 breadcrumb-title: ''
 description: Usate lo strumento Atlas splitter di Substance 3D Sampler per dividere gli atlanti delle texture in singole mappe texture per l’editing del materiale.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/generative-workflows.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/features-and-workflows/generative-workflows.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare i flussi di lavoro generativi in Substance 3D Sampler, incluse le funzionalità di conversione da testo a texture, da testo a pattern e da immagine a texture.
 helpx_creative_field: ""

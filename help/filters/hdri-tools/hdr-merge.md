@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Unione HDR in Substance 3D Sampler per unire più immagini di esposizione in un'unica immagine a high dynamic range.
 helpx_creative_field: ""

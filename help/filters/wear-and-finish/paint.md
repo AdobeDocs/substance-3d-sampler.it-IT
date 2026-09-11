@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/paint.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/paint.html"
 breadcrumb-title: ''
 description: Utilizza il filtro Pittura di Substance 3D Sampler per aggiungere livelli di pittura, rivestimenti ed effetti di superficie colorati ai materiali.
 helpx_creative_field: ""

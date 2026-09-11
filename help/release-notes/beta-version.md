@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/beta-version.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/release-notes/beta-version.html"
 breadcrumb-title: ''
 description: Accedi alle versioni beta di Substance 3D Sampler per provare le nuove funzioni e fornire feedback prima della versione ufficiale.
 helpx_creative_field: ""

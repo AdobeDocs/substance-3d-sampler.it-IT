@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
 description: Utilizzate il generatore di cuciture per unioni superfici in Substance 3D Sampler per creare motivi di tessuto trapuntato e texture di cucitura per i materiali.
 helpx_creative_field: ""

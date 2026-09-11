@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
 breadcrumb-title: ''
 description: Usate lo strumento toppa panorama in Substance 3D Sampler per riparare e riparare le aree nelle immagini panoramiche dell’ambiente HDRI.
 helpx_creative_field: ""

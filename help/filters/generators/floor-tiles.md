@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/floor-tiles.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/floor-tiles.html"
 breadcrumb-title: ''
 description: Usa il generatore di piastrelle di Floor in Substance 3D Sampler per creare realistici motivi di piastrelle da pavimento e texture in ceramica per i materiali.
 helpx_creative_field: ""

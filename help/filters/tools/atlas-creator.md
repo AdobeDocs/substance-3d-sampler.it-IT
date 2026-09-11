@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-creator.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/atlas-creator.html"
 breadcrumb-title: ''
 description: Utilizza lo strumento Atlas Creator in Substance 3D Sampler per creare atlanti di texture da più immagini per un'organizzazione efficiente dei materiali.
 helpx_creative_field: ""

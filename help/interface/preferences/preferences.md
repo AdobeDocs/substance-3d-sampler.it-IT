@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/preferences.html"
 breadcrumb-title: ''
 description: Scopri come configurare le preferenze in Substance 3D Sampler per personalizzare le impostazioni dell’applicazione e ottimizzare il flusso di lavoro.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/exposure.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Esposizione di Substance 3D Sampler per regolare i livelli di esposizione nelle immagini dell’ambiente HDRI per un corretto bilanciamento della luce.
 helpx_creative_field: ""

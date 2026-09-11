@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/atlas-scatter.html"
 breadcrumb-title: ''
 description: Usate il generatore di Atlas scatter in Substance 3D Sampler per dispersione gli elementi dagli atlanti delle texture su superfici di materiale.
 helpx_creative_field: ""

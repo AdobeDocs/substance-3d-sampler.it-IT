@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/delight-ai-powered.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/delight-ai-powered.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Delight basato sull'intelligenza artificiale in Substance 3D Sampler per rimuovere le informazioni di illuminazione dalle immagini e creare materiali di base neutri.
 helpx_creative_field: ""

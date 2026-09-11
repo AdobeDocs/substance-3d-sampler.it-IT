@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare i filtri Usura e Finitura in Substance 3D Sampler per aggiungere effetti di durata, invecchiamento e finitura ai materiali.
 helpx_creative_field: ""

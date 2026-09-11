@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Ossidato di Substance 3D Sampler per aggiungere effetti di ossidazione e macchia ai materiali metallici per aspetti invecchiati.
 helpx_creative_field: ""

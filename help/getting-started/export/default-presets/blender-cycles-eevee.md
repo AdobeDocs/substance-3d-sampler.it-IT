@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
 breadcrumb-title: ''
 description: Scopri come esportare i materiali da Substance 3D Sampler utilizzando il predefinito Cicli di fusione/Eevee per la compatibilità del modulo di fusione.
 helpx_creative_field: ""

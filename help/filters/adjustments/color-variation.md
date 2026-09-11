@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/color-variation.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/color-variation.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Variazione colore in Substance 3D Sampler per aggiungere diversità di colore e variazione alle texture per materiali più naturali.
 helpx_creative_field: ""

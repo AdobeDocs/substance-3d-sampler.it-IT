@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare i filtri degli strumenti in Substance 3D Sampler per risolvere problemi tecnici e migliorare i flussi di lavoro di creazione del materiale.
 helpx_creative_field: ""
@@ -51,7 +51,7 @@ Sampler include i seguenti strumenti:
 * [Corrispondenza](match.md)
 * [Multiangolo su materiale](multiangle-to-material.md)
 * [Normale al Height](normal-to-height.md)
-* [Alterazione dipinto](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/paint-warp-255426602.html)
+* [Alterazione dipinto](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/sadoc/paint-warp-255426602.html)
 * [PBR Validata](pbr-validate.md)
 * [Correzione prospettiva](perspective-correction.md)
 * [Affiancamento](tiling.md)

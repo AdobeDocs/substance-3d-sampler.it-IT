@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/brickwall.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/brickwall.html"
 breadcrumb-title: ''
 description: Utilizza il generatore Brickwall in Substance 3D Sampler per creare motivi di muro in mattoni realistici e texture in muratura per i materiali.
 helpx_creative_field: ""

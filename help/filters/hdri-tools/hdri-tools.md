@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare gli Strumenti HDRI in Substance 3D Sampler per modificare, migliorare e creare immagini di ambiente high dynamic range.
 helpx_creative_field: ""

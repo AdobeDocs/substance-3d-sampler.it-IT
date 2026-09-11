@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues.html"
 breadcrumb-title: ''
 description: Accedi alle guide per la risoluzione dei problemi relativi a dati e progetti Substance 3D Sampler per risolvere problemi di importazione, esportazione e relativi ai progetti.
 helpx_creative_field: ""

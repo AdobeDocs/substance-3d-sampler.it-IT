@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/splatter.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/splatter.html"
 breadcrumb-title: ''
 description: Usate il generatore di splatter in Substance 3D Sampler per creare effetti di splatter di pittura e pattern casuali per texture di materiale.
 helpx_creative_field: ""

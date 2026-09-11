@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/surface-relief.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/surface-relief.html"
 breadcrumb-title: ''
 description: Utilizzate il generatore di Rilievi di superfici in Substance 3D Sampler per creare pattern di superfici in rilievo e rilievi nei materiali.
 helpx_creative_field: ""

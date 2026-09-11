@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/auto-tiling.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/auto-tiling.html"
 breadcrumb-title: ''
 description: Usa lo strumento Affiancamento automatico in Substance 3D Sampler per creare automaticamente pattern di Affiancamento uniformi dalla texture utilizzando la tecnologia IA.
 helpx_creative_field: ""

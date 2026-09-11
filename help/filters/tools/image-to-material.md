@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/image-to-material.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/image-to-material.html"
 breadcrumb-title: ''
 description: Utilizza lo strumento Da immagine a materiale in Substance 3D Sampler per convertire singole immagini in materiali completamente PBR utilizzando un'elaborazione basata sull'intelligenza artificiale.
 helpx_creative_field: ""

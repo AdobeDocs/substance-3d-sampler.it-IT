@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/release-notes.html"
 breadcrumb-title: ''
 description: Accedi alle note sulla versione di Substance 3D Sampler per restare aggiornato sulle nuove funzioni, i miglioramenti e le correzioni di bug tra le versioni.
 helpx_creative_field: ""

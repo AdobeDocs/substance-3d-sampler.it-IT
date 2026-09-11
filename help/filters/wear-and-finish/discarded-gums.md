@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
 breadcrumb-title: ''
 description: Utilizza il filtro Gomme scartate di Substance 3D Sampler per aggiungere residui di gomma ed effetti di superficie appiccicosi ai materiali.
 helpx_creative_field: ""

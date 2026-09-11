@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fold-remover.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/fold-remover.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Rimozione pieghe in Substance 3D Sampler per rimuovere pieghe dalle texture di tessuto per superfici di materiale pulite.
 helpx_creative_field: ""

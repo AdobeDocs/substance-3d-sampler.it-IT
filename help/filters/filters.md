@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters.html'
+helpx_url: 'https://helpx.adobe.com/it/substance-3d-sampler/filters.html'
 breadcrumb-title: ''
 description: Scopri come utilizzare i filtri in Substance 3D Sampler per modificare, migliorare e creare materiali con effetti procedurali e basati su immagini.
 helpx_creative_field: ''

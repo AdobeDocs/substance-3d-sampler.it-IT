@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.html"
 breadcrumb-title: ''
 description: Esaminare i problemi noti e le limitazioni durante l'utilizzo di HP Z Captis con Substance 3D Sampler per comprendere i vincoli e le soluzioni alternative correnti.
 helpx_creative_field: ""
@@ -29,5 +29,5 @@ ht-degree: 0%
 * Quando si chiude la finestra durante un&#39;acquisizione, i metadati che sono stati inseriti vengono persi.
 * Quando si fa clic su uno dei pulsanti &quot;Sfoglia contenuto&quot; o &quot;Arresta&quot; durante il trasferimento dei dati da Captis tramite USB, il trasferimento si interrompe.
 
-* In caso di problemi TDR, consultare [questa pagina della documentazione](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash) di Sustance Painter per trovare una soluzione.
+* In caso di problemi TDR, consultare [questa pagina della documentazione](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash) di Sustance Painter per trovare una soluzione.
 * Se il passaggio &quot;Anteprima&quot; è completamente nero invece di visualizzare l&#39;avanzamento dal vivo all&#39;interno del dispositivo, assicurarsi di aver rimosso il cappuccio dell&#39;obiettivo dall&#39;interno del cono del dispositivo.

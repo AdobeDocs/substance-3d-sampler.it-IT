@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/cracks.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/cracks.html"
 breadcrumb-title: ''
 description: Utilizza il filtro Crepe di Substance 3D Sampler per aggiungere pattern di crepe realistici e effetti di danno alla superficie dei materiali.
 helpx_creative_field: ""

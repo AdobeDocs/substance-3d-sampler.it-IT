@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Nadir patch in Substance 3D Sampler per applicare le patch all’area inferiore delle immagini HDRI per ottenere mappe dell’ambiente uniformi.
 helpx_creative_field: ""
