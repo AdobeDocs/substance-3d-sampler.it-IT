@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/export/managing-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-presets.html"
 breadcrumb-title: ''
 description: Scopri come gestire i predefiniti di esportazione in Substance 3D Sampler per configurare i materiali per diverse applicazioni e pipeline.
 helpx_creative_field: ""
@@ -31,9 +31,9 @@ Per accedere a Predefiniti:
 1. Apri la finestra <b>Esporta </b>:
    1. Utilizza il <b>pannello Esportazione</b> nella <b>barra destra</b>.
    1. Usa <b> File > Esporta come...</b>
-   1. Usa la scelta rapida <b>Ctrl + E.</b>
+   1. Usa scelta rapida da tastiera <b>Ctrl + E.</b>
 1. Nella parte sinistra della finestra <b>Esporta </b>, seleziona <b>Impostazioni materiale</b>.
-1. Seleziona un formato di immagine (EXR, JPEG, PNG, TARGA, TIFF)
+1. Selezionare un formato di immagine (EXR, JPEG, PNG, TARGA, TIFF)
 1. Viene visualizzato l’elenco dei predefiniti.
 
 ![](../../assets/Managing-presets-Dropdown.png.img.png){width="400px"}

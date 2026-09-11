@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/rust.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Ruggine di Substance 3D Sampler per aggiungere effetti di ruggine e corrosione realistici ai materiali e alle superfici metalliche.
 helpx_creative_field: ""
@@ -72,7 +72,7 @@ Nelle immagini seguenti è possibile visualizzare un materiale metallico prima e
 * **Intensità normale della buccia**: 0-1\
   Regolate la visibilità delle normali della buccia.
 * **Intensità Height Della Buccia**: 0-1\
-  Regolate l&#39;impatto delle bucce sulla mappa del height.
+  Regolate l&#39;impatto delle bucce sulla mappa dell&#39;altezza.
 
 **Gocce**
 
@@ -88,7 +88,7 @@ Nelle immagini seguenti è possibile visualizzare un materiale metallico prima e
 * **Usa maschera**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocate la maschera.
   * **Maschera personalizzata - Inverti**: attiva/disattiva\

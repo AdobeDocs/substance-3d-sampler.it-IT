@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
 breadcrumb-title: ''
 description: Scopri come risolvere i problemi di visualizzazione dei font in Substance 3D Sampler su sistemi Windows Enterprise in cui è attivato il blocco dei font non attendibile.
 helpx_creative_field: ""

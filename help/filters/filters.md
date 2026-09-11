@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/it/substance-3d-sampler/filters.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters.html'
 breadcrumb-title: ''
 description: Scopri come utilizzare i filtri in Substance 3D Sampler per modificare, migliorare e creare materiali con effetti procedurali e basati su immagini.
 helpx_creative_field: ''
@@ -22,14 +22,14 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
-> Il supporto per luci ambiente e trame verrà rimosso con il rilascio di Sampler V5.2. La rimozione delle luci ambiente includerà anche la rimozione di Strumenti HDRI e filtri.
+> Il supporto per luci ambientali e trame verrà rimosso con Sampler V5.2. La rimozione delle luci ambientali comprende anche la rimozione di Strumenti HDRI e filtri.
 
 In Adobe Substance 3D Sampler, i filtri sono lo strumento principale utilizzato per modificare e regolare le risorse. Sampler include i seguenti tipi di filtri:
 
 * [Generatori](../filters/generators/generators.md): introduci nuovi elementi al tuo materiale.
 * [Regolazioni](../filters/adjustments/adjustments.md): regolate i valori dei canali del materiale.
 * [Strumenti](../filters/tools/tools.md) - trovare e correggere i problemi tecnici.
-* [Strumenti HDRI](../filters/hdri-tools/hdri-tools.md): filtri specifici per le luci ambiente.
+* [Strumenti HDRI](../filters/hdri-tools/hdri-tools.md): filtri specifici per le luci ambientali.
 * [Indossare e finire](../filters/wear-and-finish/wear-and-finish.md) - cambia l&#39;aspetto del tuo materiale.
 
 È possibile creare filtri personalizzati utilizzando Adobe Substance 3D Designer -[fai clic qui per scoprire come](custom-filters.md).

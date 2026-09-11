@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/features-and-workflows/texture-import.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-import.html"
 breadcrumb-title: ''
-description: Scoprite come importare le texture in Substance 3D Sampler per utilizzare i file di immagine esistenti nei flussi di lavoro di creazione del materiale.
+description: Scoprite come importare texture in Substance 3D Sampler per utilizzare i file di immagine esistenti nei flussi di lavoro di creazione del materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > Texture Import
 helpx_experience_level: ""
@@ -28,11 +28,11 @@ La corrispondenza dei canali si basa sulle convenzioni di denominazione specific
 
 ## OpenPBR
 
-Sampler abbinerà i file con i seguenti identificatori di OpenPBR al canale equivalente nel materiale.
+Sampler abbinerà i file con gli OpenPBR seguenti al canale equivalente nel materiale.
 
 >[!NOTE]
 >
-> Gli identificatori di canale di height sono gli stessi utilizzati per ASM.
+> Gli identificatori dei canali di height sono gli stessi utilizzati per ASM.
 
 
 | Identificatore OpenPBR | Utilizzo SBSAR |
@@ -53,7 +53,7 @@ Sampler abbinerà i file con i seguenti identificatori di OpenPBR al canale equi
 | transmission_dispersione_anisotropia | transmissionScatterAnisotropy |
 | transmission_dispersion_scale | transmissionDispersionScale |
 | transmission_dispersion_abbe_number | transmissionDispersionAbbeNumber |
-| subsurface_weight | subsurfaceWeight/translucency |
+| subsurface_weight | subsurfaceWeight/traslucidità |
 | subsurface_color | subsurfaceColor/scatteringColor |
 | subsurface_radius | subsurfaceRadius/scatteringDistance |
 | subsurface_radius_scale | subsurfaceRadiusScale/scatteringDistanceScale |
@@ -84,11 +84,11 @@ Sampler abbinerà i file con i seguenti identificatori di OpenPBR al canale equi
 
 Di seguito è riportato un elenco delle convenzioni di denominazione dei file supportate per ciascun canale:
 
-| **Canale** | **Materiale Adobe Standard** |
+| **Canale** | **Adobe Standard Material** |
 | --- | --- |
 | **Occlusione ambiente** | <ul><li>ambientocclusione</li><li>ao</li><li>occlusione</li><li>occlusione_ambientale</li></ul> |
 | **Colore di base** | <ul><li>basecolor</li><li>colore</li><li>albedo</li><li>base_color</li><li>base</li><li>col</li><li>colore</li><li>base_color</li><li>basecolor</li></ul> |
-| **Diffusione** | <ul><li>diffusione</li><li>diff</li></ul> |
+| **Diffusa** | <ul><li>diffusione</li><li>diff</li></ul> |
 | **Emissivo** | <ul><li>con emissioni</li></ul> |
 | **Lucentezza** | <ul><li>lucentezza</li><li>lucidalabbra</li></ul> |
 | **Height** | <ul><li>height</li><li>heightmap</li><li>spostamento</li><li>disp</li></ul> |

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/paint.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/paint.html"
 breadcrumb-title: ''
-description: Utilizzate il filtro Disegno di Substance 3D Sampler per aggiungere livelli di pittura, rivestimenti ed effetti di superficie colorata ai materiali.
+description: Utilizza il filtro Pittura di Substance 3D Sampler per aggiungere livelli di pittura, rivestimenti ed effetti di superficie colorati ai materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Paint
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrizione
 
-Il **filtro Pittura** consente di coprire il materiale in un livello di pittura di thickness variabile.
+Il **filtro Pittura** consente di coprire il materiale in un livello di pittura di thickness variabili.
 
 *Materiale metallico con sopra vernice usurata.*
 
@@ -63,22 +63,22 @@ Il **filtro Pittura** consente di coprire il materiale in un livello di pittura 
 * **Numero casuale**:\
   Il valore di inizializzazione casuale determina i valori casuali di altri parametri che utilizzano la casualità in questo filtro.
 * **Colore**: selezione colore\
-  Impostate il colore del disegno.
+  Impostate il colore della pittura.
 * **Rugosità**: 0-1\
-  Impostate la ruvidezza delle aree coperte dalla vernice.
+  Impostate la rugosità delle aree coperte dalla pittura.
 * **Thickness**: 0-1\
-  Regolate la viscosità e il thickness della vernice. Questo incide sulla quantità di height sottostante e di informazioni normali visibili attraverso il colore.
+  Regolate la viscosità e il thickness della vernice. Ciò influisce sulla quantità di informazioni normali e di height sottostanti visibili attraverso la pittura.
 * **Sbuccia**: 0-1\
   Aggiungete le patch in cui la vernice si è staccata dal materiale sottostante.
 * **Granulosità**: 0-1\
-  Modificate la granulosità della superficie del disegno.
+  Modificate la granulosità della pittura.
 * **Granulosità**: 1-5\
-  Regolate la scala della texture usata per creare le granulosità.
+  Regolate la scala della texture usata per creare i granuli.
 
 **Maschera**
 
 * **Maschera cavità**: attiva/disattiva\
-  Create una maschera in base alle cavità presenti nella mappa del height. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
+  Create una maschera basata sulle cavità presenti nella mappa dell&#39;altezza. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Dimensioni cavità**: 0-1\
     Regolate l’intervallo height usato per creare la maschera della cavità.
   * **Intensità cavità**: 0-1\
@@ -88,7 +88,7 @@ Il **filtro Pittura** consente di coprire il materiale in un livello di pittura 
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocate la maschera.
   * **Maschera personalizzata - Inverti**: attiva/disattiva\
@@ -97,7 +97,7 @@ Il **filtro Pittura** consente di coprire il materiale in un livello di pittura 
 **Parametri avanzati**
 
 * **Colore di base**: attiva/disattiva\
-  Consente di impostare se il canale del colore di base è interessato dal filtro.
+  Consente di impostare se il filtro agisce sul canale del colore di base.
 * **Metallico**: attiva/disattiva\
   Imposta se il filtro agisce sul canale metallico.
   * **Valore metallico**: 0-1\
@@ -111,18 +111,18 @@ Il **filtro Pittura** consente di coprire il materiale in un livello di pittura 
 * **Height**: attiva/disattiva\
   Consente di impostare se il filtro agisce sul canale del height. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
   * **Height - Intensità**: 0-1\
-    Regola il contrasto della mappa del height.
+    Regolate il contrasto della mappa dell&#39;altezza.
 * **Opacità**: attiva/disattiva\
   Impostate se il filtro agisce sul canale di opacità. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
   * **Opacità - Valore**: 0-1\
     Modificate l&#39;opacità del materiale.
 * **Emissivo**: attiva/disattiva\
-  Impostare se il canale di emissione è influenzato dal filtro. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
+  Impostate se il filtro agisce sul canale emissivo. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
   * **Emissivo - Colore**: selezione colore\
-    Imposta il colore del canale di emissione.
-* **Occlusione ambiente**: attiva/disattiva\
-  Consente di specificare se il filtro agisce sul canale di occlusione dell’ambiente. Se questa opzione è attivata, compaiono i seguenti controlli aggiuntivi:
+    Imposta il colore del canale emissivo.
+* **Occlusione ambientale**: attiva/disattiva\
+  Consente di impostare se il canale di occlusione ambientale è interessato dal filtro. Se questa opzione è attivata, compaiono i seguenti controlli aggiuntivi:
   * **Occlusione ambiente - Intensità**: 0-1\
     Regolate l’intensità dell’AO generato.
-  * **Occlusione ambiente** **- Raggio**: 0-1\
+  * **Occlusione ambientale** **- Raggio**: 0-1\
     Regolate il raggio dell’effetto AO.

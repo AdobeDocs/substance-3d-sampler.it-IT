@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences.html"
 breadcrumb-title: ''
 description: Scopri come configurare le preferenze in Substance 3D Sampler per personalizzare le impostazioni dell’applicazione e ottimizzare il flusso di lavoro.
 helpx_creative_field: ""
@@ -59,17 +59,17 @@ Sono disponibili le seguenti opzioni:
     Imposta la strategia di risoluzione predefinita utilizzata nell’applicazione.
   * **modello di materiale predefinito**
     Impostate il modello di default da utilizzare durante la creazione di un materiale o quando le azioni rapide devono altrimenti scegliere un modello di materiale.
-  * **Affiancatura texture materiale predefinita - U**\
-    Impostate l’opzione predefinita Affiancatura texture U.
+  * **Affiancamento texture materiale predefinito - U**\
+    Impostate l’Affiancamento della texture U predefinita.
   * **Affiancatura texture materiale predefinita - V**\
-    Impostate l’affiancatura predefinita della texture V.
+    Impostate l’Affiancamento predefinito della texture V.
   * **Scala di Height predefinita**\
     Imposta la scala di height predefinita per i materiali.
 * **Privacy**
   * **Invia automaticamente statistiche di utilizzo**
     Attiva o disattiva l’invio di statistiche di utilizzo anonime per migliorare Sampler.
 * **Impostazioni colore**
-  * **Selettore colori tinta piatta sperimentale**\
+  * **Selettore tinte piatte sperimentale**\
     Attivate o disattivate il selettore colore sperimentale ogni volta che viene visualizzato un parametro di selezione colore. Il selettore colore sperimentale consente di scegliere i colori direttamente da una raccolta di campioni di PANTONE.
 * **Risorse**
   * **Qualità miniatura**\

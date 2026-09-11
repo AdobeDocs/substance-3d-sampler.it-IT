@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/corrode.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/corrode.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Corrode di Substance 3D Sampler per aggiungere effetti di corrosione e degradazione chimica ai materiali metallici.
 helpx_creative_field: ""
@@ -58,16 +58,16 @@ Il filtro corrode simula l’effetto di un consumo acido nel materiale, lasciand
 * **Intensità danno**: 0-1\
   Regolate la quantità di danno nelle aree interessate.
 * **Intensità Height**: 0-1\
-  Controllare l&#39;impatto del danno sulla mappa del height.
+  Controllare l&#39;impatto del danno sulla mappa di altezza.
 * **Posizione estrusione**: attiva/disattiva\
-  Cambiare la direzione del danno sulla mappa del height. Quando è disattivata, la lesione si riversa in superficie; quando è attivata, la lesione si sviluppa verso l&#39;esterno dalla superficie.
+  Cambiare la direzione del danno sulla mappa dell&#39;altezza. Quando è disattivata, la lesione si riversa in superficie; quando è attivata, la lesione si sviluppa verso l&#39;esterno dalla superficie.
 
 **Maschera**
 
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocate la maschera.
   * **Maschera personalizzata - Inverti**: attiva/disattiva\
@@ -78,7 +78,7 @@ Il filtro corrode simula l’effetto di un consumo acido nel materiale, lasciand
 Alcuni dei parametri avanzati influiscono sull&#39;intero materiale anziché solo sulle aree modificate da questo filtro.
 
 * **Luminosità**: 0-1\
-  Regolate la luminosità o la luminosità per tutto il materiale.
+  Regolate la luminosità o la Luminosità per tutto il materiale.
 * **Contrasto**: da -1 a 1\
   Regolate il contrasto di albedo per tutto il materiale.
 * **Scostamento tonalità**: 0-1\
@@ -86,10 +86,10 @@ Alcuni dei parametri avanzati influiscono sull&#39;intero materiale anziché sol
 * **Saturazione**: 0-1\
   Regolate la saturazione per tutto il materiale.
 * **Intensità normale**: 0-1\
-  Regolare l&#39;intensità della mappa normale in cui è stata interessata dal **filtro Corrode**.
+  Regolate l&#39;intensità della mappa normale in cui è stata interessata dal **filtro Corrode**.
 * **Intervallo Height**: 0-1\
   Aumentate l&#39;intervallo di valori nella mappa del height per l&#39;intero materiale.
 * **Posizione Height**: 0-1\
   Eseguite l&#39;offset del height dell&#39;intero materiale.
-* **Intensità Occlusione ambiente**: 0-1\
+* **Intensità Occlusione ambientale**: 0-1\
   Regola l&#39;intensità dell&#39;impatto AO grazie al **filtro Corrode**.

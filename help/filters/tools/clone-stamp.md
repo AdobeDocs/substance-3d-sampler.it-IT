@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/clone-stamp.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/clone-stamp.html"
 breadcrumb-title: ''
-description: Utilizzate lo strumento Timbro clone in Substance 3D Sampler per clonare e dipingere le aree della texture per velocizzare le operazioni di modifica e riparazione del materiale.
+description: Utilizzate lo strumento Timbro Clona /Clone in Substance 3D Sampler per clonare e pittura le aree della texture per velocizzare le operazioni di modifica e riparazione del materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Clone Stamp
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Timbro clone
+title: Clona /Clone timbro
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Timbro clone
+# Clona /Clone timbro
 
 <table>
 <tr style="border: 0;">
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ## Descrizione
 
-Lo strumento **Timbro clone** consente di duplicare o applicare manualmente patch a parti del materiale. Ciò è utile per correggere le giunture o rimuovere gli errori dal materiale. Il **filtro Timbro clone** è uno degli strumenti disponibili nella barra laterale sinistra.
+Lo strumento **Timbro Clona /Clone** consente di duplicare manualmente o applicare patch a parti del materiale. Ciò è utile per correggere le giunture o rimuovere gli errori dal materiale. Il **filtro Clona /Clone timbro** è uno degli strumenti disponibili nella barra laterale sinistra.
 
-Le immagini seguenti mostrano il **Timbro clone** utilizzato per rimuovere i detriti da un materiale innevato.
+Le immagini seguenti mostrano il **timbro Clona /Clone** utilizzato per rimuovere i detriti da un materiale innevato.
 
 ![](../../assets/3d-2d-filters-cropped-0049-clone-stamp-in.jpg)
 
@@ -43,13 +43,13 @@ Nell&#39;immagine sopra, il materiale della neve include una serie di ramoscelli
 
 ![](../../assets/3d-2d-filters-cropped-0048-clone-stamp-out.jpg)
 
-Lo strumento **Timbro clone** viene utilizzato per rimuovere alcuni ramoscelli e sostituirli con neve pulita.
+Lo strumento **Timbro Clona /Clone** viene utilizzato per rimuovere alcuni ramoscelli e sostituirli con neve pulita.
 
 </td>
 </tr>
 </table>
 
-## Esercitazione timbro clone
+## Esercitazione su Clona /Clone timbro
 
 ## Parametri
 
@@ -86,18 +86,18 @@ Utilizza i controlli di fusione della dissolvenza per regolare singolarmente la 
 * <b>Posizione di destinazione</b>:\
   0-1: Regola la posizione orizzontale di destinazione.\
   0-1: Regola la posizione verticale di destinazione.
-* <b>Modalità di suddivisione in porzioni</b>: menu a discesa\
-  Attivare o disattivare la suddivisione in porzioni.
+* <b>Modalità Affiancamento</b>: menu a discesa\
+  Attivare o disattivare l&#39;Affiancamento.
 
 ## Guida all’uso
 
-Fai clic sullo **strumento Timbro clone** per creare un nuovo livello filtro Timbro clone nella parte superiore della pila di livelli. Puoi anche aggiungere un filtro Timbro clone utilizzando il **pulsante Aggiungi un livello** nel **pannello Livelli**.
+Fai clic sullo strumento **Timbro Clona /Clone** per creare un nuovo livello filtro Timbro Clona /Clone nella parte superiore della Pila livelli. Puoi anche aggiungere un filtro Clona /Clone timbro utilizzando il **pulsante Aggiungi un livello** nel **pannello Livelli**.
 
-La creazione di un livello filtro Timbro clone apre automaticamente la **vista 2D** nella **finestra della vista**. Quando è selezionato il livello Timbro clone, nella parte superiore della **vista 2D** viene visualizzata una **barra degli strumenti**.
+La creazione di un livello filtro Clona /Clone timbro apre automaticamente **Vista 2D** nella **finestra della vista**. Quando è selezionato il livello Timbro Clona /Clone, viene visualizzata una **barra degli strumenti** nella parte superiore del **Vista 2D**.
 
 ![](../../assets/alchemist-2020-2-clone.gif){width="300px"}
 
-Per iniziare a utilizzare lo strumento Timbro clone, fate clic e trascinate sull&#39;area problematica nella **vista 2D**. Il materiale inizierà ad essere aggiornato automaticamente in base alla sorgente. Le aree in cui si utilizza lo **strumento Timbro clone** sono evidenziate.
+Per iniziare a utilizzare lo strumento timbro Clona /Clone, fai clic e trascina sull&#39;area problematica nella **Vista 2D**. Il materiale inizierà ad essere aggiornato automaticamente in base alla sorgente. Le aree in cui si utilizza lo **strumento timbro Clona /Clone** sono evidenziate.
 
 ## Barra degli strumenti
 
@@ -110,16 +110,16 @@ Per iniziare a utilizzare lo strumento Timbro clone, fate clic e trascinate sull
 </td>
 <td width="83.33%" style="border: 0;" valign="top">
 
-Mentre è selezionato il livello Timbro clone, nella vista 2D viene visualizzata una barra degli strumenti con controlli aggiuntivi.
+Quando è selezionato il livello Clona /Clone timbro, nella Vista 2D viene visualizzata una barra degli strumenti con controlli aggiuntivi.
 
 * Seleziona lo <b>strumento Pennello </b> da aggiungere alla maschera o lo <b>strumento Cancella </b> da rimuovere dalla maschera.
 * Impostate le dimensioni dello strumento attualmente selezionato.
 * Accedere a controlli aggiuntivi:
-  * <b>Affiancatura pennello</b>: \
-    Attiva/disattiva la suddivisione in porzioni del pennello X e Y.
+  * <b>Affiancamento pennello</b>: \
+    Attiva/disattiva Affiancamento pennello X e Y.
   * <b>Sovrapposizione:</b>\
-    Attivate o disattivate la visualizzazione della sovrapposizione mentre passate il mouse sulla vista 2D.
-* Visualizzare i controlli della vista 2D.
+    Attivate o disattivate la visualizzazione della sovrapposizione mentre passate il mouse sopra il Vista 2D.
+* Visualizzare i controlli vista 2D.
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ Mentre è selezionato il livello Timbro clone, nella vista 2D viene visualizzata
 
 ## Selezione sorgente
 
-Tenete premuto Ctrl e fate clic nella vista 2D per aggiungere una nuova sorgente. L’aggiunta di una nuova sorgente creerà un timbro aggiuntivo sotto il livello Timbro clone nel <b>pannello Livelli</b>. Puoi controllare ogni timbro singolarmente.
+Usa Ctrl + clic nel vista 2D per aggiungere una nuova sorgente. L&#39;aggiunta di una nuova sorgente creerà un timbro aggiuntivo sotto il livello Clona /Clone timbro nel <b>pannello Livelli</b>. Puoi controllare ogni timbro singolarmente.
 
 >[!NOTE]
 >
@@ -141,6 +141,6 @@ Tenete premuto Ctrl e fate clic nella vista 2D per aggiungere una nuova sorgente
 
 | Azione | Windows + Linux | MacOs |
 | --- | --- | --- |
-| Aumenta dimensione pennello | &rbrack; o Ctrl + rotellina del mouse | &rbrack; o Comando + rotellina del mouse |
-| Riduci dimensione pennello | &lbrack; o Ctrl + rotellina del mouse | &lbrack; o Comando + rotellina del mouse |
+| Aumenta dimensione pennello | ] o Ctrl + rotellina del mouse | ] o Comando + rotellina del mouse |
+| Riduci dimensione pennello | [ o Ctrl + rotellina del mouse | [ o Comando + rotellina del mouse |
 | Impostare la sorgente | Ctrl + clic sinistro | Cmd+clic sinistro |

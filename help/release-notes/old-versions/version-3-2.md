@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
 breadcrumb-title: ''
 description: Consultate le note sulla versione per Substance 3D Sampler versione 3.2 per informazioni sul flusso di lavoro di digitalizzazione dei materiali, nuovi filtri e metadati personalizzati.
 helpx_creative_field: ""
@@ -73,7 +73,7 @@ A questa versione sono state aggiunte nuove funzioni di esportazione.
 
   ![](../../assets/compressionsbsar.png){width="400px"}
 * Imposta il tipo di grafico quando si esporta un file .sbs(ar)
-* Mantieni proporzioni fisiche per EXR, JPEG, PNG, TARGA, TIFF
+* Mantieni il rapporto fisico per EXR, JPEG, PNG, TARGA, TIFF
 
   ![](../../assets/screenshot-2022-02-16-at-15-28-09.png){width="400px"}
 
@@ -91,15 +91,15 @@ A questa versione sono state aggiunte nuove funzioni di esportazione.
 * [Dimensioni fisiche] Aggiungi strumento di misurazione automatica Dimensioni fisiche
 * [Dimensioni fisiche] Aggiungi strumento di diagnostica Dimensioni fisiche
 * [Dimensioni fisiche] Consente di impostare il valore z della Dimensioni fisiche
-* [Dimensioni fisiche] Widget a discesa per impostare il livello di zoom nella vista 2D
+* [Dimensioni fisiche] Widget a discesa per impostare il livello di zoom nella Vista 2D
 * [Dimensioni fisiche] Nuova opzione &quot;Display with physical ratio&quot; (Visualizzazione con rapporto fisico) nel menu a discesa livello di zoom
 * [Dimensioni fisiche] Nuova opzione &quot;Adatta alla dimensioni fisiche&quot; nel menu a discesa del livello di zoom
-* [Dimensioni fisiche] Visualizza la Dimensioni fisiche nella vista 2D
+* [Dimensioni fisiche] Visualizza la Dimensioni fisiche nella Vista 2D
 * [Dimensioni fisiche] Visualizza la Dimensioni fisiche nella finestra della vista 3D
 * [Dimensioni fisiche] Nella finestra di dialogo di importazione delle immagini, mostra profondità dimensioni fisiche se è presente una mappa di height importata
 * [Dimensioni fisiche] Visualizza la Dimensioni fisiche nel menu di scelta rapida della risorsa
 * [Dimensioni fisiche] Impostate l’unità di lunghezza nelle Preferenze
-* [Dimensioni fisiche] Esporta le texture rispettando il rapporto fisico
+* [Dimensioni fisiche] Esportare texture che rispettino il rapporto fisico
 * [Metadati] Possibilità di aggiungere metadati personalizzati a una risorsa creata dall’utente
 * [Esporta] Esportare metadati personalizzati in file .sbs(ar)
 * [Esportazione] Esportazione di metadati di descrizione, categoria, autore e tag nei file .sbs(ar)
@@ -108,7 +108,7 @@ A questa versione sono state aggiunte nuove funzioni di esportazione.
 * [Export] Esporta la miniatura della risorsa nei file .sbs(ar)
 * [Export] Imposta il tipo di grafico quando si esporta un file .sbs(ar)
 * [Applicazione] Il motore in tempo reale 2021 non è più disponibile
-* [Applicazione] Annulla/Ripeti ora supporta le modifiche del cursore Divisione in porzioni (U,V) e Scala height
+* [Applicazione] Annulla/Ripeti ora supporta le modifiche del cursore Affiancamento (U,V) e Scala height
 * [Rendering] Genera cache disco quando la risorsa creata viene salvata
 * [Risorse] Utilizzare Ctrl+clic per attivare più filtri per il tipo di risorsa nel pannello Risorse
 * [UI] Possibilità di bloccare i cursori Porzione (U,V)
@@ -121,21 +121,21 @@ A questa versione sono state aggiunte nuove funzioni di esportazione.
 * [Content] Nuovo filtro per cambio canale
 * [Contenuto] Tutti i filtri pertinenti sono ora a conoscenza della Dimensioni fisiche
 * [Content] Nuove icone per Finitura legno
-* [Content] Tutti i filtri sono ora compatibili con i canali ASM (Adobe Standard Materials)
+* [Contenuto] Tutti i filtri sono ora compatibili con i canali di Adobe Standard Material (ASM)
 * [Content] I filtri possono ora avere una variazione di &quot;ambiente&quot;
 
 **Corretto:**
 
-* [2D View] Il canale rimane nell&#39;elenco quando viene rimosso
+* [vista 2D] Il canale rimane nell&#39;elenco quando viene rimosso
 * [Applicazione] Impossibile duplicare una risorsa caricata da Esplora file del sistema operativo
 * [Applicazione] Arresto anomalo all’uscita
-* [Applicazione] A volte si verifica un arresto anomalo quando si fa clic su &quot;Risorse per iniziare&quot; nel pannello Risorse
-* [Applicazione] Arresto anomalo durante l’eliminazione di un materiale
+* [Applicazione] Arresto anomalo che talvolta si verifica quando si fa clic su &quot;Risorse per iniziare&quot; nel pannello Risorse
+* arresto anomalo [Applicazione] durante l&#39;eliminazione di un materiale
 * [Application] La variabile di ambiente &quot;SUBSTANCE\_DISABLE\_SPECIFIC\_FEATURES&quot; è ancora attiva se impostata su &quot;0&quot; o &quot;&quot;.
 * [Applicazione] Si verifica un blocco durante il salvataggio di un progetto con più materiali
-* [Applicazione] L’importazione di un’immagine può causare un arresto anomalo
+* [Applicazione] L&#39;importazione di un&#39;immagine può provocare un arresto anomalo
 * [Applicazione] Alcune risorse iniziali mancanti al primo avvio
-* [Esportazione] L’esportazione di una risorsa a volte causa un arresto anomalo
+* [Esportazione] L’esportazione di una risorsa a volte genera un arresto anomalo
 * [Livelli] Impossibile importare immagini quando il pannello dei livelli è chiuso o invisibile
 * [Livelli] Se si cambia la lingua, la risorsa corrente viene ricalcolata
 * [Livelli] Se si modifica l’utilizzo di un’immagine importata, la variazione del filtro da utilizzare non viene aggiornata
@@ -144,13 +144,13 @@ A questa versione sono state aggiunte nuove funzioni di esportazione.
 * [Livelli] Non è consigliato alcun aggiornamento quando si aggiorna un filtro personalizzato sul disco
 * [Livelli] Il formato dei pixel del canale normale a volte è errato
 * [Livelli] Alcuni livelli vengono comunque calcolati anche quando non sono visibili
-* [Livelli] Gli strumenti di visualizzazione 2D potrebbero essere interrotti quando si attiva o disattiva la visibilità di un livello
+* [Livelli] Quando si attiva o disattiva la visibilità di un livello, gli strumenti di Vista 2D potrebbero essere danneggiati
 * [Layers] L&#39;interfaccia si blocca quando si utilizza Image to Material (AI)
-* [Livelli] Alternando la visibilità del livello del filtro Trasforma si interrompe lo strumento di visualizzazione 2D e si potrebbe verificare un arresto anomalo
-* [Livelli] Troppe ricalcoli durante la rimozione di un livello dal gruppo di livelli
+* [Livelli] Attivando o disattivando la visibilità del livello del filtro di Trasforma si interrompe lo strumento Vista 2D e si potrebbe verificare un arresto anomalo
+* [Livelli] Troppe rielaborazioni durante la rimozione di un livello dalla Pila livelli
 * [Livelli] Quando un filtro composto contiene un input/output insolito o personalizzato, Sampler non lo calcola
 * [Prestazioni] Il pannello Risorse si apre lentamente
-* [Prestazioni] Evitate inutili ricalcoli dello stack di livelli
+* [Prestazioni] Evitare di ricalcolare la Pila livelli in modo non necessario
 * [Prestazioni] Il caricamento delle risorse del progetto richiede troppo tempo
 * [Prestazioni] Impossibile utilizzare la cache di rendering sul disco
 * [Prestazioni] Il passaggio da un livello all’altro è lento

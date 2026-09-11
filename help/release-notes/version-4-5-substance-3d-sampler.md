@@ -43,9 +43,9 @@ Ulteriori informazioni [qui](../pipeline-and-integrations/substance-connector.md
 <b>Corretto:</b>
 
 * [Parametri esposti] L&#39;esposizione dei valori di input .sbsar non funziona
-* [Layers] Il colore di base diventa rosso con immagini in scala di grigi
+* [Livelli] Il Colore di base diventa rosso con immagini in scala di grigi
 * [Rendering] Le immagini in scala di grigio utilizzate nei canali di colore hanno uno spazio cromatico errato
 * [Scripting] L’utilizzo di un predefinito di esportazione a volte non esporta i canali previsti
 * dirt [Content]: l’applicazione di un filtro Dirt sopra l’immagine nel materiale genera una normale nera.
-* [Content] Rilievo: il ridimensionamento di un pattern nel filtro rilievo non è lineare tra 0 e 1
+* [Contenuto] Effetto rilievo: il ridimensionamento di un pattern nel filtro effetto rilievo non è lineare tra 0 e 1
 * [Content] Creare un riquadro - Maggiore coerenza tra height e normale

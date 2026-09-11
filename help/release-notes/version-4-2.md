@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/release-notes/version-4-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-2.html"
 breadcrumb-title: ''
 description: Consultate le note sulla versione per Substance 3D Sampler versione 4.2 per informazioni su Image to Material, funzione di ingrandimento dell'intelligenza artificiale e controlli della risoluzione basati sull'intelligenza artificiale.
 helpx_creative_field: ""
@@ -44,9 +44,9 @@ La versione aggiornata ha un nuovo parametro per selezionare il tipo di material
 
 Grazie al nuovo livello Ingrandisci, Sampler migliora le caratteristiche del materiale o dell&#39;immagine moltiplicando per 2 o 4 la risoluzione della risorsa (materiale o immagine).
 
-Questo consente di aumentare la qualità e il livello di dettagli delle texture a bassa risoluzione per mantenere la coerenza delle funzioni tra le mappe durante l’ingrandimento delle texture.
+Ciò consente di aumentare la qualità e il livello di dettagli delle texture a bassa risoluzione mantenendo la coerenza delle caratteristiche tra le mappe durante l&#39;ingrandimento delle texture.
 
-Il filtro Ingrandisci consente di migliorare il colore di base, il colore normale, il height, la ruvidità e i canali metallici del materiale.
+Il filtro Ingrandisci consente di migliorare i canali colore di base, normale, height, rugosità e metallico del materiale.
 
 Per ottimizzare la qualità dei risultati, il filtro Ingrandisci deve essere utilizzato sui dati (materiale e immagine) alla loro risoluzione originale senza precedenti modifiche di risoluzione.
 
@@ -82,20 +82,20 @@ Ciò consente di aumentare la qualità dei materiali, ma anche le prestazioni me
 * [Modello creazione materiale] Fornisci un feedback quando non è possibile utilizzare alcune immagini importate
 * [Modello di creazione del materiale] Avvisa quando le dimensioni dell&#39;immagine non sono coerenti
 * [Modello di creazione materiale] Nuovi avvisi e descrizioni comandi
-* [Livelli] Visualizza la risoluzione dei livelli nel gruppo di livelli
+* [Livelli] Visualizza la risoluzione dei livelli nella Pila livelli
 * [Livelli] La risoluzione di calcolo dei livelli può ora essere impostata su Dimensione documento o Dimensione input
-* [Livelli] Mostra la risoluzione dei livelli nel gruppo di livelli
+* [Livelli] Mostra la risoluzione dei livelli nella Pila livelli
 * [Livelli] Impostate i criteri di risoluzione dei livelli su Input documento o Input livello quando applicabile
 * [Layers] Avvisa l’utente quando un filtro Ingrandisci viene aggiunto manualmente e fornisce la documentazione necessaria
 * [Livelli] Avvisa l’utente quando esegue un ingrandimento lineare e propone di utilizzare il filtro Ingrandisci
-* [Livelli] Il calcolo di un livello di immagine in materiale (AI) ora può essere annullato più rapidamente, per migliorare i tempi di rendering durante l’ottimizzazione della pila di livelli
-* [Livelli] Il calcolo di un livello di ingrandimento può ora essere annullato più rapidamente per migliorare i tempi di rendering durante l’ottimizzazione del gruppo di livelli
+* [Livelli] Il calcolo di un livello di immagine in materiale (AI) ora può essere annullato più rapidamente, per migliorare i tempi di rendering durante l’ottimizzazione della Pila livelli
+* [Livelli] Il calcolo di un livello di ingrandimento ora può essere annullato più rapidamente per migliorare i tempi di rendering durante l’ottimizzazione della Pila livelli
 * [Esporta] Consenti l’override della risoluzione delle texture esportate
 * [Esporta] L’elenco Canali da esportare è ora ordinato
 * [Esporta] Visualizza la risoluzione del canale nell’elenco canali da esportare
 * [Applicazione] Nuova preferenza per abilitare o disabilitare le reti neurali con accelerazione GPU
 * [UI] Menu a discesa con risoluzione migliorata
-* [UI] Nuove icone per i filtri Trasformazione trama, Elaborazione post-trama e Intreccio
+* [UI] Nuove icone per i filtri Trasforma trama, Elaborazione post trama e Intreccio
 * [UI] Rinomina il pannello &quot;Condividi&quot; in &quot;Esporta&quot;
 * [Scripting] Aggiungi il supporto per la risoluzione dell’output dei livelli all’API di esportazione
 * [Scripting] Sono stati aggiunti ritaglio, ingrandimento e dimensione del documento all’API di importazione delle immagini
@@ -107,13 +107,13 @@ Ciò consente di aumentare la qualità dei materiali, ma anche le prestazioni me
 
 * [capture 3D] Miglioramento della denominazione delle opzioni di precisione nei parametri delle impostazioni di allineamento
 * [Applicazione] L’importazione di immagini con non multipli di 16 dimensioni può causare un arresto anomalo
-* [Applicazione] Arresto anomalo durante la duplicazione di una risorsa nel pannello Progetto
-* [Applicazione] Arresto anomalo quando si cambia risorsa nel pannello Progetto
+* [Applicazione] Arresto anomalo di duplicazione di una risorsa nel pannello Progetto
+* [Applicazione] Arresto anomalo di cambio di risorse nel pannello Progetto
 * [Contenuto] Il disegno di una maschera personalizzata per il filtro Snow non funziona correttamente
 * [Parametri esposti] Le modifiche ai parametri esposti possono andare perdute quando si cambia materiale
-* [Interoperabilità] L&#39;invio di un materiale dal pannello Esporta può causare un arresto anomalo
+* [Interoperabilità] L&#39;invio di un materiale dal pannello Esporta può provocare un arresto anomalo
 * [Livelli] Riempimento in base al contenuto interrompe l’elaborazione quando si passa da un input di immagine singola a un input di materiale
-* [Livelli] Arresto anomalo dopo la duplicazione di una luce ambiente che contiene un materiale
+* [Livelli] Arresto anomalo dopo la duplicazione di una Luce ambientale che contiene un materiale
 * [Livelli] Il livello di importazione immagine visualizza un nome immagine errato nel pannello Proprietà se il file immagine è stato rinominato
 * [Livelli] A volte una rotella viene visualizzata su un livello inattivo
 * [Livelli] A volte la modifica dell’utilizzo dell’output di un’immagine in un livello di importazione di immagini non funziona

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/preferences/layer-resolution.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
 breadcrumb-title: ''
 description: Scoprite come configurare la risoluzione dei livelli in Substance 3D Sampler per controllare la risoluzione dei singoli livelli nello stack di materiale.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 # Risoluzione livello
 
-Il sistema di risoluzione dei livelli offre il pieno controllo della risoluzione di ogni livello nel gruppo di livelli. Un livello può assumere la risoluzione delle dimensioni del documento o la risoluzione del livello sottostante.
+Il sistema di risoluzione dei livelli offre il pieno controllo della risoluzione di ogni livello nella Pila livelli. Un livello può assumere la risoluzione delle dimensioni del documento o la risoluzione del livello sottostante.
 
 La risoluzione viene visualizzata su ciascun livello per visualizzare facilmente in che modo qualsiasi lavoro sarà influenzato dalla risoluzione del materiale.
 

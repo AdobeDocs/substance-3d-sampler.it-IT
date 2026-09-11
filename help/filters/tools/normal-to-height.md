@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/normal-to-height.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/normal-to-height.html"
 breadcrumb-title: ''
-description: Utilizza lo strumento Normale al Height in Substance 3D Sampler per convertire le mappe normali in mappe di height per i flussi di lavoro di creazione del materiale.
+description: Utilizza lo strumento Normale al Height in Substance 3D Sampler per convertire le mappe normali in mappe di altezza per i flussi di lavoro di creazione del materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Normal to Height
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ ht-degree: 2%
 
 Genera le informazioni di height in base al canale normale.
 
-Le immagini seguenti mostrano il **filtro Normale al Height** in azione. Nella prima immagine, la mappa del height non contiene informazioni sul height. Nella seconda immagine, dopo l&#39;applicazione del **Normale al Height** **filtro**, viene generata una mappa di height realistica.
+Le immagini seguenti mostrano il **filtro Normale al Height** in azione. Nella prima immagine, la mappa dell&#39;altezza non contiene informazioni sul height. Nella seconda immagine, dopo l&#39;applicazione del **Normale al Height** **filtro**, viene generata una mappa dell&#39;altezza realistica.
 
 ![](../../assets/3d-2d-filters-cropped-0009-normal-to-height-in.jpg)![](../../assets/filters-cropped-0008-normal-height-out.jpg)
 
@@ -45,4 +45,4 @@ Le immagini seguenti mostrano il **filtro Normale al Height** in azione. Nella p
 
 ## Parametri
 
-Questo filtro non ha parametri. Per utilizzarlo, è sufficiente aggiungerlo alla parte superiore della pila di livelli.
+Questo filtro non ha parametri. Per usarlo, è sufficiente aggiungerlo alla parte superiore della Pila livelli.

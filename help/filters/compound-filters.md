@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/it/substance-3d-sampler/filters/compound-filters.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/compound-filters.html'
 breadcrumb-title: ''
 description: Scoprite come creare e utilizzare i filtri composti in Substance 3D Sampler per combinare più filtri in singoli livelli riutilizzabili.
 helpx_creative_field: ''
@@ -38,7 +38,7 @@ Un filtro composto è un file **.ssafilter** che è una cartella compressa .7zip
 ### Contenuto file descrizione
 
 * Nome: etichetta del filtro composto visualizzata nell’interfaccia
-* ID: Identificatore univoco del filtro composto
+* ID: identificatore univoco del filtro composto
 * Categoria: categoria del filtro composto utilizzato nel pannello Risorse quando raggruppi le risorse per categoria
 * Versione: numero incrementale per definire la versione del filtro composto.
 * Nodo: elenco di nodi da utilizzare
@@ -104,7 +104,7 @@ Un filtro composto è un file **.ssafilter** che è una cartella compressa .7zip
 
 ### Versione
 
-L’uso di un numero di versione consente di tenere traccia delle diverse iterazioni. Quando si apre una pila di livelli creata con una versione precedente del filtro composto, viene visualizzata una notifica che suggerisce di eseguire l’aggiornamento alla versione più recente.
+L’uso di un numero di versione consente di tenere traccia delle diverse iterazioni. Quando si apre una Pila livelli eseguita con una versione precedente del filtro composto, viene visualizzata una notifica che suggerisce di eseguire l’aggiornamento alla versione più recente.
 
 ### Nodo
 
@@ -143,10 +143,10 @@ Ogni elemento ha 3 attributi:
   * impostare l&#39;input del filtro composto. ID nodo: **FilterInput**
   * per impostare l&#39;output del livello composto, l&#39;ID nodo è **FilterOutput**
 * Utilizzo: dichiarare l&#39;utilizzo che si desidera utilizzare. Sono disponibili 3 opzioni:
-  * Utilizzo singolo alla volta e dichiarazione del collegamento per collegamento (baseColor, normal, height, ambientOcclusion, rugosità, metallizzato, diffuso, specular, lucidità, specularLevel, opacità, emissivo, scan1, ...)
+  * Utilizzo singolo alla volta e dichiarazione del collegamento per collegamento (baseColor, normal, height, ambientOcclusion, rugosità, metallizzato, diffuso, specular, lucentezza, specularLevel, opacità, emissivo, scan1, ...)
   * Potete anche specificare un elenco [&quot;baseColor&quot;, &quot;normal&quot;]. Il primo elemento dell&#39;elenco di **Da** corrisponderà al primo elemento dell&#39;elenco di **A**. ecc...
   * Utilizzare **\*** per consentire a Substance 3D Sampler di effettuare la corrispondenza tra gli usi identici di tutti gli usi del nodo Da e del nodo A (non è possibile combinare **\*** con un altro collegamento, mentre collegamenti singoli ed elenchi sono possibili tra gli stessi nodi)
-* Gruppo: nel caso in cui un nodo abbia più volte lo stesso utilizzo, puoi utilizzare l&#39;attributo Gruppo per selezionare un utilizzo specifico. Per i filtri di fusione, per ottenere il valore baseColor del materiale inferiore usa *Material1* e per ottenere il valore baseColor del materiale superiore usa *Material2*
+* Gruppo: nel caso in cui un nodo abbia più volte lo stesso utilizzo, puoi utilizzare l&#39;attributo Gruppo per selezionare un utilizzo specifico. Esempio: per i filtri Fusione, per ottenere baseColor del materiale inferiore usa *Material1* e per ottenere baseColor del materiale superiore usa *Material2*
 
 ```JSON
 Link between two nodes  

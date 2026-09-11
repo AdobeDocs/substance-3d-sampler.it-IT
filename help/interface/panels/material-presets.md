@@ -28,7 +28,7 @@ Selezionate un modello dalle schede Predefinito o Personalizzato.
 Regolate le impostazioni del materiale (nome, risoluzione, modello di materiale, canali).
 Fate clic su Crea (Create) per iniziare a lavorare con il materiale configurato.
 
-Il modello selezionato definisce la struttura iniziale del materiale, inclusi i canali abilitati e il modo in cui sono impostati nella pila di livelli.
+La maschera selezionata definisce la struttura iniziale del materiale, inclusi i canali abilitati e il modo in cui sono impostati nella Pila livelli.
 
 ## Categorie predefinite
 

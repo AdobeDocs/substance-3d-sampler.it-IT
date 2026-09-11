@@ -70,7 +70,7 @@ Per ogni parametro esposto, il Materiale di base offre due metodi di lavoro:
 ### Valori uniformi (predefinito)
 
 Per impostazione predefinita, i parametri utilizzano valori uniformi (cursori o selettori colore).
-Ciò consente di definire rapidamente l’aspetto generale del materiale senza alcun input di texture.
+Ciò consente di definire rapidamente l&#39;aspetto generale del materiale senza alcun input texture.
 
 I valori uniformi sono ideali per:
 
@@ -83,7 +83,7 @@ I valori uniformi sono ideali per:
 Se disponi già di mappe texture, puoi **ignorare qualsiasi valore uniforme** abilitando il relativo **input mappa personalizzato**.
 
 * Attiva/disattiva l&#39;opzione mappa personalizzata per il parametro
-* Collegate la texture esistente
+* Collegare la texture esistente
 * La mappa sostituisce completamente il valore uniforme
 
 ## Predefiniti
@@ -108,9 +108,9 @@ Funzionamento di questo
 
 Cosa non fa
 
-* Non blocca i valori
+* Non esegue i baking né blocca i valori
 * Non impedisce ulteriori modifiche
-* Non aggiunge automaticamente le mappe texture
+* Non aggiunge automaticamente mappe texture
 
 Potete immaginarlo come la scelta del punto di partenza, senza limitare il punto di partenza.
 

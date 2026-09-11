@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/erode.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/erode.html"
 breadcrumb-title: ''
 description: Utilizzate il Filtro Erosione di Substance 3D Sampler per aggiungere effetti di erosione e di agenti atmosferici che simulano la degradazione naturale del materiale.
 helpx_creative_field: ""
@@ -78,7 +78,7 @@ Le immagini seguenti mostrano come è possibile utilizzare il **Filtro Erosione*
 * **Scanalature**: 0-1
 * **Intensità Dust scanalature**: 0-1
 * **Intensità Scratches scanalature**: 0-1\
-  Regolate l&#39;impatto delle scanalature sulle mappe normali e di height.
+  Regola l&#39;impatto delle scanalature sulle mappe normali e altezza.
 * **Densità micro grana**: 0-1\
   Regolate la densità dei graffi della scanalatura.
 * **Intensità quarzo**: 0-1\
@@ -90,7 +90,7 @@ Le immagini seguenti mostrano come è possibile utilizzare il **Filtro Erosione*
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocate la maschera.
   * **Maschera personalizzata - Inverti**: attiva/disattiva\

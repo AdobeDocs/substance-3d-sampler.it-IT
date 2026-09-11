@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/snow.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/snow.html"
 breadcrumb-title: ''
 description: Usa il filtro Snow in Substance 3D Sampler per aggiungere ai tuoi materiali un accumulo di neve realistico ed effetti del tempo invernale.
 helpx_creative_field: ""
@@ -60,7 +60,7 @@ Usa il **filtro Snow** per aggiungere al tuo materiale qualsiasi cosa, dalla spo
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera personalizzata**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
   * **Sfocatura maschera**: 0-1\
     Sfocate la maschera.
   * **Intensità maschera**: 0-1\

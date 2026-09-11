@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
 breadcrumb-title: ''
 description: Utilizza il filtro Luminosità/Contrasto in Substance 3D Sampler per regolare i livelli di luminosità e contrasto nelle texture e nei livelli di materiale.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrizione
 
-Come suggerisce il nome stesso, il filtro Luminosità/contrasto consente di regolare la luminosità e il contrasto del materiale. È importante notare che il filtro Luminosità/Contrasto può essere utilizzato per specifici canali. Ad esempio, potete aumentare il contrasto del canale di rugosità o la luminosità del canale di emissione.
+Come suggerisce il nome stesso, il filtro Luminosità/contrasto consente di regolare la luminosità e il contrasto del materiale. È importante notare che il filtro Luminosità/Contrasto può essere utilizzato per specifici canali. Ad esempio, potete aumentare il contrasto del canale di rugosità o la luminosità del canale emissivo.
 
 Nelle immagini seguenti, il **filtro Luminosità/Contrasto** è stato utilizzato per aumentare la luminosità e il contrasto di un materiale su piastrelle.
 
@@ -72,7 +72,7 @@ Nelle immagini seguenti, il **filtro Luminosità/Contrasto** è stato utilizzato
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D
+    Seleziona un’immagine da usare come maschera o usa il pennello per pittura una maschera personalizzata direttamente nella Vista 2D
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocare la maschera
   * **Maschera personalizzata - Inverti**: attiva/disattiva\

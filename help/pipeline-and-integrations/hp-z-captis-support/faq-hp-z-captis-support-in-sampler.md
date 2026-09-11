@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
 breadcrumb-title: ''
 description: Accedi alle domande frequenti sul supporto di HP Z Captis in Substance 3D Sampler per trovare risposte sull'integrazione e l'utilizzo dell'hardware.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ La soluzione copre casi d&#39;uso intersettoriali (automobilistico, abbigliament
 +++
 
 +++Quali tipi di materiale possono essere scansionati e acquisiti con Captis?
-È possibile scansionare e acquisire qualsiasi tipo di materiale, ad eccezione di più strati di rivestimento trasparente (le vernici per auto sono escluse dall’ambito di applicazione di Captis). Alcuni materiali specifici potrebbero richiedere un’elaborazione aggiuntiva in Sampler per ottimizzare i risultati. Si prega di notare che gli algoritmi di elaborazione saranno continuamente ottimizzati nel tempo.
+È possibile scansionare e acquisire qualsiasi tipo di materiale, ad eccezione di più strati di rivestimento trasparente (le pitture delle automobili sono escluse dall’ambito di applicazione di Captis). Alcuni materiali specifici potrebbero richiedere un’elaborazione aggiuntiva in Sampler per ottimizzare i risultati. Si prega di notare che gli algoritmi di elaborazione saranno continuamente ottimizzati nel tempo.
 
 +++
 
@@ -53,7 +53,7 @@ Il dispositivo (HP Z Captis) e la licenza (Substance 3D Sampler) sono venduti se
 +++Qual è il livello di integrazione della suite Adobe Substance?
 Il dispositivo HP Z Captis è completamente controllato e gestito tramite Adobe Substance 3D Sampler: è possibile visualizzare in anteprima e avviare l&#39;acquisizione da Substance 3D Sampler; una volta completata l&#39;acquisizione, i canali PBR verranno caricati automaticamente come livello e verrà creato un materiale 3D. Potete continuare a elaborare i vostri materiali con tutti gli strumenti e i filtri disponibili in Sampler.
 
-Una volta che il materiale acquisito è in Substance 3D Sampler, puoi esportarlo in qualsiasi applicazione della suite Substance 3D (Substance 3D Designer, Painter, Stager) e in qualsiasi applicazione di terze parti che supporti la Substance, tra cui 3DS Max, Maya, Blender, Unreal Engine, CLO, Browzwear, VRED, Rhino, Cinema4D e molte altre (consulta l&#39;elenco completo qui: <https://www.adobe.com/it/products/substance3d/plugins.html>).
+Una volta che il materiale acquisito è in Substance 3D Sampler, puoi esportarlo in qualsiasi applicazione della suite Substance 3D (Substance 3D Designer, Painter, Stager) e in qualsiasi applicazione di terze parti che supporti la Substance, tra cui 3DS Max, Maya, Blender, Unreal Engine, CLO, Browzwear, VRED, Rhino, Cinema4D e molte altre (consulta l&#39;elenco completo qui: <https://www.adobe.com/products/substance3d/plugins.html>).
 
 +++
 
@@ -77,36 +77,36 @@ A partire dalla versione del 20 febbraio 2025, è possibile accedere al flusso d
 
 * Il flusso di lavoro Sampler con HP Z Captis è disponibile solo per ora su Windows.
 
-* Le cinque mappe esportate oggi sono Colore base, Rugosità, Normale, Height, Opacità.
+* Le cinque mappe esportate oggi sono Colore di base, Rugosità, Normale, Height, Opacità.
 
 * La modalità Esplora risorse è ancora una versione precedente e non è ancora ottimizzata.
 
-* La suddivisione in porzioni viene eseguita nello stack di livelli Sampler utilizzando i filtri di suddivisione in porzioni correnti.
+* L’Affiancamento viene eseguito in Sampler Pila livelli utilizzando i filtri di Affiancamento correnti.
 
 +++
 
 +++Quali canali PBR sono disponibili?
-A partire dalla versione del 7 agosto 2025, le cinque mappe esportate sono il Colore di base, Rugosità, Normale, Height e Opacità. La pipeline di elaborazione corrente non gestisce ancora la mappa Metalness.
+A partire dalla versione del 7 agosto 2025, le cinque mappe esportate sono: Colore di base, Rugosità, Normale, Height, Opacità. La pipeline di elaborazione corrente non gestisce ancora la mappa Metalness.
 
 +++
 
-+++La suddivisione in porzioni viene effettuata automaticamente?
-La suddivisione in porzioni viene eseguita nella pila di livelli di Sampler utilizzando i filtri di suddivisione in porzioni correnti.
++++L&#39;Affiancamento viene eseguito automaticamente?
+L’Affiancamento viene eseguito nella Pila livelli di Sampler utilizzando i filtri di Affiancamento correnti.
 
-Il filtro Porzione automatica può essere utilizzato per affiancare automaticamente materiali con una struttura ripetitiva definita o piccoli pattern, con un minimo di 3 pattern in ogni direzione. Ulteriori informazioni su questo filtro sono disponibili nella [sezione dedicata della documentazione](../../filters/tools/auto-tiling.md).
+Il filtro Affiancamento automatico può essere utilizzato per affiancare automaticamente materiali con una struttura ripetitiva definita o piccoli pattern, con un minimo di 3 pattern in ogni direzione. Ulteriori informazioni su questo filtro sono disponibili nella [sezione dedicata della documentazione](../../filters/tools/auto-tiling.md).
 
 +++
 
 +++Con quali formati possono essere esportati i materiali scansionati?
-HP Z Captis è gestito in modo nativo da Adobe Substance 3D Sampler. HP Z Captis acquisisce 64 immagini raw (recuperabili dalla cartella locale) e mappe PBR (elaborate dalle immagini raw acquisite e caricate automaticamente in Substance 3D Sampler). Substance 3D Sampler creerà un materiale 3D basato sui canali PBR caricati automaticamente nello stack di livelli Sampler dopo l’acquisizione.
+HP Z Captis è gestito in modo nativo da Adobe Substance 3D Sampler. HP Z Captis acquisisce 64 immagini raw (recuperabili dalla cartella locale) e mappe PBR (elaborate dalle immagini raw acquisite e caricate automaticamente in Substance 3D Sampler). Substance 3D Sampler creerà un materiale 3D basato sui canali PBR caricati automaticamente in Sampler Pila livelli dopo l’acquisizione.
 
-Da Adobe Substance 3D Sampler, puoi esportare il tuo materiale digitale in qualsiasi formato di esportazione disponibile in Substance 3D Sampler: come file Substance (.SBS e .SBSAR) o come texture bitmap, tra cui .PNG, .JPG, .TIFF... (consulta i dettagli nella pagina Web della documentazione Sampler: [https://helpx.adobe.com/it/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md)).
+Da Adobe Substance 3D Sampler, puoi esportare il tuo materiale digitale in qualsiasi formato di esportazione disponibile in Substance 3D Sampler: come file Substance (.SBS e .SBSAR) o come texture bitmap, tra cui .PNG, .JPG, .TIFF... (consulta i dettagli nella pagina Web della documentazione Sampler: [https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md)).
 
 +++
 
 +++Qual è la differenza tra LDR e HDR durante l’acquisizione?
 Durante l’anteprima, puoi scegliere il tipo di output tra LDR (low dynamic range) e HDR (high dynamic range).\
-Anche se si sceglie LDR, le mappe HDR verranno acquisite e salvate sul dispositivo.\
+Anche se si sceglie LDR, le mappe HDR vengono acquisite e salvate sul dispositivo.\
 Si consiglia di selezionare l&#39;LDR, in quanto ciò renderà più gestibile la dimensione del progetto in Sampler e in qualsiasi app di terze parti in cui verrà utilizzato il file sbsar.
 
 +++
@@ -116,14 +116,14 @@ Si consiglia di selezionare l&#39;LDR, in quanto ciò renderà più gestibile la
 +++Come posso utilizzare Captis nella mia pipeline 3D corrente se utilizzo formati di file, standard e specifiche specifici o applicazioni di terze parti?
 HP Z Captis è gestito in modo nativo da Adobe Substance 3D Sampler. Una volta acquisito e digitalizzato il vostro campione di materiale in Substance 3D Sampler, potete esportare senza problemi i vostri materiali digitali:
 
-In qualsiasi applicazione dell’ecosistema Substance 3D (compresi Substance 3D Designer o Substance 3D Painter che supportano vari formati di esportazione: https://experienceleague.adobe.com/it/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats).
+In qualsiasi applicazione dell’ecosistema Substance 3D (compresi Substance 3D Designer o Substance 3D Painter che supportano vari formati di esportazione: https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats).
 
-In tutte le applicazioni che integrano il formato di file Substance come 3DS Max, Maya, Blender, C4D, Rhino, Browzwear, CLO... (vedere l&#39;elenco completo qui: <https://www.adobe.com/it/products/substance3d/plugins.html>). Se utilizzate un’applicazione non presente nell’elenco, potete sempre esportare le immagini di texture PBR e collegarle manualmente a qualsiasi applicazione che non supporti il formato nativo del file di Substance.
+In tutte le applicazioni che integrano il formato di file Substance come 3DS Max, Maya, Blender, C4D, Rhino, Browzwear, CLO... (vedere l&#39;elenco completo qui: <https://www.adobe.com/products/substance3d/plugins.html>). Se si utilizza un&#39;applicazione non elencata in tale elenco, è sempre possibile esportare immagini di texture PBR e collegarle manualmente in qualsiasi applicazione che non supporta il formato di file di Substance in modalità nativa.
 
 +++
 
 +++Quante foto vengono scattate per creare le mappe?
-[8 pannelli luminosi + 1 retroilluminazione] x [8 stati di polarizzazione] x [8 esposizioni di bracketing per HDR] x [4 overdraw to reduced noise] = 2048 + 256 (per retroilluminazione)
+[8 pannelli luminosi + 1 retroilluminazione] x [8 stati di polarizzazione] x [8 esposizioni tra parentesi per HDR] x [4 overdraw to duce noise] = 2048 + 256 (per retroilluminazione)
 
 +++
 

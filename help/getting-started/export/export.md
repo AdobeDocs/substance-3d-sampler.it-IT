@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/export.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html"
 breadcrumb-title: ''
 description: Scoprite come esportare materiali da Substance 3D Sampler in vari formati e predefiniti per utilizzarli in altre applicazioni e motori.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 # Esporta
 
-Puoi esportare le risorse selezionando **Esporta come** nel **menu File** o con la scelta rapida **Ctrl + E**. Verrà aperta la [finestra Esportazione](../../getting-started/export/export-window/export-window.md) in cui è possibile personalizzare l&#39;esportazione.
+Puoi esportare le tue risorse selezionando **Esporta come** nel **menu File** o con la scelta rapida da tastiera **Ctrl + E**. Verrà aperta la [finestra Esportazione](../../getting-started/export/export-window/export-window.md) in cui è possibile personalizzare l&#39;esportazione.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Puoi esportare le risorse selezionando **Esporta come** nel **menu File** o con 
 Sampler supporta i principali formati di file per le tue risorse:
 
 * I materiali possono essere esportati come file **SBS** o **SBSAR**.
-* In alternativa, è possibile esportare i materiali per le texture bitmap per canale nei seguenti formati:
+* In alternativa, potete esportare i materiali dalle texture bitmap per canale nei seguenti formati:
   * **EXR**
   * **JPEG**
   * **PNG**
@@ -45,5 +45,5 @@ Ulteriori informazioni su come esportare e gestire i predefiniti di esportazione
 
 * [Finestra Esporta](../../getting-started/export/export-window/export-window.md)
 * [Predefiniti preimpostati](../../getting-started/export/default-presets/default-presets.md)
-* [Gestione di predefiniti personalizzati](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
+* [Gestione di predefiniti personalizzati](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
 * [Gestione dei predefiniti](managing-presets.md)

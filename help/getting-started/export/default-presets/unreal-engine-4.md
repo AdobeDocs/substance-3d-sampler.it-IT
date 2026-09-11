@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/export/default-presets/unreal-engine-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unreal-engine-4.html"
 breadcrumb-title: ''
 description: Scopri come esportare materiali da Substance 3D Sampler utilizzando il predefinito Unreal Engine 4 per i flussi di lavoro di sviluppo dei giochi.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **ColoreBase**&#x200B;**OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Occlusione ambiente</li><li data-preserve-html="true"><strong>G</strong>: rugosità</li><li data-preserve-html="true"><strong>B</strong>: Metallico</li></ul>**Normale &#x200B;**&#x200B;**Height**&#x200B;**Emissivo** |
+| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **ColoreBase****OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Occlusione ambientale</li><li data-preserve-html="true"><strong>G</strong>: rugosità</li><li data-preserve-html="true"><strong>B</strong>: Metallico</li></ul>**Normale ****Height****Emissivo** |

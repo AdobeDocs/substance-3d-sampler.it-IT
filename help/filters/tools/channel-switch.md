@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/channel-switch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
-description: Utilizza lo strumento Cambia canale in Substance 3D Sampler per riorganizzare e scambiare i canali di colore nelle mappe texture per la creazione di materiale.
+description: Utilizza lo strumento Channel Switch in Substance 3D Sampler per riorganizzare e scambiare i canali di colore nelle mappe texture per la creazione di materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Channel Switch
 helpx_experience_level: ""
@@ -46,7 +46,7 @@ Cambiate i canali delle mappe di output del materiale.
 * **Canale di output:** Selezionare Il canale di destinazione del canale di input.
 * **Opacità:** 0-1\
   Regola l’opacità delle informazioni del canale in relazione alle informazioni esistenti del canale. In altre parole, questo controlla l’opacità della maschera usata per applicare il nuovo riempimento del canale.
-* **Metodo fusione**&#x200B;**:** Selezionare il metodo di fusione per il canale del colore di base. La modifica del metodo di fusione può modificare notevolmente l&#39;aspetto del canale.
+* **Metodo fusione****:** Selezionare il metodo di fusione per il canale del colore di base. La modifica del metodo di fusione può modificare notevolmente l&#39;aspetto del canale.
 
 **Avanzate**
 

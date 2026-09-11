@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: Utilizza il filtro Graffi di Substance 3D Sampler per aggiungere ai materiali segni di graffio realistici ed effetti di danno alla superficie.
 helpx_creative_field: ""
@@ -121,7 +121,7 @@ Per visualizzare questa sezione, è necessario abilitare **Parametri di base > S
 * **Maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocate la maschera.
   * **Maschera personalizzata - Inverti**: attiva/disattiva\
@@ -132,9 +132,9 @@ Per visualizzare questa sezione, è necessario abilitare **Parametri di base > S
 * **Opacità complessiva**: 0-1\
   Regola l’opacità dell’effetto **Filtro memoria virtuale**.
 * **Colore di base**: attiva/disattiva\
-  Consente di impostare se il canale del colore di base è interessato dal filtro. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
+  Consente di impostare se il filtro agisce sul canale del colore di base. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
   * **Colore di base - Colore**: selezione colore\
-    Selezionate il colore di base dei graffi e dei patatini.
+    Seleziona il colore di base dei graffi e delle patatine.
 * **Metallico**: attiva/disattiva\
   Imposta se il filtro agisce sul canale metallico. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
   * **Valore metallico**: 0-1\
@@ -152,20 +152,20 @@ Per visualizzare questa sezione, è necessario abilitare **Parametri di base > S
 * **Height**: attiva/disattiva\
   Consente di impostare se il filtro agisce sul canale del height. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
   * **Height - Intensità**: 0-1\
-    Regola il contrasto della mappa del height.
+    Regolate il contrasto della mappa dell&#39;altezza.
 * **Emissivo**: attiva/disattiva\
-  Impostare se il canale di emissione è influenzato dal filtro. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
+  Impostate se il filtro agisce sul canale emissivo. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
   * **Emissivo - Colore**: selezione colore\
-    Imposta il colore del canale di emissione.
+    Imposta il colore del canale emissivo.
 * **Specular level**: attiva/disattiva\
   Controlla se il filtro agisce sul canale di specular level. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:
   * **Specular level** **- Valore**: 0-1\
     Regolate il valore del canale di specular.
-* **Occlusione ambiente**: attiva/disattiva\
-  Consente di specificare se il filtro agisce sul canale di occlusione dell’ambiente. Se questa opzione è attivata, compaiono i seguenti controlli aggiuntivi:
+* **Occlusione ambientale**: attiva/disattiva\
+  Consente di impostare se il canale di occlusione ambientale è interessato dal filtro. Se questa opzione è attivata, compaiono i seguenti controlli aggiuntivi:
   * **Occlusione ambiente - Intensità**: 0-1\
     Regolate l’intensità dell’AO generato.
-  * **Occlusione ambiente** **- Raggio**: 0-1\
+  * **Occlusione ambientale** **- Raggio**: 0-1\
     Regolate il raggio dell’effetto AO.
 * **Opacità**: attiva/disattiva\
   Impostate se il filtro agisce sul canale di opacità. Se questa opzione è attivata, viene visualizzato un controllo aggiuntivo:

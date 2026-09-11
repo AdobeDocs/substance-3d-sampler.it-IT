@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare il flusso di lavoro end-to-end dimensioni fisiche in Substance 3D Sampler per creare materiali fisicamente accurati che corrispondono alla scala reale.
 helpx_creative_field: ""
@@ -41,12 +41,12 @@ Corrispondenza della dimensioni fisiche reale dei campioni e delle immagini scan
 1. Aggiungete un ritaglio e regolatelo sul campione. La dimensioni fisiche viene visualizzata nell&#39;angolo inferiore destro del riquadro di visualizzazione 2D aggiornato.
 
    Visualizza con rapporto fisico nella finestra della vista 2D per visualizzare con precisione le mappe su cui stai lavorando.\
-   Potete impostare la vista 2D in modo che si adatti alla dimensioni fisiche in modo che il valore DPI delle proporzioni dello schermo corrisponda alla scala del materiale. In altre parole, potete posizionare il vostro campione reale accanto allo schermo per verificarne le dimensioni.
+   Puoi impostare il Vista 2D in modo che si adatti alla dimensioni fisiche in modo che il DPI delle proporzioni dello schermo corrisponda alla scala del materiale. In altre parole, potete posizionare il vostro campione reale accanto allo schermo per verificarne le dimensioni.
 
    ![](../assets/cq5dam.web.1280.png)
 1. Aggiungete un valore di Equalizza per eliminare eventuali sfumature.
-1. Aggiungere l’effetto Porzione per correggere l’aspetto della porzione
-1. Se necessario, la trasformazione dell’alterazione è utile per riallineare solo alcune parti della mappa.
+1. Aggiungere un Affiancamento per correggere l’Affiancamento sembra
+1. Se necessario, la Trasforma di alterazione è utile per riallineare solo alcune parti della mappa.
 
    <b>Pronto per l&#39;esportazione</b>
 1. Esporta come

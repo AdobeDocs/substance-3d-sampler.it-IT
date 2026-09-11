@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
 breadcrumb-title: ''
 description: Usate lo strumento Anteprima esposizione in Substance 3D Sampler per visualizzare in anteprima le regolazioni dell’esposizione nelle immagini HDRI prima di applicare le modifiche.
 helpx_creative_field: ""
@@ -39,11 +39,11 @@ Di seguito potete vedere le operazioni eseguite dal filtro **Anteprima esposizio
 
 ![](../../assets/3d-2d-filters-cropped-0029-exposure-preview-in.jpg)
 
-Nell&#39;immagine sopra, è stata creata una luce ambiente e i dati dell&#39;immagine HDR sono visibili nella **vista 2D**.
+Nell&#39;immagine precedente è stata creata una luce ambientale e i dati dell&#39;immagine HDR sono visibili nel **Vista 2D**.
 
 ![](../../assets/filters-cropped-0028-exposure-preview-out.jpg)
 
-Con l&#39;**anteprima esposizione** **filtro** aggiunto allo stack di livelli, diventa disponibile un nuovo canale, Diagnostica ambiente, che mostra la luce ambiente a varie esposizioni.
+Con l&#39;**Anteprima esposizione** **filtro** aggiunto alla Pila livelli, diventa disponibile un nuovo canale, Diagnostica ambiente, che mostra la luce ambientale a varie esposizioni.
 
 </td>
 </tr>
@@ -60,6 +60,6 @@ Con l&#39;**anteprima esposizione** **filtro** aggiunto allo stack di livelli, d
 
 ## Guida all’uso
 
-Il filtro **Anteprima esposizione** funziona in modo leggermente diverso rispetto ad altri filtri di Sampler. È uno strumento che serve a trovare l&#39;esposizione corretta per la luce ambiente, ma non influisce sul canale Ambiente. Quando invece aggiungete il **filtro Anteprima esposizione** allo stack di livelli, diventa disponibile un canale aggiuntivo da visualizzare nella **vista 2D**, il canale Diagnostica ambiente.
+Il filtro **Anteprima esposizione** funziona in modo leggermente diverso rispetto ad altri filtri di Sampler. Si tratta di uno strumento che consente di trovare l&#39;esposizione corretta per la propria luce ambientale, ma non influisce sul canale Ambiente. Quando si aggiunge il **filtro Anteprima esposizione** alla Pila livelli, diventa invece disponibile un canale aggiuntivo da visualizzare nel **Vista 2D** - il canale Diagnostica ambiente.
 
 Se si visualizza il canale di diagnostica dell&#39;ambiente, è possibile visualizzare alcune istanze dell&#39;immagine dell&#39;ambiente 2D con valori di esposizione variabili. Regolate i parametri del **filtro Anteprima esposizione** per modificare l&#39;intervallo di esposizioni visibili nel canale di diagnostica dell&#39;ambiente.

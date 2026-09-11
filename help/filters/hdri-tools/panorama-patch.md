@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
 breadcrumb-title: ''
 description: Usate lo strumento toppa panorama in Substance 3D Sampler per riparare e riparare le aree nelle immagini panoramiche dell’ambiente HDRI.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrizione
 
-Applicare l&#39;area problematica alla luce ambiente. Panorama patch mantiene la trasformazione e l’inclinazione in modo che corrisponda alla patch con la superficie di sfondo in modo naturale.
+Applicate l&#39;area problematica nella luce ambientale. Panorama patch mantiene la trasformazione e l’inclinazione in modo che corrisponda alla patch con la superficie di sfondo in modo naturale.
 
 Le immagini seguenti mostrano la <b>patch panorama </b>in azione - in questo caso, sostituendo il centro di una grande nuvola con cieli aperti.
 
@@ -54,4 +54,4 @@ Le immagini seguenti mostrano la <b>patch panorama </b>in azione - in questo cas
 
 ## Guida all’uso
 
-Aggiungete il **filtro Toppa panorama** nella parte superiore della serie di livelli, quindi utilizzate le maniglie nella **vista 2D** per regolare i percorsi di origine e patch.
+Aggiungete il **filtro Patch panorama** nella parte superiore della Pila livelli, quindi utilizzate le maniglie nella **Vista 2D** per regolare i percorsi di origine e patch.

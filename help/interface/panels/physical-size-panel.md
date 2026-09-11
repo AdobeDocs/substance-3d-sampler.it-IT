@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/panels/physical-size-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/physical-size-panel.html"
 breadcrumb-title: ''
-description: Scoprite come utilizzare il pannello Dimensioni fisiche in Substance 3D Sampler per impostare dimensioni reali per materiali e texture.
+description: Scopri come utilizzare il pannello Dimensioni fisiche in Substance 3D Sampler per impostare le dimensioni reali di materiali e texture.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Physical Size Panel
 helpx_experience_level: ""
@@ -73,7 +73,7 @@ Questi strumenti consentono di impostare l&#39;aspetto della superficie del mate
 
 **Scala fisica:** attivare o disattivare la scala fisica. La scala fisica è la circonferenza della trama lungo i tre assi.\
 Ridimensionate il materiale con valori fisici. Manipolazione della larghezza (X) del Height (Y) e della Profondità (Z).\
-**Affiancamento texture:** impostate l&#39;affiancamento del materiale
+**Affiancamento Texture:** impostare l&#39;Affiancamento del materiale
 
 ### Materiale output
 

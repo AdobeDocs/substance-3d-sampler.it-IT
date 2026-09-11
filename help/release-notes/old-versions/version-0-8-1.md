@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/release-notes/old-versions/version-0-8-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-8-1.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per Substance 3D Sampler versione 0.8.1 per informazioni su aggiornamenti, miglioramenti e correzioni di bug.
 helpx_creative_field: ""
@@ -32,9 +32,9 @@ ht-degree: 0%
 **Problemi noti:**
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter non è consigliato
 * Le immagini TIF non vengono visualizzate nel pannello Proprietà nel livello di importazione delle immagini
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Il filtro Normale al height può bloccarsi su MacOS
-* Può ancora verificarsi un arresto anomalo casuale quando si esce da MacOS
+* Il filtro Normale al height può essere arresto anomalo in MacOS
+* È ancora possibile eseguire l’arresto anomalo casuale quando si esce da MacOS

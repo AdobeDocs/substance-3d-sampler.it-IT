@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
 breadcrumb-title: ''
-description: Scoprite come elaborare le acquisizioni 3D avanzate in Substance 3D Sampler per ottimizzare la geometria, le texture e la qualità del materiale.
+description: Scoprite come elaborare le acquisizioni 3D avanzate in Substance 3D Sampler per ottimizzare geometria, texture e qualità del materiale.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -84,10 +84,10 @@ Premi <b>Invia per avviare l&#39;elaborazione della trama</b>. Questo processo p
 
 ## Anteprima e post-elaborazione
 
-Una volta completata la trama, la finestra finale ci consente di visualizzare in anteprima e post-elaborare la trama prima di aggiungerla al nostro progetto Sampler. Questa modalità ha alcuni pulsanti nella parte inferiore per visualizzare la trama con <b>texture</b>, <b>tinta unita ombreggiata</b>, come <b>wireframe</b> e con un <b>materiale per il controllo UV</b>. Le impostazioni di post-elaborazione sul lato consentono di generare una nuova versione della trama. Ciò significa una trama ri-tassellata, con nuovi UV automatici e texture ricavata dalla trama originale. I controlli principali consentono di impostare un numero di facce di destinazione e di attivare/disattivare la funzione di cottura normale, di height e automatica. Ci sono molte impostazioni avanzate da modificare, ma le impostazioni predefinite di solito funzionano bene.
+Una volta completata la trama, la finestra finale ci consente di visualizzare in anteprima e post-elaborare la trama prima di aggiungerla al nostro progetto Sampler. Questa modalità ha alcuni pulsanti nella parte inferiore per visualizzare la trama con <b>texture</b>, <b>tinta unita ombreggiata</b>, come <b>wireframe</b> e con un <b>materiale per il controllo UV</b>. Le impostazioni di post-elaborazione sul lato consentono di generare una nuova versione della trama. Ciò significa una trama ri-tassellata, con nuovi UV automatici e texture eseguita i baking dalla trama originale. I controlli principali consentono di impostare un numero di facce di destinazione e attivare o disattivare la esegue i baking Normale, height e AO. Ci sono molte impostazioni avanzate da modificare, ma le impostazioni predefinite di solito funzionano bene.
 
 Potete anche eseguire questo passaggio di elaborazione della trama in seguito, una volta che la trama è stata aggiunta a Sampler. Una volta aggiunto a Sampler, puoi assegnargli un nome; ora viene visualizzato nell’elenco dei progetti.
 
-Puoi modificare la trama e le texture, ma puoi già esportare il risultato utilizzando la <b>Condividi</b> > Finestra di dialogo <b>Esporta come</b>. Le <b>impostazioni generali</b> consentono di scegliere nome e percorso, le <b>impostazioni trama</b> consentono di scegliere il formato trama 3D e le <b>impostazioni materiale</b> consentono di configurare il materiale della trama. Potete disattivare la trama o il materiale per esportarne solo uno singolarmente. Una volta esportata, la trama è pronta per essere utilizzata in altre applicazioni 3D.
+Puoi modificare la trama e la texture, ma puoi già esportare il risultato utilizzando la <b>Condividi</b> > Finestra di dialogo <b>Esporta come</b>. Le <b>impostazioni generali</b> consentono di scegliere nome e percorso, le <b>impostazioni trama</b> consentono di scegliere il formato trama 3D e le <b>impostazioni materiale</b> consentono di configurare il materiale della trama. Potete disattivare la trama o il materiale per esportarne solo uno singolarmente. Una volta esportata, la trama è pronta per essere utilizzata in altre applicazioni 3D.
 
 Scopri come [modificare ulteriormente le trame 3D acquisite in Sampler](editing-3d-captured-meshes.md).

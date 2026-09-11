@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/scripting-and-development/create-a-plugin-with-python-and-qml.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-plugin-with-python-and-qml.html"
 breadcrumb-title: ''
 description: Scopri come creare plug-in con Python e QML per Substance 3D Sampler per creare interfacce utente personalizzate ed estendere le funzionalità.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ I plug-in Sampler richiedono almeno un file Python e QML per essere importati, m
 
 * **autosave.py** contiene la logica del plug-in e ne determina il funzionamento.
 * **autosave.qml** definisce l&#39;aspetto del plug-in in Sampler.
-* **autosave.svg**&#x200B;è un elemento grafico vettoriale utilizzato come icona per il plug-in.
+* **autosave.svg**&#x200B;è una grafica vettoriale utilizzata come icona per il plug-in.
 
 Una volta che hai i file necessari per il tuo plug-in in una singola cartella, puoi aggiungere il plug-in a Sampler tramite Modifica > Preferenze > Plug-in e script. Per ulteriori informazioni sulla gestione dei plug-in, consulta [qui](manage-installed-plugins-and-scripts.md).
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/cracks.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/cracks.html"
 breadcrumb-title: ''
 description: Utilizza il filtro Crepe di Substance 3D Sampler per aggiungere pattern di crepe realistici e effetti di danno alla superficie dei materiali.
 helpx_creative_field: ""
@@ -72,7 +72,7 @@ Il **filtro Crepe** applicato a un materiale di marmo pulito.
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
   * **Maschera personalizzata - Inverti**: attiva/disattiva\
     Invertite la maschera.
 
@@ -89,7 +89,7 @@ Il **filtro Crepe** applicato a un materiale di marmo pulito.
 * **Opacità Metallica Crepe**: 0-1\
   Regola l&#39;impatto del valore **Crepe metalliche** sulla mappa metallica
 * **Intensità height Crepe**: 0-1\
-  Regolate la profondità delle crepe. Questo influisce sia sulla mappa del height che sui normali risultati della mappa del filtro.
+  Regolate la profondità delle crepe. Questo influisce sia sulla mappa dell’altezza che sui risultati delle mappe normali del filtro.
 
 **Parametri avanzati**
 
@@ -98,4 +98,4 @@ Il **filtro Crepe** applicato a un materiale di marmo pulito.
 * **Intervallo Height**: 0-1\
   Modificate l&#39;intervallo height dell&#39;intero materiale. Per regolare il height delle crepe, utilizza **Crepe > Intensità Height Crepe**.
 * **Posizione Height**: 0-1\
-  Create l&#39;offset della mappa height dell&#39;intero materiale.
+  Scostate la mappa di altezza dell&#39;intero materiale.

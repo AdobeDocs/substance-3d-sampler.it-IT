@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/atlas-scatter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
 breadcrumb-title: ''
-description: Utilizzate il generatore di Atlas scatter in Substance 3D Sampler per dispersione gli elementi dagli atlanti di texture sulle superfici dei materiali.
+description: Usate il generatore di Atlas scatter in Substance 3D Sampler per dispersione gli elementi dagli atlanti delle texture su superfici di materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Atlas Scatter
 helpx_experience_level: ""
@@ -57,7 +57,7 @@ Aggiungendo il **filtro Atlas scatter** con un atlas dei ciottoli, il materiale 
   Numero di istanze nell&#39;asse X
 * **Importo Y**: 1-64\
   Numero di istanze nell&#39;asse Y
-* **Metodo fusione**:\
+* **Modalità Fusione**:\
   Metodo usato per fondere con i livelli sottostanti
 * **Scala**: 0-5\
   Scala delle istanze
@@ -125,8 +125,8 @@ Aggiungendo il **filtro Atlas scatter** con un atlas dei ciottoli, il materiale 
   Aggiungete o sottraete da ogni istanza i valori di rugosità.
 * **Normale casuale**: 0-1\
   Ruota le normali di ogni istanza di un valore casuale per istanza
-* **Ricalcola Occlusione ambiente**: attiva/disattiva\
-  Se attivato, i valori di Occlusione ambiente verranno ricalcolati in base ai valori di height modificati
+* **Ricalcola Occlusione ambientale**: attiva/disattiva\
+  Se attivata, i valori di Occlusione ambientale verranno ricalcolati in base ai valori di height modificati
 
 **Rilevamento forme atlante**
 
@@ -148,7 +148,7 @@ Il filtro Atlas scatter è un metodo utile per la dispersione delle risorse tra 
 
 Per utilizzare il filtro Atlas scatter:
 
-1. Aggiungere il filtro Atlas scatter al gruppo di livelli
+1. Aggiungere il filtro Atlas scatter alla Pila livelli
 1. Sotto il livello di Atlas scatter, appare uno slot di input
 1. Trascina il materiale dell&#39;atlante nello slot di ingresso Atlas scatter
 

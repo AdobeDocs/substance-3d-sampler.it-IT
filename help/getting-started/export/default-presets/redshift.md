@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/export/default-presets/redshift.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/redshift.html"
 breadcrumb-title: ''
 description: Scoprite come esportare i materiali da Substance 3D Sampler utilizzando il predefinito Redshift per la compatibilità con il motore di rendering Redshift.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 6%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **Diffusione &#x200B;**&#x200B;**Rugosità Riflesso**&#x200B;**Metallicità&#x200B;**&#x200B;**Normale**&#x200B;**Spostamento &#x200B;**&#x200B;**Emissione**&#x200B;**Opacità** |
+| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **Diffusione ****Rugosità Riflesso****Metallicità&#x200B;****Normale****Spostamento ****Emissione****Opacità** |

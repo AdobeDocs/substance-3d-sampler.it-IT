@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/features-and-workflows/quick-actions.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/quick-actions.html"
 breadcrumb-title: ''
-description: Scoprite come utilizzare le azioni rapide in Substance 3D Sampler per eseguire le attività di modifica del materiale più comuni in modo efficiente con gli strumenti di scelta rapida.
+description: Scoprite come utilizzare le azioni rapide in Substance 3D Sampler per eseguire le attività di editing dei materiali più comuni in modo efficiente con gli strumenti di scelta rapida da tastiera.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -38,7 +38,7 @@ In Sampler puoi trovare Azioni rapide in diverse posizioni:
 | Importa immagini | Crea un materiale vuoto e aggiungi un&#39;immagine singola come livello. | Input |
 | Converti immagine in ricamo | Applica un filtro procedurale per dare all&#39;immagine un aspetto simile a una toppa ricamata. | Ricamo di input |
 | Crea un materiale di tessuto | Crea un tessuto con un filtro procedurale. | ClothWeave |
-| Regola immagine | Scegli i filtri per ottimizzare e preparare un&#39;immagine da utilizzare in un materiale. | Colore di contrasto/luminosità/saturazione del ritaglio dell&#39;input sostituisci |
+| Regola immagine | Scegli i filtri per ottimizzare e preparare un&#39;immagine da utilizzare in un materiale. | Input Ritaglio Affiancamento Luminosità/contrasto Tonalità/saturazione Colore sostituire |
 | Crea materiale vuoto | Crea un materiale senza canali. | Nessuno |
 
 ## Come utilizzare l’azione rapida

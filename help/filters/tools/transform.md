@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/transform.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/transform.html"
 breadcrumb-title: ''
-description: Usate lo strumento Trasforma di Substance 3D Sampler per ridimensionare, ruotare, traslare e manipolare i livelli di texture e materiale.
+description: Usa lo strumento Trasforma in Substance 3D Sampler per ridimensionare, ruotare, tradurre e manipolare i livelli di texture e materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Transform
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrizione
 
-Usa lo **strumento Trasformazione** per spostare, ridimensionare o ruotare l&#39;immagine o il materiale.
+Usa lo **strumento Trasforma** per spostare, ridimensionare o ruotare l&#39;immagine o il materiale.
 
 </td>
 </tr>
@@ -44,12 +44,12 @@ Usa lo **strumento Trasformazione** per spostare, ridimensionare o ruotare l&#39
 **Parametri di base**
 
 * **Modalità di controllo**:\
-  Scegli se visualizzare i parametri per controllare la trasformazione con cursori oltre alle maniglie **vista 2D**.
+  Scegli se visualizzare i parametri per controllare la Trasforma con cursori oltre alle maniglie **Vista 2D**.
 
   Con **Widget e parametri** selezionati, verranno visualizzati i controlli aggiuntivi seguenti:
 
-  * **Trasformazione sicura**: attiva/disattiva\
-    Abilita o disabilita le trasformazioni sicure. Quando questa opzione è attivata, il nodo di trasformazione manterrà la suddivisione in porzioni ed eviterà di perdere i dettagli dei pixel a causa di piccoli scostamenti e rotazioni. Ciò riduce la libertà di controllare la trasformazione e l&#39;attivazione di **Trasformazione sicura** nasconderà alcuni parametri.
+  * **Trasforma sicura**: attiva/disattiva\
+    Abilita o disabilita le trasformazioni sicure. Quando questa opzione è attivata, il nodo di Trasforma manterrà l’Affiancamento ed evita di perdere i dettagli dei pixel a causa di piccoli scostamenti e rotazioni. Ciò riduce la libertà di controllare la trasformazione e l&#39;attivazione di **Trasforma sicura** nasconderà alcuni parametri.
   * **Mantieni rapporto**: attiva/disattiva\
     Quando questa opzione è attivata, sarà visibile un solo parametro **Scala** che controlla il ridimensionamento simultaneo su entrambi gli assi. Quando sono disattivati, saranno disponibili i controlli che consentono di modificare separatamente la scala sugli assi Orizzontale e Verticale.
 
@@ -60,7 +60,7 @@ Usa lo **strumento Trasformazione** per spostare, ridimensionare o ruotare l&#39
   * **Inclina**: da -1 a 1\
     Inclina l&#39;input all&#39;interno delle maniglie sugli assi orizzontale e verticale.
 * **Scostamento posizione**: da -1 a 1\
-  Scostate la trasformazione dalla posizione iniziale sugli assi orizzontale e verticale.
+  Spostate la Trasforma dalla posizione iniziale sugli assi orizzontale e verticale.
 * **Rifletti in orizzontale**: attiva/disattiva\
   Specchiatura orizzontale dell&#39;input
 * **Rifletti in verticale**: attiva/disattiva\
@@ -69,19 +69,19 @@ Usa lo **strumento Trasformazione** per spostare, ridimensionare o ruotare l&#39
 **Parametri avanzati**
 
 * **Trasformazione**:\
-  Regola la trasformazione delle maniglie con i cursori invece che nella **vista 2D**.
+  Regola la trasformazione delle maniglie con i cursori invece che nel **Vista 2D**.
   * **Scala X**: 0-2
   * **Inclina verticale**: da -7,44 a 2
   * **Inclina orizzontale**: 0-1
   * **Scala Y**: 0 - 13,15
-* **Disattiva trasformazione per canale**: attiva/disattiva\
-  Quando questa opzione è attivata, appariranno altri controlli che consentono di disattivare questa trasformazione per ogni canale.
+* **Disattiva Trasforma per canale**: attiva/disattiva\
+  Quando questa opzione è attivata, appariranno altri controlli che consentono di disattivare questo Trasforma per ciascun canale.
 
 ## Guida all’uso
 
-Fai clic sullo **strumento Trasformazione** per aggiungere un nuovo livello del filtro Trasformazione nella parte superiore della serie di livelli.
+Fai clic sullo **strumento di Trasforma** per aggiungere un nuovo livello di filtro di Trasforma nella parte superiore della Pila livelli.
 
-La creazione o la selezione di un livello di filtro Trasformazione apre automaticamente la **vista 2D**. Con il livello Trasforma selezionato, nella parte superiore della **vista 2D** viene visualizzata una **barra degli strumenti**.
+La creazione o la selezione di un livello di filtro di Trasforma apre automaticamente il **Vista 2D**. Con il livello di Trasforma selezionato, viene visualizzata una **barra degli strumenti** nella parte superiore del **Vista 2D**.
 
 ## Funzionalità
 
@@ -91,7 +91,7 @@ La creazione o la selezione di un livello di filtro Trasformazione apre automati
 
 Per spostare il livello:
 
-1. Passate il mouse all’interno del riquadro di trasformazione
+1. Passare il mouse all’interno della casella di Trasforma
 1. Il cursore si trasformerà in quattro frecce
 1. Fate clic e trascinate per spostare il riquadro di trasformazione.
 
@@ -99,25 +99,25 @@ Per spostare il livello:
 
 Per ridimensionare il livello:
 
-1. Passate il mouse su una delle maniglie lungo il bordo o l’angolo del riquadro di trasformazione
+1. Passa il mouse su una delle maniglie lungo il bordo o l’angolo della casella di Trasforma
 1. Il cursore si trasformerà in quattro frecce.
-1. Fate clic e trascinate per ridimensionare il riquadro di trasformazione.
+1. Fate clic e trascinate per ridimensionare la casella di Trasforma.
 
 >[!NOTE]
 >
-> Le maniglie posizionate sull&#39;angolo del riquadro di trasformazione consentono di ridimensionare due quote contemporaneamente, mentre le maniglie posizionate sul bordo del riquadro di trasformazione vi limitano a ridimensionare in una sola quota.
+> Le maniglie posizionate sull&#39;angolo della casella di Trasforma consentono di ridimensionare due quote contemporaneamente, mentre le maniglie posizionate sul bordo della casella di Trasforma vi limitano a ridimensionare in una sola quota.
 
 ### Ruota
 
 Per ruotare il livello:
 
-1. Passate il mouse fuori dal riquadro di trasformazione ma nella **vista 2D**.
+1. Passare il mouse all&#39;esterno della casella di Trasforma ma all&#39;interno del **Vista 2D**.
 1. Accanto al cursore appare una piccola freccia orizzontale.
-1. Fate clic e trascinate per ruotare la casella di trasformazione.
+1. Fate clic e trascinate per ruotare la casella di Trasforma.
 
 >[!NOTE]
 >
-> Potete modificare il centro di rotazione trascinando il piccolo cerchio al centro del riquadro di trasformazione. Il riquadro di trasformazione ruota sempre attorno a questo cerchio.
+> Potete modificare il centro di rotazione trascinando il piccolo cerchio al centro della casella di Trasforma. La casella di Trasforma ruota sempre attorno a questo cerchio.
 
 ## Barra degli strumenti
 
@@ -128,5 +128,5 @@ La barra degli strumenti contiene le seguenti scelte rapide:
 * Rendi quadrato: regola il ridimensionamento della trasformazione corrente per renderla quadrata.
 * Rotazione di +90° (a destra): rotazione di 90° in senso orario.
 * Rotazione di -90° (a sinistra): rotazione di 90° in senso antiorario.
-* Reimposta centro di rotazione: reimposta il centro di rotazione al centro della casella Trasforma.
-* Ripristina trasformazione: ripristina la posizione predefinita dello strumento Trasformazione.
+* Reimposta centro di rotazione: reimposta il centro di rotazione al centro della casella di Trasforma.
+* Ripristina trasformazione: ripristina la posizione predefinita dello strumento di Trasforma.

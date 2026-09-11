@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/invert.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/invert.html"
 breadcrumb-title: ''
 description: Usate il filtro Inverti in Substance 3D Sampler per invertire i valori di colore e creare effetti negativi per l’immagine in texture e materiali.
 helpx_creative_field: ""
@@ -39,7 +39,7 @@ Nelle immagini seguenti potete vedere l’impatto dell’inversione del canale d
 
 ![](../../assets/3d-2d-filters-cropped-0019-invert-in.jpg)
 
-Prima di invertirle, le porzioni sono lucide e riflettono chiaramente la luce ambiente.
+Prima dell’inversione, le porzioni sono lucide e riflettono chiaramente la luce ambientale.
 
 ![](../../assets/invert-rough-filter.jpg.img.jpg)
 
@@ -53,14 +53,14 @@ Dopo l’inversione, le porzioni sono opache e non presentano luci di specular f
 
 **Parametri di base**
 
-Ciascun canale può essere invertito in modo indipendente mediante l&#39;uso di un interruttore. Attiva l&#39;interruttore per invertire il canale. Se i risultati non sono visibili nella vista 3D, selezionate il canale nella parte inferiore della vista 2D per visualizzarne l’impatto.
+Ciascun canale può essere invertito in modo indipendente mediante l&#39;uso di un interruttore. Attiva l&#39;interruttore per invertire il canale. Se i risultati non sono visibili nella vista 3D, seleziona il canale nella parte inferiore del Vista 2D per visualizzarne l’impatto.
 
 **Maschera**
 
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D
+    Seleziona un’immagine da usare come maschera o usa il pennello per pittura una maschera personalizzata direttamente nella Vista 2D
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocare la maschera
   * **Maschera personalizzata - Inverti**: attiva/disattiva\

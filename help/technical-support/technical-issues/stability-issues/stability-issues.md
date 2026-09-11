@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/technical-support/technical-issues/stability-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues.html"
 breadcrumb-title: ''
 description: Accedi alle guide per la risoluzione dei problemi di stabilità di Substance 3D Sampler per risolvere arresti anomali ed errori dell’applicazione.
 helpx_creative_field: ""
@@ -20,5 +20,5 @@ ht-degree: 0%
 
 # Problemi di stabilità
 
-* [Arresto anomalo durante l’esportazione di un materiale](crash-when-exporting-a-material.md)
+* [Arresto anomalo durante l&#39;esportazione di un materiale](crash-when-exporting-a-material.md)
 * [Arresto anomalo quando si utilizza Image to Material o Delighter](crash-when-using-the-image-to-material-or-delighter.md)

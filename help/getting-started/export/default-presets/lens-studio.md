@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
 breadcrumb-title: ''
 description: Scopri come esportare materiali da Substance 3D Sampler utilizzando il predefinito Lens Studio per i flussi di lavoro di sviluppo di obiettivi AR di Snapchat.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| Lens Studio | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **base**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Colore di base</li><li data-preserve-html="true"><strong>A</strong>: Opacità</li></ul>**materialParams**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Metallico</li><li data-preserve-html="true"><strong>G</strong>: rugosità</li><li data-preserve-html="true"><strong>B</strong>: Occlusione ambiente</li></ul>**normale** (OpenGL) |
+| Lens Studio | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **base**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Colore di base</li><li data-preserve-html="true"><strong>A</strong>: Opacità</li></ul>**materialParams**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Metallico</li><li data-preserve-html="true"><strong>G</strong>: rugosità</li><li data-preserve-html="true"><strong>B</strong>: Occlusione ambientale</li></ul>**normale** (OpenGL) |

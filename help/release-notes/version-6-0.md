@@ -74,29 +74,29 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 
 **Aggiunto:**
 
-* &lbrack;Assets&rbrack; Controllare la versione secondaria e avvisare gli utenti se il motore è troppo vecchio per leggerlo
-* &lbrack;Captis&rbrack; Aggiungi di nuovo opzione per salvare la fotometria dei sottotitoli nelle preferenze
+* &amp;lbrack;Assets&amp;rbrack; Controllare la versione secondaria e avvisare gli utenti se il motore è troppo vecchio per leggerlo
+* &amp;lbrack;Captis&amp;rbrack; Aggiungi di nuovo opzione per salvare la fotometria dei sottotitoli nelle preferenze
 
 **Corretto:**
 
-* &lbrack;2D View&rbrack; Do not &#39;display with physical ratio&#39; (Visualizza con rapporto fisico) se dimensioni fisiche è disabilitato
-* &lbrack;Analytics&rbrack; eventi di analisi mancanti
-* &lbrack;Analytics&rbrack; Impedisce che il blocco anomalo segnali un arresto anomalo in vk devicelost
-* &lbrack;Application&rbrack; Non distruggere i vkdevice all&#39;uscita per evitare un arresto anomalo nel driver nvidia
-* &lbrack;Application&rbrack; Correggi uscita controllo raccolta collegata + gestione canali
-* &blocco;Application&brack; Impedisci arresto anomalo all&#39;uscita
-* &lbrack;Content&rbrack; Il filtro &quot;finitura metallo&quot; non influisce sulla metallizzazione
-* &lbrack;Content&rbrack; Aggiungi dimensioni fisiche ai filtri dinamici dove manca
-* &blocco;Filtri&rbrack; Rimuovi riempimento in base al contenuto dall&#39;elenco delle risorse nascoste
-* &blocca;Livelli&rbrack; se si fa clic su &quot;Reimposta tutte le impostazioni&quot; non viene reimpostato il menu a discesa &quot;Applica a&quot;
-* &lbrack;Livelli&rbrack; Correggere le modifiche minime e massime per il widget posizione
-* &lbrack;Layers&rbrack; aggiorna correttamente il filtro
-* &lbrack;Dimensioni fisiche&rbrack; verifica che la scala fisica funzioni ovunque + verifica che la dimensione fisica sia corretta con i filtri dinamici
-* &lbrack;Project&rbrack; Verifica che la risoluzione delle risorse sia quella predefinita (2k x 2k) durante la creazione di una nuova risorsa
-* &lbrack;Project&rbrack; riapertura del progetto corrente utilizzato per aprire la versione precedente
-* &lbrack;Project&rbrack; Sampler non offre più di ripristinare un backup dei progetti danneggiati
-* &lbrack;Rendering&rbrack; Esegui il rendering della miniatura del materiale a una risoluzione massima di 2k
-* &lbrack;UI&rbrack; codice difensivo per evitare l&#39;arresto anomalo se l&#39;utente è più veloce dell&#39;interfaccia utente
+* &amp;lbrack;2D View&amp;rbrack; Do not &#39;display with physical ratio&#39; (Visualizza con rapporto fisico) se dimensioni fisiche è disabilitato
+* &amp;lbrack;Analytics&amp;rbrack; eventi di analisi mancanti
+* &amp;lbrack;Analytics&amp;rbrack; Impedisce che il blocco anomalo segnali un arresto anomalo in vk devicelost
+* &amp;lbrack;Application&amp;rbrack; Non distruggere i vkdevice all&#39;uscita per evitare un arresto anomalo nel driver nvidia
+* &amp;lbrack;Application&amp;rbrack; Correggi uscita controllo raccolta collegata + gestione canali
+* &amp;blocco;Application&amp;brack; Impedisci arresto anomalo all&#39;uscita
+* &amp;lbrack;Content&amp;rbrack; Il filtro &quot;finitura metallo&quot; non influisce sulla metallizzazione
+* &amp;lbrack;Content&amp;rbrack; Aggiungi dimensioni fisiche ai filtri dinamici dove manca
+* &amp;blocco;Filtri&amp;rbrack; Rimuovi riempimento in base al contenuto dall&#39;elenco delle risorse nascoste
+* &amp;blocca;Livelli&amp;rbrack; se si fa clic su &quot;Reimposta tutte le impostazioni&quot; non viene reimpostato il menu a discesa &quot;Applica a&quot;
+* &amp;lbrack;Livelli&amp;rbrack; Correggere le modifiche minime e massime per il widget posizione
+* &amp;lbrack;Layers&amp;rbrack; aggiorna correttamente il filtro
+* &amp;lbrack;Dimensioni fisiche&amp;rbrack; verifica che la scala fisica funzioni ovunque + verifica che la dimensione fisica sia corretta con i filtri dinamici
+* &amp;lbrack;Project&amp;rbrack; Verifica che la risoluzione delle risorse sia quella predefinita (2k x 2k) durante la creazione di una nuova risorsa
+* &amp;lbrack;Project&amp;rbrack; riapertura del progetto corrente utilizzato per aprire la versione precedente
+* &amp;lbrack;Project&amp;rbrack; Sampler non offre più di ripristinare un backup dei progetti danneggiati
+* &amp;lbrack;Rendering&amp;rbrack; Esegui il rendering della miniatura del materiale a una risoluzione massima di 2k
+* &amp;lbrack;UI&amp;rbrack; codice difensivo per evitare l&#39;arresto anomalo se l&#39;utente è più veloce dell&#39;interfaccia utente
 
 ### **6.0.1**
 
@@ -132,7 +132,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * [Preferenze] Aggiungete una preferenza di modello di materiale predefinita
 * Il predefinito [Predefinito] predefinito ora utilizza l&#39;modello di materiale
 * [Rendering] Abilita il rendering 8K
-* [Rendering] Gestisce l’OpenPBR shader nella scena USD
+* [Rendering] - shader handle nella scena USD
 * [Rendering] Eseguire il rendering delle immagini alle dimensioni del documento quando non si esegue l’esportazione
 * [Scripting] modello di materiale di handle per la creazione di risorse nell&#39;API Python
 * [Scripting] Nuova proprietà MaterialModel sulla risorsa
@@ -187,7 +187,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * [Filtri] Correggere le dimensioni di output del ritaglio
 * [Filtri] Eseguire l&#39;aggiornamento del filtro con il parametro bloccato
 * [Filtri] per evitare l&#39;arresto anomalo di macOS durante la suddivisione automatica
-* [Filtri] Impedisce l&#39;arresto anomalo durante l&#39;ingrandimento se manca un input
+* [Filtri] Impedisce l&#39;arresto anomalo di ingrandimento quando manca un input
 * [Filtri] per evitare l&#39;arresto anomalo durante il caricamento di un filtro composto senza nome di file
 * [Filtri]: modifica della maschera di destinazione duplicata in PatchMatch
 * [Importazione immagini] Correggere la misura manuale automatica per dimensioni fisiche
@@ -226,7 +226,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * [UI] Correggere la modalità di ritorno a capo automatico del selettore unificato
 * [IU] Non consentire l&#39;aggiunta di caratteri speciali nel campo del nome dei metadati
 * La visualizzazione dello strumento misura Dimensioni fisiche [UI] è interrotta
-* [Interfaccia utente] Impedisce l&#39;arresto anomalo durante l&#39;apertura del pannello delle impostazioni del canale
+* [IU] Impedisce l&#39;arresto anomalo durante l&#39;apertura del pannello delle impostazioni dei canali
 * [UI] Impedisce l&#39;arresto anomalo quando si utilizza &#39;Ripristina il layout predefinito&#39;
 * [IU] Impedisce la scomparsa della notifica di aggiornamento nel pannello della struttura
 * [UI] Assegna priorità al filtro dinamico durante la ricerca per nome

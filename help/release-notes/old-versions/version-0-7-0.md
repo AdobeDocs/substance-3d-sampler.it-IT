@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/release-notes/old-versions/version-0-7-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-7-0.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per Substance 3D Sampler versione 0.7.0 per informazioni su aggiornamenti, miglioramenti e correzioni di bug.
 helpx_creative_field: ""
@@ -49,14 +49,14 @@ Aggiunto:
 * [Content] Nuovo filtro finitura Metal
 * [Content] Nuovo filtro Snow
 * [Content] Nuovo filtro casuale
-* [Contenuto] Ora puoi importare le texture direttamente nel filtro Materiale di base
+* [Contenuto] Ora puoi importare la texture direttamente nel filtro Materiale di base
 
 Fisso:
 
-* Correggere un arresto anomalo durante il salvataggio di una pila di livelli
+* Correggere un arresto anomalo durante il salvataggio della Pila livelli
 * È possibile aggiungere un valore superiore a 1 nel cursore di rotazione dell’ambiente
-* Non perdere i parametri di fusione quando un livello di fusione viene trasformato avanti e indietro dal livello di fusione al livello di materiale
-* Correggere i duplicati quando si generano più volte variazioni dello stesso stack di livelli
+* Non perdere i parametri di fusione quando un livello di fusione viene Trasforma avanti e indietro dal livello di fusione al livello di materiale
+* Correggere i duplicati quando si generano più volte variazioni della stessa Pila livelli
 * Quando riapri un materiale, Alchemist memorizza gli intervalli modificati (min e max) dei cursori
 
 Problemi noti:

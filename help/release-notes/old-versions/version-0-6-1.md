@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/release-notes/old-versions/version-0-6-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-6-1.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per Substance 3D Sampler versione 0.6.1 per informazioni su aggiornamenti, miglioramenti e correzioni di bug.
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ Aggiunto:
 
 * [Engine] Aggiornamento della versione di Substance Engine compatibile con la versione di Substance Designer più recente
 * [Licenza] Aggiorna la cartella delle licenze per le prime installazioni
-* [Livelli] Ricarica in qualsiasi momento il gruppo di livelli per aggiornare i filtri personalizzati
+* [Livelli] Ricarica in qualsiasi momento la versione di Pila livelli per aggiornare i filtri personalizzati
 
 Fisso:
 
@@ -35,7 +35,7 @@ Fisso:
 Problemi noti:
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter non è consigliato
 * L’importazione di ambienti personalizzati può diventare nera
 * Le immagini TIF non vengono visualizzate nel pannello Proprietà nel livello di importazione delle immagini

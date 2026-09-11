@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/pbr-validate.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/pbr-validate.html"
 breadcrumb-title: ''
 description: Utilizza lo strumento PBR Validata di Substance 3D Sampler per convalidare e garantire che i materiali soddisfino gli standard di rendering basati fisicamente.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrizione
 
-Utilizza il **filtro PBR Validata** per assicurarti che i valori PBR del materiale siano corretti. A differenza della maggior parte dei filtri, il **filtro PBR Validata** non è progettato per essere una parte permanente del gruppo di livelli, ma per convalidare il materiale e quindi rimuoverlo in modo che non modifichi il materiale.
+Utilizza il **filtro PBR Validata** per assicurarti che i valori PBR del materiale siano corretti. A differenza della maggior parte dei filtri, il **filtro PBR Validata** non è destinato a essere una parte permanente della Pila livelli, ma deve essere utilizzato per convalidare il materiale e quindi rimuoverlo in modo che non modifichi il materiale.
 
 </td>
 </tr>
@@ -49,22 +49,22 @@ Utilizza il **filtro PBR Validata** per assicurarti che i valori PBR del materia
     * **Albedo soglia intervallo scuro**:\
       Imposta la soglia per i valori scuri che il filtro deve rilevare come non valida.
     * **Sovrapposizione mappa**: attiva/disattiva\
-      Passare dalla modalità di sovrapposizione all’altra: se attivata, la mappa colore di base viene sovrapposta ai pixel non validi.
-    * **Nascondi convalida in colore di base**: attiva/disattiva\
+      Passare dalla modalità di sovrapposizione all’altra: se attivata, la mappa del colore di base viene sovrapposta ai pixel non validi.
+    * **Nascondi convalida nel Colore di base**: attiva/disattiva\
       Nascondi le informazioni di convalida dal canale del colore di base.
   * **Modalità di convalida: Metal**
     * **Intervallo Di Riflessione Metallica**:\
       Impostate l’intervallo di valori di riflessione che il filtro deve rilevare come non valido.
     * **Sovrapposizione mappa**: attiva/disattiva\
-      Passare dalla modalità di sovrapposizione all’altra: se attivata, la mappa colore di base viene sovrapposta ai pixel non validi.
-    * **Nascondi convalida in colore di base**: attiva/disattiva\
+      Passare dalla modalità di sovrapposizione all’altra: se attivata, la mappa del colore di base viene sovrapposta ai pixel non validi.
+    * **Nascondi convalida nel Colore di base**: attiva/disattiva\
       Nascondi le informazioni di convalida dal canale del colore di base.
   * **Modalità di convalida: combinata**
     * **Albedo soglia intervallo scuro**:\
       Imposta la soglia per i valori scuri che il filtro deve rilevare come non valida.
     * **Intervallo Di Riflessione Metallica**:\
       Impostate l’intervallo di valori di riflessione che il filtro deve rilevare come non valido.
-    * **Nascondi convalida in colore di base**: attiva/disattiva\
+    * **Nascondi convalida nel Colore di base**: attiva/disattiva\
       Nascondi le informazioni di convalida dal canale del colore di base.
 
 ## Guida all’uso
@@ -75,13 +75,13 @@ Il **PBR Validata** **filtro** consente di evitare problemi con l&#39;albedo e i
 
 PBR è l’acronimo di Physically Based Rendering (Rendering basato su fisica) ed è un metodo di rendering di oggetti e materiali mediante la rappresentazione delle proprietà fisiche di una superficie con vari canali. PBR è stato creato per rappresentare più accuratamente il mondo reale e fisico rispetto ai precedenti metodi di rendering e ombreggiatura.
 
-Nel mondo reale, ci sono alcuni colori e combinazioni di proprietà che sono o impossibile o incredibilmente raro. Ad esempio, quasi nulla nel mondo reale ha un&#39;albedo di bianco puro o nero puro o un colore di base.
+Nel mondo reale, ci sono alcuni colori e combinazioni di proprietà che sono o impossibile o incredibilmente raro. Ad esempio, quasi nulla nel mondo reale ha un&#39;albedo o un colore di base di colore bianco puro o nero puro.
 
 Quindi, poiché PBR sta cercando di rappresentare valori reali, e poiché alcuni valori non appaiono o appaiono raramente nel mondo reale, è possibile avere valori PBR &#39;errati&#39;. Questo è ciò che il **filtro PBR Validata** è progettato per trovare.
 
 ## Come usare PBR Validata
 
-Per utilizzare **PBR Validata**, aggiungilo nella parte superiore dello stack di livelli. Dovresti notare un cambiamento drastico nell&#39;aspetto del tuo materiale, perché **filtro PBR Validata** mostra i risultati della convalida nel canale di albedo.
+Per utilizzare **PBR Validata**, aggiungilo nella parte superiore della Pila livelli. Dovresti notare un cambiamento drastico nell&#39;aspetto del tuo materiale, perché **filtro PBR Validata** mostra i risultati della convalida nel canale di albedo.
 
 Il filtro utilizza una scala da rossa a verde per mostrare dove si trovano gli errori. Se l’intero materiale è verde, non c’è nulla di sbagliato nei colori o nei valori metallici del materiale. Tuttavia, se vedi aree gialle, arancioni o rosse, ci sono problemi con il tuo materiale.
 

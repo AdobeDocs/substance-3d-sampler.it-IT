@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/warp-transform.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp-transform.html"
 breadcrumb-title: ''
-description: Utilizzate lo strumento Trasformazione alterazione in Substance 3D Sampler per applicare alterazioni non lineari ed effetti di distorsione a texture e materiali.
+description: Usa lo strumento Trasforma alterazione di Substance 3D Sampler per applicare effetti di alterazione e distorsione non lineari a texture e materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Warp Transform
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Altera trasformazione
+title: Altera Trasforma
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 1%
 ---
 
 
-# Altera trasformazione
+# Altera Trasforma
 
 <table>
 <tr style="border: 0;">
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrizione
 
-Altera il tuo materiale utilizzando le maniglie nella **vista 2D**.
+Altera il tuo materiale utilizzando le maniglie nella **Vista 2D**.
 
 </td>
 </tr>
@@ -52,8 +52,8 @@ Altera il tuo materiale utilizzando le maniglie nella **vista 2D**.
 
 ## Guida all’uso
 
-Il **filtro Trasformazione alterazione** consente di alterare manualmente il materiale con le maniglie nella **vista 2D**. Per utilizzare il **filtro Trasformazione alterazione**:
+Il **filtro di Trasforma Altera** consente di alterare manualmente il materiale con le maniglie nella **Vista 2D**. Per utilizzare il filtro di Trasforma **Altera**:
 
-1. Aggiungete il **filtro Trasformazione alterazione** nella parte superiore dello stack di livelli
+1. Aggiungi il **filtro di Trasforma Altera** all&#39;inizio della Pila livelli
 1. Regola il numero di maniglie con **Parametri di base > Griglia**
 1. Trascinate le maniglie per iniziare a deformare il materiale

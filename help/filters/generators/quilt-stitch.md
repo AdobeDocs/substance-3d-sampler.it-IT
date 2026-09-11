@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
-description: Utilizzate il generatore di unione superfici in Substance 3D Sampler per creare pattern di tessuto trapuntato e trame di giuntura per i materiali.
+description: Utilizzate il generatore di cuciture per unioni superfici in Substance 3D Sampler per creare motivi di tessuto trapuntato e texture di cucitura per i materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Quilt Stitch
 helpx_experience_level: ""
@@ -65,7 +65,7 @@ Emulare un motivo di unione superfici unito nei materiali con questo filtro.
 * **Selezione pattern**:\
   Selezionate lo stile del pattern da seguire per l&#39;unione superfici
 * **Importo**: 1-5\
-  Controllare la quantità di affiancatura del pattern
+  Controllare la quantità di Affiancamento del pattern
 * **Rotazione**:\
   Ruotare il pattern
 * **Topstitch**: attiva/disattiva\
@@ -74,7 +74,7 @@ Emulare un motivo di unione superfici unito nei materiali con questo filtro.
   Abilita per aggiungere una giuntura e vedere la sezione dei parametri pertinenti
 * **Unione superfici**: attiva/disattiva\
   Attivate questa opzione per aggiungere un&#39;unione superfici e visualizzare la relativa sezione dei parametri
-* **Edge Paint**: attiva/disattiva\
+* **Pittura Edge**: attiva/disattiva\
   Attivate per inclinare il bordo tra le sezioni trapuntate e consultate la relativa sezione dei parametri
 * **Avanzate**: attiva/disattiva\
   Abilita per visualizzare i parametri **Advanced**
@@ -102,8 +102,8 @@ Emulare un motivo di unione superfici unito nei materiali con questo filtro.
   Selezionare lo stile di cucitura da utilizzare
 * **Intensità cucitura**: 0-1\
   Modificare l’intensità normale e di height della giuntura
-* **Intensità dilatazione**: 0-1\
-  Regolate l&#39;impatto che il tratto del tessuto ha sulla cucitura. Questo effetto è piuttosto discreto.
+* **Intensità Allungamento**: 0-1\
+  Regola l&#39;impatto del allungamento del tessuto sulla cucitura. Questo effetto è piuttosto discreto.
 
 **Unione superfici**
 
@@ -112,18 +112,18 @@ Emulare un motivo di unione superfici unito nei materiali con questo filtro.
 * **Intensità unione superfici**:\
   Regolate la normale e l’intensità del height dell’effetto di unione superfici
 
-**Edge Paint**
+**Pittura Edge**
 
 * **Selezione bordo**:\
   Selezionare se il dolore sostituisce o meno i dettagli normali e height del materiale sottostante
 * **Colore bordo**: selezione colore\
-  Selezionare il colore del colore
+  Seleziona il colore della pittura
 * **Rugosità bordo**: 0-1
 * **Edge Metallic**: 0-1
 
 **Avanzate**
 
 * **Height di Materiali di base**: 0-1\
-  Regola l&#39;intensità della mappa del height dal materiale sottostante
+  Regola l&#39;intensità della mappa di altezza dal materiale sottostante
 * **Intensità normale**: 0-1\
-  Regolate l&#39;intensità delle modifiche della mappa normale a causa del filtro **Punto unione superfici**. Ciò non incide sulla normale del materiale sottostante.
+  Regolate l&#39;intensità delle modifiche alle mappe normali a causa del filtro **Unione superfici**. Ciò non incide sulla normale del materiale sottostante.

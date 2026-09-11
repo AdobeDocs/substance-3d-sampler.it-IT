@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/technical-support/technical-issues/interface-issues/main-interface-is-transparent.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues/main-interface-is-transparent.html"
 breadcrumb-title: ''
 description: Scoprite come risolvere i problemi di interfaccia trasparente in Substance 3D Sampler regolando le impostazioni del driver GPU e le opzioni di antialiasing.
 helpx_creative_field: ""

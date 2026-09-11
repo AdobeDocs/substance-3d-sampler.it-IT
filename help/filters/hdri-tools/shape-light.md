@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/shape-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/shape-light.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Luce forma in Substance 3D Sampler per aggiungere sorgenti luminose a forma personalizzata agli ambienti HDRI per un’illuminazione creativa.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ Create una luce a forma di rettangolo o disco.
       Selezionate il colore della luce.
   * **Input immagine**
     * **Input immagine forma**: immagine/pennello\
-      Importate un’immagine da usare come colore. È possibile utilizzare lo strumento Pennello per colorare direttamente nella **vista 2D**, ma questo filtro può produrre risultati imprevedibili.
+      Importate un’immagine da usare come colore. È possibile utilizzare lo strumento Pennello per eseguire pitture direttamente in **Vista 2D**, ma questo filtro può produrre risultati imprevedibili.
 * **Esposizione hotspot (EV)**: 0-10\
   Regola l&#39;esposizione del punto attivo. A volte, il punto attivo può essere difficile o impossibile da visualizzare: con un nuovo **filtro Luce forma**, impostate la **Temperatura forma** su 1000 e l&#39;**Esposizione punto attivo** **(EV)** su 10 per visualizzare il punto attivo al centro della forma.
 * **Forma**:\
@@ -64,7 +64,7 @@ Create una luce a forma di rettangolo o disco.
 * **Posizione punto attivo**: 0-1\
   Scostare la posizione del punto attivo
 * **Scostamento matrice**: da -2 a 2\
-  Modificate la posizione della luce della forma. Puoi anche trascinare la luce nella **vista 2D** per riposizionarla.
+  Modificate la posizione della luce della forma. Puoi anche trascinare la luce nel **Vista 2D** per riposizionarla.
 
 **Forma**
 

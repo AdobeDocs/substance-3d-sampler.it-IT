@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/weave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/weave.html"
 breadcrumb-title: ''
 description: Usa il generatore Tessitura in Substance 3D Sampler per creare pattern di tessuto intrecciato e texture tessili per la creazione di materiali.
 helpx_creative_field: ""
@@ -48,7 +48,7 @@ Usare i predefiniti per modificare rapidamente i parametri e visualizzare divers
 * **Numero casuale**:\
   Valore di inizializzazione casuale su cui sono basati tutti gli altri parametri casuali in questo filtro.
 * **Immagine**: immagine/pennello\
-  Selezionate un&#39;immagine o un disegno direttamente nella **vista 2D**. Il **filtro Intreccio** funziona meglio quando si seleziona un&#39;immagine.
+  Selezionare un&#39;immagine o una pittura direttamente nella **Vista 2D**. Il **filtro Intreccio** funziona meglio quando si seleziona un&#39;immagine.
 * **Conteggio colori**: 1-10\
   Il **filtro Intreccio** suddivide automaticamente l&#39;input dell&#39;immagine in diversi colori in base a questo parametro. I parametri di ciascun colore possono essere controllati in modo indipendente.
 * **Dimensioni area (cm)**: 2-50\
@@ -101,7 +101,7 @@ All&#39;inizio il filtro Intreccia può essere un po&#39; confuso, ma con pochi 
 Per utilizzare il filtro Intreccia:
 
 1. Trascina e rilascia un’immagine in
-1. Aggiungete il filtro Intreccio alla pila di livelli.
+1. Aggiungete il filtro Intreccio alla Pila livelli.
 1. Regolate **Parametri di base > Conteggio colori** fino a ottenere il bilanciamento del colore corretto per l’immagine. Con un limite di 10 colori, il filtro Intreccia funziona meglio con i colori piatti e le immagini illustrate.
 1. Regolate altri parametri per perfezionare l’aspetto del cerotto.
 
@@ -113,4 +113,4 @@ Queste sono le nozioni di base su come utilizzare il filtro Intreccia.
 1. Aggiungi il filtro Intreccia allo slot di input del filtro Decalcomania.
 1. Seguite i passaggi normali per regolare il pattern Intreccio.
 
-Il livello Decal converte l’input Weave in un Decal: in questo modo la trasparenza del livello Weave indica al livello decalcomania come mascherare il pattern Woven. Con il livello Decal puoi anche spostare il pattern sul materiale o abilitare la funzionalità come affiancamento.
+Il livello Decal converte l’input Weave in un Decal: in questo modo la trasparenza del livello Weave indica al livello decalcomania come mascherare il pattern Woven. Con il livello Decal puoi anche spostare il pattern sul materiale o abilitare la funzionalità come l&#39;Affiancamento.

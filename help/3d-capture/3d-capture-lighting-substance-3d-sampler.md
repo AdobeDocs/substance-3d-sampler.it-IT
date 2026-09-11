@@ -30,7 +30,7 @@ Se preferisci saperne di più sull&#39;illuminazione impostata per Capture 3D in
 
 La fotografia richiede un&#39;illuminazione uniforme e uniforme.
 
-Non è sempre possibile: se stai contando sull&#39;illuminazione esterna, potresti avere un sole luminoso senza nuvole o potrebbe anche piovere. Anche in una giornata nuvolosa si avranno comunque delle ombre e della luce sull&#39;oggetto, il che può causare problemi quando si capovolge un oggetto. Assumere il controllo dell’illuminazione può eliminare questi problemi. E quando si utilizza un&#39;illuminazione controllata da studio, non si otterranno solo modelli migliori, ma anche trame migliori e più uniformi.
+Non è sempre possibile: se stai contando sull&#39;illuminazione esterna, potresti avere un sole luminoso senza nuvole o potrebbe anche piovere. Anche in una giornata nuvolosa si avranno comunque delle ombre e della luce sull&#39;oggetto, il che può causare problemi quando si capovolge un oggetto. Assumere il controllo dell’illuminazione può eliminare questi problemi. E quando si utilizza un&#39;illuminazione da studio controllata, non si otterranno solo modelli migliori, ma anche texture migliori e più uniformi.
 
 ![](../assets/lighting-3d-capture-1.jpg)
 
@@ -58,4 +58,4 @@ Poiché il flash viene attivato per un periodo di tempo così breve, non è molt
 
 Se utilizzate una combinazione di illuminazione con flash e luce video continua, potete <b>modificare tutte le impostazioni per uniformare le luci</b>. Probabilmente il flash sovrasta facilmente le luci video, quindi puoi attenuarne l&#39;intensità. Potete anche aumentare l’effetto della luce video, aumentando il tempo di scatto, in quanto l’aggiunta di luce continuerà più a lungo rimane aperto l’otturatore.
 
-Non esiste una soluzione che consenta di utilizzare il caso specifico e l’apparecchiatura. L&#39;obiettivo finale è quello di avere <b>un&#39;illuminazione uniforme, anche con un minimo di ombre visibili</b>. Il sistema di fotogrammetria automatica consente di allineare le foto più facilmente e le texture risulteranno più uniformi e uniformi, come una vera texture PBR basecolor.
+Non esiste una soluzione che consenta di utilizzare il caso specifico e l’apparecchiatura. L&#39;obiettivo finale è quello di avere <b>un&#39;illuminazione uniforme, anche con un minimo di ombre visibili</b>. Il sistema di fotogrammetria automatica avrà un tempo più facile allineare le foto e la texture risulterà più uniforme e uniforme, come una vera texture di colori di base PBR.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/multiangle-to-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Multiangolo su materiale di Substance 3D Sampler per creare materiali da più angolazioni di una superficie.
 helpx_creative_field: ""
@@ -26,14 +26,14 @@ Il modello **Multiangolo su materiale** consente di creare un materiale da 2 a 8
 
 >[!NOTE]
 >
-> In questo articolo[&#128279;](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html) sono disponibili ulteriori informazioni su come creare il proprio scanner di materiali .
+> In questo articolo](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html) sono disponibili ulteriori informazioni su come creare il proprio scanner di materiali [.
 
 ## Esempio
 
 Di seguito è riportato un esempio di materiale creato da 8 immagini di input:
 
 * Le prime 8 immagini sono le immagini acquisite in 8 angoli di luce.
-* Le immagini in basso sono gli output del modello (colore di base, normale, height, metallico e rugosità).
+* Le immagini in basso rappresentano gli output del modello (colore di base, normale, height, metallico e rugosità).
 
 ![](../../assets/scan-801x697.jpg){width="400px"}
 

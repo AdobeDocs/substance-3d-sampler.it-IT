@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/features-and-workflows/3d-capture.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/3d-capture.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare Capture 3D in Substance 3D Sampler per creare materiali da oggetti del mondo reale utilizzando tecniche di fotogrammetria.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## Cos&#39;è la fotogrammetria?
 
-Sampler utilizza la fotogrammetria per trasformare le immagini in una trama con texture. La fotogrammetria è la scienza delle misurazioni dalle immagini. Viene utilizzato per estrarre informazioni da fotografie, per creare modelli e texture 3D. Il processo prevede lo scatto di più fotografie di un oggetto da diverse angolazioni, quindi l&#39;elaborazione delle immagini per estrarre informazioni sulla forma e la posizione delle caratteristiche nelle immagini.
+Sampler utilizza la fotogrammetria per Trasforma le immagini in una trama con texture. La fotogrammetria è la scienza delle misurazioni dalle immagini. Viene utilizzato per estrarre informazioni da fotografie, per creare modelli e texture 3D. Il processo prevede lo scatto di più fotografie di un oggetto da diverse angolazioni, quindi l&#39;elaborazione delle immagini per estrarre informazioni sulla forma e la posizione delle caratteristiche nelle immagini.
 
 L&#39;obiettivo è quello di far corrispondere le caratteristiche corrispondenti tra le immagini per stabilire le posizioni relative della fotocamera per ogni immagine. Dalle feature corrispondenti, viene ricostruito un modello 3D dell&#39;oggetto. Il passaggio finale consiste nel proiettare le texture sul modello 3D.
 
@@ -40,12 +40,12 @@ Consigliamo:
 * 16 Gb di RAM. Idealmente, 32 Gb e 64 Gb.
 * Minimo 10 Gb di spazio su disco
 
-[Configurazione Linux](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/sadoc/3d-capture-set-up-on-linux-255426606.html)
+[Configurazione Linux](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/3d-capture-set-up-on-linux-255426606.html)
 
 Mac
 
 * I dispositivi Apple Silicon sono vivamente consigliati (M1 o M2)
-* GPU basata su Intel e AMD con almeno 4 Gb di VRAM e supporto di raytracing
+* GPU basata su Intel e AMD con almeno 4 Gb di supporto per VRAM e raytracing
 
 ## Avvia una nuova Capture 3D
 
@@ -119,7 +119,7 @@ Precisione
 Sono disponibili due opzioni, Bassa e Alta.
 
 * Bassa: consigliata per la maggior parte dei set di dati.
-* Alto: aumentate il numero di punti e vi consigliamo di abbinare più foto nei casi in cui il soggetto ha una texture insufficiente o le foto sono di piccole dimensioni. Questa impostazione rallenta l’elaborazione. Ti consigliamo di provare prima l&#39;opzione bassa.
+* Alto: aumentate il numero di punti e consigliate di abbinare più foto nei casi in cui la texture del soggetto è insufficiente o le foto sono di piccole dimensioni. Questa impostazione rallenta l’elaborazione. Ti consigliamo di provare prima l&#39;opzione bassa.
 
 Disposizione delle foto
 
@@ -140,9 +140,9 @@ Se il contorno dell’immagine è arancione, l’immagine non è stata allineata
 
 ![](../assets/3d-capture-alignment-results.png)
 
-Potete fare clic sull’immagine nel pannello a sinistra per inquadrare la nuvola di punti sulla fotocamera associata.
+Potete fare clic sull’immagine nel pannello a sinistra per creare un fotogramma della nuvola di punti sulla fotocamera associata.
 
-Puoi fare clic su una fotocamera per incorniciare la nuvola di punti su di essa.
+Puoi fare clic su una fotocamera per creare un fotogramma dei punti che contiene una nuvola.
 
 ## Ricostruzione
 
@@ -179,7 +179,7 @@ Premendo Maiusc durante il ridimensionamento, la casella verrà ridimensionata a
 
 La post-elaborazione ti aiuta ad adattare e ottimizzare la trama e le texture in base alle tue esigenze e a come desideri utilizzarla.
 
-Il risultato della ricostruzione può generare una trama con milioni di poligoni e texture fino a 16K. Spesso questa opzione non è ottimizzata per il rendering, il tempo reale o l’esperienza AR.
+Il risultato della ricostruzione può generare una rete con milioni di poligoni e fino a 16K texture. Spesso questa opzione non è ottimizzata per il rendering, il tempo reale o l’esperienza AR.
 
 Sarà necessario post-elaborare il risultato per ridurre il numero di poligoni senza perdere dettagli.
 
@@ -187,8 +187,8 @@ Il passo di post-elaborazione concatena automaticamente 4 passaggi:
 
 * Decimazione: consente di ridurre il numero di poligoni definendo il numero di facce desiderato
 * Srotolamento UV: definisce automaticamente le giunture, lo srotolamento e confezione UV della trama decimata
-* Riproiezione: riproietta la texture di colore della trama fotogrammetrica sulla trama decimata
-* Cottura: cuocere i dettagli normali, height e AO dalla trama fotogrammetrica alla trama decimata. In questo modo tutti i dettagli di trama persi durante la decimazione verranno trasferiti nelle mappe di texture.
+* Riproiezione: riproietta la texture di colori della trama fotogrammetrica sulla trama decimata
+* Esegue i baking: Esegue i baking i dettagli normali, height e AO dalla trama fotogrammetrica alla trama decimata. In questo modo tutti i dettagli di trama persi durante la decimazione verranno trasferiti nelle mappe di texture.
 
 ![](../assets/3d-capture-original-version-post-processing.png)
 
@@ -214,13 +214,13 @@ Modalità griglia UV
 
 ![](../assets/main-window-add-to-project.png)
 
-Una volta aggiunta una versione al progetto, viene creata una pila di livelli con diversi livelli.
+Una volta aggiunta una versione al progetto, viene creata una Pila livelli con diversi livelli.
 
 Il primo strato è il risultato della ricostruzione.
 
 Il secondo livello (se avete eseguito qualche operazione di post-elaborazione) è il livello di post-elaborazione della trama con i valori definiti nella finestra del capture 3D. Potete comunque modificare i parametri in questa fase se desiderate utilizzare altre impostazioni.
 
-Il terzo livello è un livello di trasformazione trama per ridimensionare, traslare e ruotare l’oggetto 3D.
+Il terzo livello è un livello di Trasforma trama per ridimensionare, traslare e ruotare l&#39;oggetto 3D.
 
 In questa fase, puoi aggiungere i filtri che utilizzi per applicare ai materiali per modificare le texture sull’oggetto 3D.
 

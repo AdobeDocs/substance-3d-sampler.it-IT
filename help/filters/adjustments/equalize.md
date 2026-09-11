@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/equalize.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/equalize.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Equalizza in Substance 3D Sampler per ridistribuire i valori di luminosità e migliorare automaticamente il contrasto dell’immagine.
 helpx_creative_field: ""
@@ -39,7 +39,7 @@ Le immagini seguenti mostrano il **filtro Equalizza** in azione.
 
 ![](../../assets/3d-2d-filters-cropped-0033-equalizer-in.jpg)
 
-Prima dell&#39;aggiunta del **filtro Equalizza**, la mappa di height e il colore di base di questo materiale presentano variazioni significative.
+Prima che il **filtro Equalizza** sia stato aggiunto, la mappa di altezza e il colore di base di questo materiale presentano variazioni significative.
 
 ![](../../assets/3d-2d-filters-cropped-0032-equalizer-out.jpg)
 
@@ -81,12 +81,12 @@ I controlli di ciascun canale funzionano allo stesso modo.
   * <b>Destinazione</b>: selezione colore\
     Selezionare un colore o un valore da utilizzare come destinazione per l&#39;algoritmo Equalizza.
 * <b>Variazione colore personalizzata</b>: cursori HSL\
-  Regolate Tonalità, Crominanza (Saturazione) e Luminanza (Luminanza) del risultato dopo aver eseguito l&#39;algoritmo Equalizza per il canale specificato.
+  Regolate Tonalità, Crominanza (Saturazione) e Luminosità (Luminanza) del risultato dopo aver eseguito l&#39;algoritmo Equalizza per il canale specificato.
 
 <b>Maschera</b>
 
 * <b>Maschera personalizzata</b>: attiva/disattiva\
   Abilita o disabilita l’utilizzo di una maschera personalizzata per questo filtro
 * <b>Maschera personalizzata</b>: immagine/pennello\
-  Selezionate un’immagine da usare come maschera oppure usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D
+  Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D
 * <b>Inversione maschera personalizzata</b>: attiva/disattiva

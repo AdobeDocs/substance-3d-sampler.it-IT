@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/parquet.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/parquet.html"
 breadcrumb-title: ''
-description: Usa il generatore Parquet in Substance 3D Sampler per creare realistici motivi e trame di parquet in legno per i materiali.
+description: Usa il generatore Parquet in Substance 3D Sampler per creare realistici motivi di parquet in legno e texture per materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Parquet
 helpx_experience_level: ""

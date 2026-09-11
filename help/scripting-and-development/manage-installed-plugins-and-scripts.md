@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
 breadcrumb-title: ''
 description: Scopri come gestire i plug-in e gli script installati in Substance 3D Sampler per installare, modificare e rimuovere le estensioni personalizzate.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/decal.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/decal.html"
 breadcrumb-title: ''
 description: Utilizza il generatore di decalcomanie in Substance 3D Sampler per creare pattern di decalcomanie e texture di sovrapposizione per le superfici di materiale.
 helpx_creative_field: ""
@@ -53,8 +53,8 @@ Con il **filtro decalcomania** applicato, al materiale vengono aggiunte crepe re
 
 **Parametri di base**
 
-* **Modalità di affiancatura**:\
-  Determina se affiancare le maniglie nella **vista 2D**.\
+* **Modalità Affiancamento**:\
+  Determina se affiancare le maniglie in **Vista 2D**.\
   H significa Orizzontale, mentre V significa Verticale.
 * **Corrispondenza colore materiale inferiore**: 0-1\
   Regola i colori del materiale della decalcomania in modo che corrispondano al valore cromatico dei livelli sottostanti.
@@ -65,12 +65,12 @@ Con il **filtro decalcomania** applicato, al materiale vengono aggiunte crepe re
 * **Posizione Height decalcomanie**: 0-1\
   Regola il height della decalcomania rispetto al height dei livelli sottostanti
 * **Scala Height decalcomanie**: 0-1\
-  Modifica il contrasto della mappa del height per il materiale della decalcomania
+  Modifica il contrasto della mappa dell&#39;altezza per il materiale della decalcomania
 
 **Parametri avanzati**
 
 * **Trasformazione decalcomania**:\
-  Regola i valori di trasformazione della matrice per la decalcomania. In generale, è più semplice utilizzare le maniglie nella **vista 2D** per regolare la trasformazione della decalcomania.
+  Regola i valori di Trasforma della matrice per la decalcomania. In generale, è più semplice utilizzare le maniglie del **Vista 2D** per regolare il Trasforma della decalcomania.
 * **Decalcomania** **Scostamento**: da -1 a 1\
   Regola lo scostamento della decalcomania.
 
@@ -78,7 +78,7 @@ Con il **filtro decalcomania** applicato, al materiale vengono aggiunte crepe re
 
 Per utilizzare il filtro Decalcomania:
 
-1. Aggiungere il filtro Decalcomania al gruppo di livelli
+1. Aggiungere il filtro Decal alla Pila livelli
 1. Sotto il livello decalcomania, apparirà uno slot di input
 1. Trascina il materiale della decalcomania nello slot di input del livello della decalcomania
 

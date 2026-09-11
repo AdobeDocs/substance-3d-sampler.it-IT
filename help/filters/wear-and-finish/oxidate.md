@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
 breadcrumb-title: ''
 description: Utilizzate il filtro Ossidato di Substance 3D Sampler per aggiungere effetti di ossidazione e macchia ai materiali metallici per aspetti invecchiati.
 helpx_creative_field: ""
@@ -91,7 +91,7 @@ Aggiungete uno strato di ossidazione sopra il materiale.*Su una superficie rugos
 * **Usa maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocate la maschera.
   * **Maschera personalizzata - Inverti**: attiva/disattiva\
@@ -110,4 +110,4 @@ I seguenti parametri consentono di regolare il valore denominato per l’intero 
 * **Intensità normale**: 0-1
 * **Intervallo Height**: 0-1
 * **Posizione Height**: 0-1
-* **Intensità Occlusione ambiente**: 0-1
+* **Intensità Occlusione ambientale**: 0-1

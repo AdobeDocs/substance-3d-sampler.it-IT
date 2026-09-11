@@ -112,10 +112,10 @@ ht-degree: 15%
     + [Panoramica sugli strumenti](/help/filters/tools/tools.md)
     + [Atlas Creator](/help/filters/tools/atlas-creator.md)
     + [Atlas splitter](/help/filters/tools/atlas-splitter.md)
-    + [Divisione in porzioni automatica](/help/filters/tools/auto-tiling.md)
+    + [Affiancamento automatico](/help/filters/tools/auto-tiling.md)
     + [Generazione canali](/help/filters/tools/channels-generation.md)
     + [Interruttore canale](/help/filters/tools/channel-switch.md)
-    + [Timbro clone](/help/filters/tools/clone-stamp.md)
+    + [Clona /Clone timbro](/help/filters/tools/clone-stamp.md)
     + [Strumento taglierina](/help/filters/tools/crop-tool.md)
     + [Delight - Intelligenza artificiale](/help/filters/tools/delight-ai-powered.md)
     + [Height in AO](/help/filters/tools/height-to-ao.md)
@@ -130,7 +130,7 @@ ht-degree: 15%
     + [Affiancamento](/help/filters/tools/tiling.md)
     + [Trasforma](/help/filters/tools/transform.md)
     + [Ordito](/help/filters/tools/warp.md)
-    + [Altera trasformazione](/help/filters/tools/warp-transform.md)
+    + [Altera Trasforma](/help/filters/tools/warp-transform.md)
     + [Miglioramento](/help/filters/tools/upscale.md)
   + Strumenti HDRI{#hdri-tools}
     + [Panoramica sugli Strumenti HDRI](/help/filters/hdri-tools/hdri-tools.md)
@@ -171,7 +171,7 @@ ht-degree: 15%
   + [Esporta risorse parametriche](/help/features-and-workflows/export-parametric-assets.md)
   + [Flusso di lavoro end-to-end Dimensioni fisiche](/help/features-and-workflows/end-to-end-physical-size-workflow.md)
   + [Appiattisci livelli](/help/features-and-workflows/flatten-layers.md)
-  + [Importazione texture](/help/features-and-workflows/texture-import.md)
+  + [Texture importazione](/help/features-and-workflows/texture-import.md)
   + [Generatori di texture](/help/features-and-workflows/texture-generators.md)
   + [Usa come bitmap](/help/features-and-workflows/use-as-bitmap.md)
   + [Materiale standard Adobe](/help/features-and-workflows/adobe-standard-material.md)
@@ -192,7 +192,7 @@ ht-degree: 15%
     + [Requisiti di sistema per l&#39;utilizzo del dispositivo HP Z Captis](/help/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.md)
     + [Domande frequenti sul supporto di HP Z in Sampler](/help/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.md)
     + [Problemi noti e limitazioni](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.md)
-  + [Plug-in Tajima Exporter](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
+  + [Plug-in di Esportazione Tajima](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + Supporto tecnico{#technical-support}
   + [Panoramica del supporto tecnico](/help/technical-support/technical-support.md)
   + [Esportazione del file di registro](/help/technical-support/exporting-the-log-file.md)
@@ -218,10 +218,10 @@ ht-degree: 15%
   + Problemi di prestazioni{#performance-issues}
     + [Panoramica sui problemi di prestazioni](/help/technical-support/technical-issues/performance-issues/performance-issues.md)
     + [L’apertura del selettore colore richiede molto tempo](/help/technical-support/technical-issues/performance-issues/color-picker-takes-long-time-to-open-the-first-time.md)
-    + [L’interfaccia rallenta durante l’interazione con la pila di livelli o altri elementi](/help/technical-support/technical-issues/performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.md)
+    + [L’interfaccia rallenta durante l’interazione con la Pila livelli o altri elementi](/help/technical-support/technical-issues/performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.md)
   + Problemi di stabilità{#stability-issues}
     + [Panoramica sui problemi di stabilità](/help/technical-support/technical-issues/stability-issues/stability-issues.md)
-    + [Arresto anomalo durante l’esportazione di un materiale](/help/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.md)
+    + [Arresto anomalo durante l&#39;esportazione di un materiale](/help/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.md)
     + [Arresto anomalo quando si utilizza Image to Material o Delighter](/help/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
   + Problemi di avvio{#startup-issues}
     + [Panoramica sui problemi di avvio](/help/technical-support/technical-issues/startup-issues/startup-issues.md)

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/line-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/line-light.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Luce linea in Substance 3D Sampler per aggiungere sorgenti luminose lineari agli ambienti HDRI per un controllo preciso dell’illuminazione.
 helpx_creative_field: ""
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## Descrizione
 
-Aggiungete una **luce di linea** alla luce ambiente.
+Aggiungete una **linea di luce** alla luce ambientale.
 
 Le immagini seguenti mostrano come utilizzare una **luce di linea** per regolare l&#39;illuminazione dell&#39;ambiente.![](../../assets/3d-2d-filters-cropped-0017-line-light-in.jpg)
 
-L&#39;immagine qui sopra mostra una sfera senza modifiche alla luce ambiente.
+L&#39;immagine qui sopra mostra una sfera senza modifiche alla luce ambientale.
 
 ![](../../assets/3d-2d-filters-cropped-0016-line-light-out.jpg)
 
@@ -63,11 +63,11 @@ Dopo aver aggiunto una **luce di linea**, l&#39;aspetto della sfera è notevolme
       Selezionate il colore della luce.
   * **Input immagine**
     * **Input immagine forma**: immagine/pennello\
-      Importate un’immagine da usare come colore. È possibile utilizzare lo strumento Pennello per colorare direttamente nella **vista 2D**, ma questo filtro può produrre risultati imprevedibili.
+      Importate un’immagine da usare come colore. È possibile utilizzare lo strumento Pennello per eseguire pitture direttamente in **Vista 2D**, ma questo filtro può produrre risultati imprevedibili.
   * **Sfondo di esempio**
     * Lo sfondo di esempio non rende disponibili nuovi parametri, ma basa il colore della luce sui valori dello sfondo.
 * **Modalità posizione**:\
-  Modificate il metodo utilizzato per determinare la posizione delle luci. I parametri nella sezione **Coordinate posizione** verranno modificati in base alla selezione. Con **Posizione universale** selezionato, le maniglie scompariranno dalla **vista 2D** e utilizzate invece i parametri in **Coordinate posizione** per modificare la posizione della luce.
+  Modificate il metodo utilizzato per determinare la posizione delle luci. I parametri nella sezione **Coordinate posizione** verranno modificati in base alla selezione. Con **Posizione universale** selezionato, le maniglie scompariranno dalle **Vista 2D**, ma per modificare la posizione della luce utilizzare i parametri in **Coordinate posizione**.
 
 **Forma**
 
@@ -80,7 +80,7 @@ Dopo aver aggiunto una **luce di linea**, l&#39;aspetto della sfera è notevolme
 * **Durezza motivo**: 0-1\
   Ammorbidite i bordi della luce
 * **Modalità UV modello**:\
-  Modificate il pattern su cui si basa la luce. **Allunga** allunga l&#39;intera forma in modo che corrisponda ai punti finali della linea. **Allunga solo al centro** allunga il centro della forma mantenendo invariate le estremità della linea. **Ripeti + Spaziatura** crea timbri della forma lungo la lunghezza delle linee e aggiunge un ulteriore parametro per gestire la spaziatura:
+  Modificate il pattern su cui si basa la luce. **Allungamento** allungamento l&#39;intera forma in modo che corrisponda ai punti finali della linea. **Allungamento solo al centro** allungamento il centro della forma mantenendo invariate le estremità della linea. **Ripeti + Spaziatura** crea timbri della forma lungo la lunghezza delle linee e aggiunge un ulteriore parametro per gestire la spaziatura:
   * **Spaziatura ripetizione pattern**: 0-1\
     Regolare la larghezza della spaziatura tra le istanze di forme
 

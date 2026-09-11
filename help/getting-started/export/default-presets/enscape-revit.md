@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
 breadcrumb-title: ''
 description: Scoprite come esportare i materiali da Substance 3D Sampler utilizzando il predefinito Enscape Revit per i flussi di lavoro di visualizzazione dell'architettura.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **Albedo &#x200B;**&#x200B;**Lucidità**&#x200B;**Normale (OpenGL)**&#x200B;**Trasparenza** |
+| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **Albedo ****Lucentezza****Normale (OpenGL)****Trasparenza** |

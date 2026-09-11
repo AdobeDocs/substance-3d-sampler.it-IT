@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/project-management.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/project-management.html"
 breadcrumb-title: ''
 description: Scopri come gestire i progetti in Substance 3D Sampler utilizzando le raccolte per organizzare risorse e materiali per flussi di lavoro efficienti.
 helpx_creative_field: ""
@@ -38,7 +38,7 @@ Dopo aver fatto clic sul pulsante &quot;Crea nuovo&quot;, il progetto verrà ape
 
 Per salvare un progetto, utilizza l&#39;azione di menu <b>File > Salva </b>o <b>Salva con nome</b>. Viene aperta una finestra di dialogo che consente di scegliere il nome da utilizzare e la posizione in cui salvare i file di progetto.
 
-In alternativa puoi utilizzare la scelta rapida <b>Ctrl + S</b> per <b>Salvare</b> o <b>Ctrl + Maiusc + S</b> per <b>Salvare come</b>.
+In alternativa, puoi utilizzare la scelta rapida da tastiera <b>Ctrl + S</b> per <b>Salvare</b> o <b>Ctrl + Maiusc + S</b> per <b>Salvare con nome</b>.
 
 I progetti salvati vengono visualizzati come file denominato <b>YourProject.ssa</b>. SSA è il formato di file dei campionatori, che memorizza le informazioni sul progetto e le eventuali dipendenze.
 

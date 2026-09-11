@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/height-to-ao.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-ao.html"
 breadcrumb-title: ''
-description: Utilizza lo strumento da Height a AO in Substance 3D Sampler per convertire le mappe di height in mappe di occlusione ambientale per la creazione di materiale.
+description: Utilizza lo strumento da Height a AO in Substance 3D Sampler per convertire le mappe di altezza in mappe di occlusione ambientale per la creazione di materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Height to AO
 helpx_experience_level: ""
@@ -39,11 +39,11 @@ Visualizza i risultati del filtro **Height a AO** nelle immagini seguenti.
 
 ![](../../assets/3d-2d-filters-cropped-0025-height-to-ao-in.jpg)
 
-Nell&#39;immagine precedente, la **vista 2D** visualizza la mappa del height. Il materiale non include alcuna informazione sull&#39;Occlusione ambientale in questa immagine.
+Nell&#39;immagine precedente, **Vista 2D** visualizza la mappa dell&#39;altezza. Il materiale non include alcuna informazione di Occlusione ambientale in questa immagine.
 
 ![](../../assets/3d-2d-filters-cropped-0024-height-to-ao-out.jpg)
 
-In questa immagine, la mappa di Occlusione ambiente è stata creata dal filtro **Height in AO** ed è visibile nella **vista 2D**. L&#39;Occlusione ambientale è generalmente un effetto sottile, quindi non è molto facile da vedere in questo materiale: prova a utilizzare il filtro **Height per AO** sui tuoi materiali per aumentare l&#39;intensità dell&#39;AO e avere un&#39;idea di come lavorare con l&#39;Occlusione ambientale.
+In questa immagine, la mappa di Occlusione ambiente è stata creata dal filtro **Height in AO** ed è visibile nella **vista 2D**. L’Occlusione ambientale è generalmente un effetto delicato, quindi non è molto facile da vedere in questo materiale. Prova a utilizzare il filtro **Da Height a AO** sui tuoi materiali per aumentare l’intensità dell’AO e avere un’idea di come si lavora con l’Occlusione ambientale.
 
 </td>
 </tr>
@@ -57,5 +57,5 @@ In questa immagine, la mappa di Occlusione ambiente è stata creata dal filtro *
   Selezionare se generare i dati dal canale di height, dal canale normale o da entrambi i canali insieme.
 * **Occlusione ambiente - Intensità**: 0-1\
   Regolare la forza dei dati AO generati
-* **Occlusione ambiente - Diffusione**: 0-1\
+* **Occlusione ambientale - Pagine affiancate**: 0-1\
   Regola il raggio dei dati AO generati

@@ -13,4 +13,4 @@ ht-degree: 0%
 
 I canali sotterranei sono utili per i materiali opachi ma traslucidi, simulando l’effetto della dispersione della luce sotto la superficie del materiale. Questo effetto si verifica comunemente con materiali come pelle, foglie e molte materie plastiche. Guardate il video riportato di seguito per ulteriori informazioni sui parametri della sottosuperficie e utilizzarli per creare un materiale in resina.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483551?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3483521)

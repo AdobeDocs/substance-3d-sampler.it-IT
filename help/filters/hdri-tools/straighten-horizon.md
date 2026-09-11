@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Raddrizza orizzonte in Substance 3D Sampler per correggere l’allineamento dell’orizzonte nelle immagini dell’ambiente HDRI.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrizione
 
-Raddrizza l&#39;orizzonte alterando l&#39;ambiente nella **vista 2D**.
+Raddrizza l&#39;orizzonte alterando l&#39;ambiente in **Vista 2D**.
 
 </td>
 </tr>
@@ -44,6 +44,6 @@ Raddrizza l&#39;orizzonte alterando l&#39;ambiente nella **vista 2D**.
 **Parametri di base**
 
 * **Attiva correzione orizzonte**: attiva/disattiva\
-  Attivate o disattivate la visualizzazione dell’orizzonte corretto o di una linea che mostri la linea dell’orizzonte risultante. Disattivate questa opzione e regolate le maniglie nella **vista 2D** per comprendere meglio in che modo questo strumento deforma l&#39;ambiente per regolare l&#39;orizzonte.
+  Attivate o disattivate la visualizzazione dell’orizzonte corretto o di una linea che mostri la linea dell’orizzonte risultante. Disattivate questa opzione e regolate le maniglie in **Vista 2D** per comprendere meglio in che modo questo strumento deforma l&#39;ambiente per regolare l&#39;orizzonte.
 * **Rotazione orizzontale**: 0-1\
   Ruotare l&#39;ambiente. I risultati di questo parametro sono visibili solo se è abilitata l&#39;opzione **Attiva correzione orizzonte**.

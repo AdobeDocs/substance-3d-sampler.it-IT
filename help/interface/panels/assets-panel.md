@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
 description: Scopri come utilizzare il pannello Risorse in Substance 3D Sampler per sfogliare, organizzare e accedere alle tue risorse e alle tue risorse materiali.
 helpx_creative_field: ""
@@ -39,7 +39,7 @@ Per aggiungere le tue risorse al pannello Risorse, fai clic su **+** in basso a 
 
 Quando trascini e rilasci materiali dal pannello delle risorse alla pila di livelli, ti potrebbe essere proposto di attivare canali aggiuntivi. Viene offerto quando il materiale produce un canale che non è attualmente attivato nella vostra risorsa. Potreste volerla attivare se desiderate beneficiare della piena complessità del materiale, come alcuni effetti di anisotropia o rivestimento.
 
-![popup attivazione canale quando viene aggiunto un materiale allo stack di livelli](../../../help/assets/sampler_assets-panel_additional-channels-activation.png)
+![popup di attivazione del canale quando viene aggiunto un materiale alla Pila livelli](../../../help/assets/sampler_assets-panel_additional-channels-activation.png)
 
 >[!NOTE]
 >

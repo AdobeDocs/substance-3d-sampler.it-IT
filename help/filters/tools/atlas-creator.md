@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/atlas-creator.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-creator.html"
 breadcrumb-title: ''
-description: Usa lo strumento Atlas Creator in Substance 3D Sampler per creare atlanti di texture da più immagini per un'organizzazione efficiente dei materiali.
+description: Utilizza lo strumento Atlas Creator in Substance 3D Sampler per creare atlanti di texture da più immagini per un'organizzazione efficiente dei materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Atlas Creator
 helpx_experience_level: ""
@@ -43,7 +43,7 @@ Nell&#39;immagine precedente, un&#39;immagine atlante è stata importata e conve
 
 ![](../../assets/3d-2d-filters-cropped-0040-atlas-creator-out.jpg)
 
-Dopo aver eseguito **Atlas Creator**, viene generata una mappa di opacità e l&#39;area tra gli elementi atlas viene riempita nel canale di colore di base.
+Dopo aver eseguito **Atlas Creator**, viene generata una mappa di opacità e l&#39;area tra gli elementi atlas viene riempita nel canale del colore di base.
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ Parametri
   Perfeziona i bordi degli elementi atlas in base ai valori cromatici.
 * **Aggiungi opacità**: immagine/pennello
 
-  Importa un file da utilizzare come maschera o usa il pennello per colorare le aree che dovrebbero essere opache direttamente nella **vista 2D**.
+  Importa un file da utilizzare come maschera o usa il pennello per pittura le aree che dovrebbero essere opache direttamente nella **Vista 2D**.
 
 Guida all’uso
 
@@ -75,14 +75,14 @@ Prima di utilizzare il **filtro Atlas Creator**, è consigliabile verificare che
 
 **Atlas Creator** è progettato per convertire un&#39;immagine atlas in un atlas dei materiali.
 
-1. Importate l’immagine sorgente nel gruppo di livelli.
-1. Se viene richiesto di selezionare un modello di creazione di materiale, selezionate Da immagine a materiale. In caso contrario, con l&#39;immagine nella pila di livelli, aggiungi un filtro **Immagine da materiale (basata su IA)** sopra l&#39;immagine.
+1. Importate l’immagine sorgente nella Pila livelli.
+1. Se viene richiesto di selezionare un modello di creazione di materiale, selezionate Da immagine a materiale. In caso contrario, con l&#39;immagine nella Pila livelli, aggiungete un filtro **Immagine da materiale (basata su IA)** sopra l&#39;immagine.
 1. Attendi che il filtro **Immagine in materiale** converta l&#39;immagine di origine in un materiale. Regolate i parametri finché il risultato non vi soddisfa.
-1. Aggiungi il **filtro Atlas Creator** nella parte superiore dello stack di livelli.
+1. Aggiungi il **filtro Atlas Creator** all&#39;inizio della Pila livelli.
 1. Regola i parametri di **Atlas Creator** finché i risultati non ti soddisfano.
 
 1. Aggiungete l’immagine al gruppo di livelli. Se viene richiesto di selezionare un modello di creazione di materiale, selezionare **Usa come bitmap**.
-1. Con il livello immagine selezionato, nel **pannello Proprietà** modificate il **Utilizzo output** in **Colore base**.
-1. Aggiungi **Atlas Creator** nella parte superiore dello stack di livelli.
-1. Regolate i parametri di **Atlas Creator** finché non siete soddisfatti dei risultati: visualizzate il canale di opacità nella **vista 2D** per visualizzare i risultati del filtro in modo più chiaro.
+1. Con il livello immagine selezionato, nel **pannello Proprietà** modificate l&#39;**Utilizzo output** in **Colore di base**.
+1. Aggiungi **Atlas Creator** all&#39;inizio della Pila livelli.
+1. Regola i parametri di **Atlas Creator** finché non sei soddisfatto dei risultati: visualizza il canale di opacità nel **Vista 2D** per visualizzare i risultati del filtro in modo più chiaro.
 1. Utilizza il **pannello Esporta** per esportare i canali generati.

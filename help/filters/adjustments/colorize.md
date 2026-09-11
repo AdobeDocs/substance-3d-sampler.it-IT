@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments/colorize.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/colorize.html"
 breadcrumb-title: ''
-description: Utilizzate il filtro Colorazione di Substance 3D Sampler per applicare tinte di colore ed effetti di colorizzazione monocromatica a texture e materiali.
+description: Utilizzate il filtro Colorazione di Substance 3D Sampler per applicare tinte colorate ed effetti di colorizzazione monocromatica a texture e materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Colorize
 helpx_experience_level: ""
@@ -67,12 +67,12 @@ In queste immagini è stato utilizzato il **filtro Colorazione** per regolare il
 I parametri disponibili in questa sezione cambiano in base a **Selezione canali**.
 
 * **Selezione canale**:\
-  Seleziona il canale su cui agirà il filtro. È consigliabile visualizzare il canale selezionato nella vista 2D per visualizzare direttamente i risultati del filtro.
-  * ***Opzioni colore di base/di emissione***
+  Seleziona il canale su cui agirà il filtro. Si consiglia di visualizzare il canale selezionato nel Vista 2D per vedere direttamente i risultati del filtro.
+  * ***Opzioni Colore di base/Emissivo***
     * ***Nome canale*** **- Colore**: selezione colore\
       Seleziona il colore usato per colorare il canale
     * ***Nome canale*** **- Mantieni luminosità**: attiva/disattiva\
-      Se questa opzione è attivata, vengono mantenuti i valori di Luminosità o Luminosità dei colori originali.
+      Se questa opzione è attivata, vengono mantenuti i valori Luminosità o Luminosità dei colori originali.
     * ***Nome canale*** **- Intensità**: 0-1\
       Regolate l’intensità dell’effetto Colorazione.
   * ***Opzioni canale normale***
@@ -87,7 +87,7 @@ I parametri disponibili in questa sezione cambiano in base a **Selezione canali*
 * **Maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se questa opzione è attivata, vengono visualizzati i seguenti parametri:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D
+    Seleziona un’immagine da usare come maschera o usa il pennello per pittura una maschera personalizzata direttamente nella Vista 2D
   * **Maschera personalizzata - Sfocatura**: 0-1\
     Sfocare la maschera
   * **Maschera personalizzata - Inverti**: attiva/disattiva\

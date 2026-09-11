@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
 breadcrumb-title: ''
 description: Utilizzate lo strumento Luce sfera in Substance 3D Sampler per aggiungere sorgenti di luce sferica agli ambienti HDRI per creare effetti di luce puntuali.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ Aggiungi una luce sferica all’ambiente.
       Selezionate il colore della luce.
   * **Input immagine**
     * **Input immagine forma**: immagine/pennello\
-      Importate un’immagine da usare come colore. È possibile utilizzare lo strumento Pennello per colorare direttamente nella **vista 2D**, ma questo filtro può produrre risultati imprevedibili.
+      Importate un’immagine da usare come colore. È possibile utilizzare lo strumento Pennello per eseguire pitture direttamente in **Vista 2D**, ma questo filtro può produrre risultati imprevedibili.
   * **Sfondo di esempio**
     * Lo sfondo di esempio non rende disponibili nuovi parametri, ma basa il colore della luce sui valori dello sfondo.
 * **Esposizione (EV)**: 0-10\

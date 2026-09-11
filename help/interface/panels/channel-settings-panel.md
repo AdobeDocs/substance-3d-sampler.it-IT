@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/interface/panels/channel-settings-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/channel-settings-panel.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare il pannello Impostazioni canale in Substance 3D Sampler per gestire i canali di materiale e controllare la visibilità del canale.
 helpx_creative_field: ""
@@ -38,13 +38,13 @@ Il pannello **Impostazioni canale** controlla l’elenco dei canali calcolati pe
 
 ## Modello di materiale
 
-Utilizza questo menu a discesa per selezionare il framework dello shader utilizzato per eseguire il rendering del materiale. Le opzioni nel **pannello delle impostazioni dei canali** cambieranno in base al modello di materiale selezionato.
+Utilizza questo menu a discesa per selezionare il framework di shader utilizzato per eseguire il rendering del materiale. Le opzioni nel **pannello delle impostazioni dei canali** cambieranno in base al modello di materiale selezionato.
 
-Quando modificate il modello di materiale, la pila di livelli dovrà essere ricalcolata per il nuovo modello e saranno disponibili diversi canali. Sampler tenta di ridurre al minimo la perdita di dati nella conversione; tuttavia, è possibile che la modifica comporti lievi differenze nell’aspetto con un nuovo modello di materiale.
+Quando modificate il modello di materiale, la Pila livelli dovrà essere ricalcolata per il nuovo modello e saranno disponibili diversi canali. Sampler tenta di ridurre al minimo la perdita di dati nella conversione; tuttavia, è possibile che la modifica comporti lievi differenze nell’aspetto con un nuovo modello di materiale.
 
 >[!NOTE]
 >
-> È possibile passare da Adobe Standard Material(ASM) ad OpenPBR, ma attualmente non è possibile passare da OpenPBR ad ASM.
+> È possibile passare da Adobe Standard Material (ASM) ad OpenPBR, ma attualmente non è possibile passare da OpenPBR ad ASM.
 
 
 ## Canali del materiale
@@ -75,7 +75,7 @@ Puoi utilizzare il **pulsante Modifica elenco** per aprire la **selezione canale
 
 La finestra di selezione Canale consente di aggiungere o rimuovere canali dal materiale.
 
-![Schermata della finestra di selezione del canale con Materiale standard Adobe selezionato come Modello di materiale.](../../assets/6.0_ChannelSelectionWindow.png)
+![Schermata della finestra di selezione del canale con Adobe Standard Material selezionato come Modello di materiale.](../../assets/6.0_ChannelSelectionWindow.png)
 
 Per aggiungere un canale al materiale, seleziona un canale disponibile e utilizza il pulsante **>**.
 Per rimuovere un canale dal materiale, seleziona il canale dall&#39;**elenco dei canali selezionati** e utilizza il pulsante **&lt;**.

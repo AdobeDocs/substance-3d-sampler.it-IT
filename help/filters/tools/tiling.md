@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/tiling.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/tiling.html"
 breadcrumb-title: ''
-description: Utilizzate lo strumento Taglio di Substance 3D Sampler per creare pattern di affiancatura uniformi da texture per superfici di materiale ripetibili.
+description: Usa lo strumento Affiancamento di Substance 3D Sampler per creare pattern di Affiancamento uniformi da texture per superfici di materiale ripetibili.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Tiling
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrizione
 
-Utilizza il **filtro Divisione in porzioni** per rendere affiancabile il materiale. Anche il **filtro Affianca** rende affiancabile il materiale, ma ogni filtro funziona in modo diverso. Se il **filtro Porzione** non funziona, provare il **filtro Porzione**.
+Utilizza il **filtro Affiancamento** per rendere affiancabile il materiale. Anche il **filtro Affianca** rende affiancabile il materiale, ma ogni filtro funziona in modo diverso. Se riscontri che il **filtro Affiancamento** non funziona, prova il **filtro Sezione**.
 
 </td>
 </tr>
@@ -48,7 +48,7 @@ Utilizza il **filtro Divisione in porzioni** per rendere affiancabile il materia
 * **Usa maschera**: attiva/disattiva\
   Se questa opzione è attivata, potete creare una maschera personalizzata per controllare la posizione della giuntura
   * **Maschera**: immagine/pennello\
-    Importa un&#39;immagine da utilizzare come maschera o utilizza il pennello per colorare una maschera direttamente nella **vista 2D**
+    Importa un&#39;immagine da utilizzare come maschera o utilizza il pennello per pittura una maschera direttamente nella **Vista 2D**
 
 **Edge**
 
@@ -56,7 +56,7 @@ Utilizza il **filtro Divisione in porzioni** per rendere affiancabile il materia
   Attivate o disattivate la rilevazione dei bordi in base ai canali di materiale per creare una transizione più organica tra i livelli di materiale. Se selezionata, vengono visualizzati i seguenti parametri aggiuntivi:
   * **Usa soglia per canale**: attiva/disattiva\
     Se questa opzione è attivata, vengono visualizzati parametri aggiuntivi per regolare singolarmente la soglia di ciascun canale.
-    * **Colore base soglia**: 0-1
+    * **Colore di base di soglie**: 0-1
     * **Soglia normale**: 0-1
     * **Height di soglie**: 0-1
   * **Soglia**: 0-1\
@@ -67,8 +67,8 @@ Utilizza il **filtro Divisione in porzioni** per rendere affiancabile il materia
     Regolate lo smoothness della giuntura. Questo può aiutare a evitare gli artefatti
   * **Risoluzione griglia**: 1-11\
     Regolate la risoluzione della griglia su cui viene disegnata la giuntura. Una risoluzione inferiore può migliorare le prestazioni ma ridurre la qualità della giuntura
-  * **Usa colore di base**: attiva/disattiva\
-    Cambiare se le informazioni sul colore di base vengono considerate nella generazione della giuntura
+  * **Usa Colore di base**: attiva/disattiva\
+    Consente di specificare se le informazioni sul colore di base devono essere considerate nella generazione di cuciture
   * **Usa normale**: attiva/disattiva\
     Cambia se le informazioni normali vengono considerate nella generazione della cucitura
   * **Usa Height**: attiva/disattiva\
@@ -78,8 +78,8 @@ Utilizza il **filtro Divisione in porzioni** per rendere affiancabile il materia
 
 **Parametri avanzati**
 
-* **Trasformazione**: 0-2\
-  Regola i valori di trasformazione della matrice. Aumentate i valori X e W per regolare la quantità di sovrapposizione esistente tra il materiale sottostante e quello sovrapposto.
+* **Trasforma**: 0-2\
+  Regolare i valori di Trasforma della matrice. Aumentate i valori X e W per regolare la quantità di sovrapposizione esistente tra il materiale sottostante e quello sovrapposto.
 * **Scostamento**: 0-1\
   offset del materiale sugli assi X e Y
 * **Filtraggio**:\
@@ -89,7 +89,7 @@ Utilizza il **filtro Divisione in porzioni** per rendere affiancabile il materia
 
 ## Guida all’uso
 
-Il **filtro Porzione** funziona in due passaggi:
+Il **filtro Affiancamento** funziona in due passaggi:
 
 1. Scala e sposta il materiale per generare una sovrapposizione.
 1. Quindi varia il bordo sovrapposto per nascondere la giuntura.
@@ -97,10 +97,10 @@ Il **filtro Porzione** funziona in due passaggi:
 Pertanto, per utilizzare il **filtro Divisione in porzioni**, è possibile ottenere i risultati migliori regolando queste due parti del processo.
 
 1. Aggiungi il **filtro In porzioni** alla parte superiore dello stack di livelli
-1. Utilizzate le maniglie per trasformare il materiale in modo che vi sia una sovrapposizione sufficiente a nascondere la giuntura.
+1. Usate le maniglie per Trasforma il materiale in modo che vi sia una sovrapposizione sufficiente a nascondere la giuntura.
    1. La modifica in scala del materiale può essere utile per creare una sovrapposizione, ma può anche causare la perdita di dettagli.
 1. Regola i parametri nella sezione **Edge** per regolare la giuntura.
 
-Per alcuni materiali, l&#39;utilizzo del solo **filtro Porzione** produrrà comunque artefatti o problemi lungo la giuntura. In questo caso, è consigliabile utilizzare altri filtri, ad esempio **Timbro clone**, per correggere i problemi di giuntura e suddivisione in porzioni.
+Per alcuni materiali, l&#39;utilizzo del solo **filtro Affiancamento** produrrà comunque artefatti o problemi lungo la giuntura. In questo caso, è consigliabile utilizzare altri filtri, ad esempio **Clona /Clone timbro**, per correggere i problemi di giuntura e Affiancamento.
 
-È buona norma lavorare sull’affiancamento del materiale nelle fasi iniziali del processo di creazione del materiale: non appena un elemento non affiancato viene aggiunto al materiale, è buona norma assicurarsi che venga affiancato prima di continuare a lavorare. I filtri di Sampler sono progettati in modo da non rompere i materiali di affiancamento. Ciò significa che, una volta che le porzioni di materiale sottostanti, è possibile continuare a lavorare con i filtri e i materiali inclusi di Sampler e il materiale sarà ancora affiancato.
+È buona norma lavorare sull’Affiancamento del materiale nelle fasi iniziali del processo di creazione del materiale: non appena un elemento non Affiancamento viene aggiunto al materiale, è buona norma assicurarsi che venga affiancato prima di continuare a lavorare. I filtri di Sampler sono progettati in modo da non rompere i materiali di affiancamento. Ciò significa che, una volta che le porzioni di materiale sottostanti, è possibile continuare a lavorare con i filtri e i materiali inclusi di Sampler e il materiale sarà ancora affiancato.

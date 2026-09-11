@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-3substance-3d-sampler.html"
 breadcrumb-title: ''
-description: Consultate le note sulla versione di Substance 3D Sampler versione 4.3 per informazioni sui nuovi generatori di texture, filtro per ricamo e strumento ritaglio prospettiva.
+description: Consultate le note sulla versione di Substance 3D Sampler versione 4.3 per informazioni sui nuovi generatori di texture, filtro per ricamo e strumento Ritaglio Prospettiva.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Versione 4.3
 
-<b>Substance 3D Sampler 4.3</b> introduce nuovi contenuti per iniziare, tra cui <b>Generatori di texture</b>, una nuova versione del filtro <b>Ricamo</b> e uno strumento <b>Ritaglio prospettico</b>.
+<b>Substance 3D Sampler 4.3</b> introduce nuovi contenuti per iniziare, tra cui <b>Generatori di Texture</b>, una nuova versione del filtro <b>Ricamo</b> e uno strumento <b>Ritaglio prospettico</b>.
 
 *Data di pubblicazione: 25 gennaio 2024*
 
@@ -34,7 +34,7 @@ I materiali inclusi in Sampler sono stati aggiornati per soddisfare meglio le es
 
 ![](../assets/sa_whats-new-screen_v4-3-0_generators.png)
 
-I nuovi generatori di texture offrono un controllo migliore sulla creazione del materiale utilizzando <b>rumori parametrici, pattern </b>e<b> opzioni per grungi</b>.  Le immagini generate possono essere utilizzate nelle maschere o nelle mappe dei canali, in modo da semplificare la collaborazione tra team tecnici e creativi nella progettazione dei materiali.
+I nuovi generatori di texture offrono un migliore controllo sulla creazione del materiale utilizzando <b>rumori parametrici, pattern </b>e<b> opzioni per grungi</b>.  Le immagini generate possono essere utilizzate nelle maschere o nelle mappe dei canali, in modo da semplificare la collaborazione tra team tecnici e creativi nella progettazione dei materiali.
 
 ![](../assets/sampler4.3-texturegenerators-ezgif.com-video.gif)
 
@@ -52,7 +52,7 @@ Il filtro Ricamo aggiornato offre maggiore precisione di giuntura e supporta fin
 
 ![](../assets/PerspectiveCropTool.png)
 
-Il nuovo strumento Ritaglio prospettiva consente di ritagliare materiali e scansioni distorti con quattro punti di controllo per rimuovere artefatti prospettici e ottenere una risorsa affiancabile.
+Il nuovo strumento Prospettiva ritaglio consente di ritagliare materiali e scansioni distorti con quattro punti di controllo per rimuovere gli artefatti delle Prospettive e ottenere una risorsa affiancabile.
 
 ![](../assets/sampler4.3-perspectivecrop-ezgif.com-video-gif.gif)
 
@@ -62,7 +62,7 @@ Il nuovo strumento Ritaglio prospettiva consente di ritagliare materiali e scans
 
 Il filtro Stilizzazione consente di modellare qualsiasi materiale per ottenere un aspetto dipinto a mano.
 
-## Metodo fusione nel filtro Riempimento
+## Modalità Fusione nel filtro Riempimento
 
 ![](../assets/Fill-Blend-mode.gif)
 
@@ -83,21 +83,21 @@ Potete aggiungere più immagini su un livello immagine di importazione e generar
 * [Assets] Nuovo tipo di risorsa: Generatori di texture
 * [Assets] Nuovi materiali inclusi in Starter Assets
 * [Risorse] Nuovo selettore di risorse per i parametri dell&#39;immagine nel pannello Proprietà
-* [Risorse] Trascina i generatori di texture dal pannello Risorse ai selettori di immagini nel pannello Proprietà
-* [Assets] Trascinate i generatori di texture dallo strumento Esplora file del sistema operativo.
+* [Risorse] Trascina i generatori di Texture dal pannello Risorse ai selettori di immagini nel pannello Proprietà
+* [Assets] Trascina i generatori di Texture dall’interfaccia Esplora file del sistema operativo
 * [Assets] I filtri possono suggerire l&#39;adattamento dei generatori tramite un tag utente sull&#39;input dell&#39;immagine
-* [Risorse] I generatori di texture possono definire il filtro da utilizzare come suggerimento tramite un tag utente
-* [Contenuto] Nuovo filtro Ritaglio prospettiva
+* [Risorse] I generatori di Texture possono definire il filtro da utilizzare come suggerimento tramite un tag utente
+* [Contenuto] Nuovo filtro Prospettiva ritaglio
 * [Content] Nuovo filtro Stilizzazione
 * [Content] Metodo fusione su filtro riempimento
 * [Content] Filtro ricamo aggiornato
-* [Content] Filtro Contorna con disegno aggiornato
-* [Content] Tutti i filtri sono stati aggiornati per supportare i generatori di texture
-* [Livelli] Possibilità di scegliere un canale di output del generatore di texture quando lo si aggiunge alla pila di livelli
-* [Livelli] Possibilità di elencare e applicare facilmente i predefiniti nei generatori di texture
-* [Livelli] Visualizzate un’anteprima del Generatore texture nei selettori di immagini
-* [Livelli] I parametri di Generatore texture possono essere esposti ed esportati
-* [Livelli] Assegna l’utilizzo del colore di base quando si importa una singola immagine con il modello di creazione Importazione texture
+* [Content] Filtro Contorna con Pittura aggiornato
+* [Content] Tutti i filtri sono stati aggiornati per supportare i generatori di Texture
+* [Livelli] Possibilità di scegliere un canale di output del generatore di Texture quando lo si aggiunge alla Pila livelli
+* [Livelli] Possibilità di elencare e applicare facilmente i predefiniti ai generatori di Texture
+* [Livelli] Visualizza un’anteprima del Generatore di Texture nei selettori di immagini
+* [Livelli] I parametri del generatore di Texture possono essere esposti ed esportati
+* [Livelli] Assegna l’utilizzo del Colore di base quando si importa una singola immagine con il modello di creazione Texture importazione
 * [Livelli] Feedback quando si tenta di trascinare e rilasciare file incompatibili nei selettori di immagini nel pannello Proprietà
 * [Livelli] Genera un canale di opacità dal canale alfa di un’immagine importata
 * [Layers] Image to Material (AI) calcola più velocemente quando si cambia categoria
@@ -110,16 +110,16 @@ Potete aggiungere più immagini su un livello immagine di importazione e generar
 * [Applicazione] Migliorare la visualizzazione delle risorse obsolete
 * [Script] Nuove funzioni asset.documentResolution() e asset.setDocumentResolution()
 * [Scripting] Nuova funzione select\_asset()
-* [Scripting] API Python per generatori di texture
+* [Scripting] API Python per i generatori di Texture
 * [Scripting] get\_project\_assets() ora restituisce oggetti 3D
 * [UI] Le dimensioni della miniatura della risorsa possono essere modificate nel pannello Risorse
 * [UI] Icone di visualizzazione della finestra della vista aggiornate
 
 <b>Corretto:</b>
 
-* [Vista 2D] Lo zoom con la rotellina del mouse è bloccato al 244%
+* [vista 2D] Lo zoom con la rotellina del mouse è bloccato al 244%
 * [Applicazione] Arresto anomalo all’avvio durante l’inizializzazione dell’API grafica
-* [Applicazione] Arresto anomalo se il nome del progetto contiene il carattere #
+* [Applicazione] Arresto anomalo in cui il nome del progetto contiene il carattere #
 * [Applicazione] Possibile arresto anomalo all’apertura di un vecchio progetto
 * [Applicazione] La riapertura del progetto corrente può provocare un arresto anomalo
 * [Applicazione] Alcune modifiche al progetto non sono registrate e, se non salvate, vengono perse senza preavviso quando si chiude il progetto

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/it/substance-3d-sampler/filters/custom-filters.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/custom-filters.html'
 breadcrumb-title: ''
 description: Scopri come utilizzare i filtri personalizzati in Substance 3D Sampler per estendere le funzionalità con i filtri di Substance Designer e gli effetti personalizzati.
 helpx_creative_field: ''
@@ -22,13 +22,13 @@ ht-degree: 1%
 
 ## Substance filtri personalizzati
 
-Puoi importare i filtri creati con Adobe Substance 3D Designer tramite il pulsante *Importa* nelle azioni serie di livelli.
+Puoi importare i filtri creati con Adobe Substance 3D Designer tramite il pulsante *Importa* nelle azioni Pila livelli.
 
 ### Creazione di un filtro Substance
 
 I filtri devono essere creati in modo specifico in Designer per funzionare correttamente una volta importati in Sampler.
 
-I nodi di input e di output del filtro devono avere un identificatore o un utilizzo definito.
+Per i nodi di input e di output del filtro deve essere definito un identificatore o un utilizzo.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Esportare il filtro come file di archivio Substance (.SBSAR)
 
 >[!NOTE]
 >
-> Potete esporre i parametri del filtro per controllarlo direttamente in Sampler. Scopri come [fare](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
+> Potete esporre i parametri del filtro per controllarlo direttamente in Sampler. Scopri come [fare](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
 
 #### Creare un filtro per modificare le immagini
 
@@ -59,15 +59,15 @@ Esportare il filtro come file di archivio Substance (.SBSAR)
 | Nome canale | Utilizzo |
 | --- | --- |
 | *Colore di base* | **colore base** |
-| *Diffusione* | **diffusione** |
+| *Diffusa* | **diffusione** |
 | *Specular* | **specular** |
 | *Specular level* | **specularlevel** |
 | *Metallico* | **metallico** |
 | *Rugosità* | **rugosità** |
-| *Lucentezza* | **lucidità** |
+| *Lucentezza* | **lucentezza** |
 | *Normale* | **normale** |
 | *Height* | **height** |
-| *Occlusione ambiente* | **occlusioneAmbientale** |
+| *Occlusione ambientale* | **occlusioneAmbientale** |
 | *Opacità* | **opacità** |
 
 >[!IMPORTANT]
@@ -78,7 +78,7 @@ Esportare il filtro come file di archivio Substance (.SBSAR)
 
 >[!IMPORTANT]
 >
-> Se, nel pacchetto, avete un grafico per elaborare le immagini (da scan1 a scanX) e un grafico per elaborare i materiali (canali PBR), Sampler è in grado di scegliere il grafico corretto a seconda di dove viene inserito il filtro nel gruppo di livelli.
+> Se, nel pacchetto, avete un grafico per elaborare le immagini (da scan1 a scanX) e un grafico per elaborare i materiali (canali PBR), Sampler è in grado di scegliere il grafico corretto a seconda di dove viene inserito il filtro nella Pila livelli.
 >
 > Nel grafico &quot;immagine&quot;, aggiungi i seguenti dati utente:
 >
@@ -90,43 +90,43 @@ Esportare il filtro come file di archivio Substance (.SBSAR)
 
 ### Parametri specifici
 
-Parametri specifici sono gestiti a livello globale dall&#39;applicazione. Si tratta di un modo per utilizzare i parametri globali dell’applicazione, del progetto e dello stack di livelli nei filtri personalizzati.
+Parametri specifici sono gestiti a livello globale dall&#39;applicazione. È un modo per utilizzare i parametri globali dell&#39;applicazione, del progetto e della Pila livelli nei filtri personalizzati.
 
 #### Formato normale
 
 Controllo del formato normale sull&#39;applicazione. Imposta su DirectX in Sampler
 
-**Identificatore parametro**: normalformat, normal_format, $normalformat, $normal_format
+**identificatore di parametri**: normalformat, normal_format, $normalformat, $normal_format
 
 #### Conteggio input
 
-Per modificare le immagini (da scan1 a scanX), è possibile utilizzare il numero di immagini nella pila di livelli utilizzando il parametro **Numero immagini**.
+Per modificare le immagini (da scan1 a scanX), è possibile utilizzare il numero di immagini nella Pila livelli utilizzando il parametro **Numero immagini**.
 
-* **Identificatore parametro**: input_count
+* **identificatore parametro**: input_count
 * **Tipo di parametro**: integer1
 
 #### Ingresso materiale
 
-Se desiderate visualizzare uno slot di materiale nella pila di livelli come l’atlas scatter o la splatter:
+Se si desidera visualizzare uno slot di materiale nella Pila livelli, come l&#39;atlas scatter o lo splatter:
 
-* Aggiungi un nuovo set di nodi di input (Colore base, Normale, ... )
-* Tutti i nodi di input dello sfondo (materiale inferiore nella pila dei livelli) devono trovarsi nel gruppo **Materiale1**
+* Aggiungi un nuovo set di nodi di input (Colori di base, Normale, ... )
+* Tutti i nodi di input dello sfondo (materiale inferiore nella Pila livelli) devono trovarsi nel gruppo **Materiale1**
 * Tutti i nodi di input del primo materiale che si desidera aggiungere in alto devono trovarsi nel gruppo **Materiale2** ed eccetera se si desidera utilizzare diversi slot di materiale.
 * Aggiungete un parametro di input del materiale:
-  * **Identificatore parametro**: material_input
+  * **identificatore parametro**: material_input
   * **Tipo di parametro**: integer1
 
 #### Tipo di flusso di lavoro
 
-Se si desidera visualizzare o nascondere alcuni parametri in base al flusso di lavoro del progetto (Metalic/Roughness PBR o Specular/Lucidità PBR), è possibile utilizzare il parametro Tipo flusso di lavoro
+Per visualizzare o nascondere alcuni parametri in base al flusso di lavoro del progetto (Metalic/Roughness PBR o Specular/Lucentezza PBR), è possibile utilizzare il parametro Tipo di flusso di lavoro
 
-**Identificatore parametro**: workflow_type
+**identificatore di parametro**: workflow_type
 
 **Tipo di parametro**: integer1, elenco a discesa
 
 opzioni:
 
 * 0: PBR Metallico/Rugosità
-* 1: Specular/lucidità PBR
+* 1: Specular/Lucentezza PBR
 
 ![](../assets/workflow-type.jpg){width="300px"}

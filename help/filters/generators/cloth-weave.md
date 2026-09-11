@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/cloth-weave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/cloth-weave.html"
 breadcrumb-title: ''
-description: Utilizza il generatore Tessuto in Substance 3D Sampler per creare pattern di tessuto intrecciato e texture tessili per la creazione di materiali.
+description: Utilizza il generatore Tessuto in Substance 3D Sampler per creare motivi di tessuto e texture tessili per la creazione di materiali.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Cloth Weave
 helpx_experience_level: ""
@@ -85,11 +85,11 @@ Parametri
 
 **Avanzate**
 
-* **Metodo fusione**&#x200B;**:** Selezionare il metodo di fusione per il canale del colore di base. La modifica del metodo di fusione può modificare notevolmente l&#39;aspetto della tessitura.
+* **Metodo fusione****:** Selezionare il metodo di fusione per il canale del colore di base. La modifica del metodo di fusione può modificare notevolmente l&#39;aspetto della tessitura.
 * **Intensità imperfezioni:** 0-1\
   Impostate l’intensità delle imperfezioni dei filetti.
 * **Intensità normale:** 0-2\
-  Regola la forza della mappa normale.
+  Regolate la forza della mappa normale.
 * **Posizione Height:** 0-1\
   Eseguite l&#39;offset del height dell&#39;intero materiale.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/adjustments.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare i filtri di regolazione in Substance 3D Sampler per modificare colore, luminosità, contrasto e altre proprietà del materiale.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 # Regolazioni
 
-I filtri di regolazione consentono di regolare i valori del materiale. La maggior parte dei filtri di regolazione consente di impostare specifici canali in modo da avere il pieno controllo sull’aspetto del materiale. Quando si regola un canale specifico, è consigliabile utilizzare la **vista 2D** per visualizzare i canali che si stanno modificando, anziché basarsi esclusivamente sulla **vista 3D**. La **vista 2D** può facilitare la ricerca di errori o problemi in un canale.
+I filtri di regolazione consentono di regolare i valori del materiale. La maggior parte dei filtri di regolazione consente di impostare specifici canali in modo da avere il pieno controllo sull’aspetto del materiale. Quando si regola un canale specifico, è consigliabile utilizzare **Vista 2D** per visualizzare i canali che si stanno modificando anziché basarsi esclusivamente sulla **vista 3D**. Il **Vista 2D** può facilitare la ricerca di errori o problemi in un canale.
 
 Di seguito è riportato un elenco di filtri di regolazione:
 

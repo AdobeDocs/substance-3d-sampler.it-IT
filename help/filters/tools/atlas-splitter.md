@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/tools/atlas-splitter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-splitter.html"
 breadcrumb-title: ''
-description: Usate lo strumento Atlas splitter di Substance 3D Sampler per dividere gli atlanti delle texture in singole mappe di texture per la modifica del materiale.
+description: Usate lo strumento Atlas splitter di Substance 3D Sampler per dividere gli atlanti delle texture in singole mappe texture per l’editing del materiale.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Atlas Splitter
 helpx_experience_level: ""
@@ -39,11 +39,11 @@ Le immagini seguenti mostrano l&#39;**Atlas splitter** in azione.
 
 ![](../../assets/3d-2d-filters-cropped-0039-atlas-splittter-in.jpg)
 
-L&#39;immagine sopra mostra un materiale atlas aggiunto alla pila di livelli. utilizzare l&#39;**Atlas splitter** per selezionare elementi specifici dall&#39;atlas.
+L&#39;immagine qui sopra mostra un materiale dell&#39;atlante aggiunto alla Pila livelli. utilizzare l&#39;**Atlas splitter** per selezionare elementi specifici dall&#39;atlas.
 
 ![](../../assets/3d-2d-filters-cropped-0038-atlas-splitter-out.jpg)
 
-Con l&#39;**Atlas splitter** aggiunto alla pila di livelli, è possibile concentrarsi su una singola foglia o su qualsiasi altro elemento del materiale dell&#39;atlas.
+Con **l&#39;Atlas splitter** aggiunto alla Pila livelli, è possibile concentrarsi su una singola foglia o su qualsiasi altro elemento del materiale dell&#39;atlas.
 
 </td>
 </tr>
@@ -81,7 +81,7 @@ Con l&#39;**Atlas splitter** aggiunto alla pila di livelli, è possibile concent
 * **Precisione rilevamento forme**:\
   Selezionare l&#39;algoritmo di rilevamento della forma da utilizzare.
 * **Larghezza dilatazione**: 0-32\
-  Modifica la dilatazione: i colori dei bordi dell&#39;elemento vengono estrusi nell&#39;area mascherata per evitare problemi di trasparenza ai bordi degli elementi atlas. Visualizzare il canale del colore di base nella **vista 2D** per visualizzare i risultati.
+  Modifica la dilatazione: i colori dei bordi dell&#39;elemento vengono estrusi nell&#39;area mascherata per evitare problemi di trasparenza ai bordi degli elementi atlas. Visualizzare il canale di colore di base nel **Vista 2D** per visualizzare i risultati.
 * **Colore sfondo personalizzato**: attiva/disattiva\
   Se questa opzione è attivata, viene visualizzato un controllo che modifica il colore di sfondo del canale normale:
   * **Colore sfondo normale**: selezione colore\

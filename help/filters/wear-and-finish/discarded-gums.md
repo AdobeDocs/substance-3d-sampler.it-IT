@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
 breadcrumb-title: ''
 description: Utilizza il filtro Gomme scartate di Substance 3D Sampler per aggiungere residui di gomma ed effetti di superficie appiccicosi ai materiali.
 helpx_creative_field: ""
@@ -85,7 +85,7 @@ Aggiungere la gomma da masticare eliminata nel materiale. Questo filtro è ideal
 * **Maschera personalizzata**: attiva/disattiva\
   Attivare o disattivare l’uso di una maschera personalizzata. Se è abilitata l&#39;opzione **Maschera personalizzata**, verrà visualizzato il controllo seguente:
   * **Maschera**: immagine/pennello\
-    Selezionate un’immagine da usare come maschera o usate il pennello per colorare una maschera personalizzata direttamente nella vista 2D.
+    Selezionate un’immagine da usare come maschera oppure usate il pennello per pittura una maschera personalizzata direttamente nella Vista 2D.
 
 **Parametri avanzati**
 

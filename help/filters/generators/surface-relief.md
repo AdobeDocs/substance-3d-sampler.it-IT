@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/filters/generators/surface-relief.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/surface-relief.html"
 breadcrumb-title: ''
 description: Utilizzate il generatore di Rilievi di superfici in Substance 3D Sampler per creare pattern di superfici in rilievo e rilievi nei materiali.
 helpx_creative_field: ""
@@ -54,12 +54,12 @@ Utilizzate il filtro Rilievo superficie (Surface) per aggiungere disturbo al mat
 
 <b>Parametri disturbo</b>
 
-* <b>Blocco</b>: 0-1\
-  Bloccare il disturbo a un determinato intervallo
+* <b>Blocca</b>: 0-1\
+  Blocca il disturbo a un determinato intervallo
 * <b>Contrasto</b>: 0-1\
   Modificare il contrasto del disturbo
 * <b>Inverti</b>: attiva/disattiva\
-  Invertire la mappa di height del disturbo
+  Invertire la mappa di altezza del disturbo
 
 <b>Trasformazione</b>
 
@@ -76,8 +76,8 @@ Utilizzate il filtro Rilievo superficie (Surface) per aggiungere disturbo al mat
 
 * <b>Usa maschera personalizzata</b>: attiva/disattiva\
   Abilita per visualizzare i controlli Maschera personalizzata:
-  * <b>Maschera</b>: immagine/pennello/Generatore texture\
-    Importa un&#39;immagine da utilizzare come maschera o utilizza il pennello per dipingere direttamente nella <b>vista 2D</b>
+  * <b>Maschera</b>: immagine/pennello/Generatore Texture\
+    Importa un&#39;immagine da utilizzare come maschera o utilizza il pennello per pittura direttamente nella <b>Vista 2D</b>
   * <b>Maschera personalizzata - Sfocatura</b>: 0-1\
     Sfocare la maschera
   * <b>Maschera personalizzata - Inverti</b>: attiva/disattiva
@@ -95,5 +95,5 @@ Utilizzate il filtro Rilievo superficie (Surface) per aggiungere disturbo al mat
 * <b>Direzione -Normale</b>:\
   Modificare gli assi da utilizzare per la generazione normale
 * <b>Normale - Direzione rotazione</b>
-* <b>Occlusione ambiente - Intensità</b>
-* <b>Occlusione ambiente - Raggio</b>
+* <b>Occlusione ambientale - Intensità</b>
+* <b>Occlusione ambientale - Raggio</b>
