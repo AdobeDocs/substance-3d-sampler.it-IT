@@ -35,7 +35,7 @@ ht-degree: 1%
 
 Aggiungi un pattern al tuo materiale da una delle opzioni disponibili o usa un&#39;immagine o un pennello per personalizzare il tuo.
 
-*Esempio di **filtro Pattern**applicato a denim.*
+*Esempio di **filtro Pattern**&#x200B;applicato a denim.*
 
 <table>
 <tr style="border: 0;">

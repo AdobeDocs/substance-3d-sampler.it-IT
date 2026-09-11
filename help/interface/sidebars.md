@@ -30,7 +30,7 @@ Dalla **barra laterale sinistra** è possibile:
 
 * **Aggiungere e importare contenuti**: importa le immagini e seleziona come devono essere integrate nel tuo progetto.
 * **Sfoglia risorse 3D**: accedi a migliaia di materiali da Substance 3D Assets all&#39;interno di Creative Cloud Desktop.
-* Accedi a **Azioni rapide**: una raccolta di azioni per raggiungere rapidamente determinati obiettivi. [Ulteriori informazioni sulle **azioni rapide **](../features-and-workflows/quick-actions.md)**.**
+* Accedi a **Azioni rapide**: una raccolta di azioni per raggiungere rapidamente determinati obiettivi. [Ulteriori informazioni sulle **azioni rapide &#x200B;**](../features-and-workflows/quick-actions.md)**.**
 * Aggiungi rapidamente i filtri alla Pila livelli:
   * **Ritaglia:** ritaglia immagini e materiali utilizzando le maniglie nella **Vista 2D**.
   * **Trasforma Prospettiva:** correggere gli errori di Prospettiva con le maniglie nella **Vista 2D.**

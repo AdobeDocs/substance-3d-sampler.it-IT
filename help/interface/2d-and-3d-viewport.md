@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../assets/main-3d-viewport-5.png)
 
-Nel **viewport** viene visualizzata la risorsa corrente. Nella parte superiore della **V****iewport** puoi visualizzare il nome della risorsa e le opzioni per modificare l&#39;aspetto della **finestra di visualizzazione**. Utilizzare queste opzioni per:
+Nel **viewport** viene visualizzata la risorsa corrente. Nella parte superiore della **V**&#x200B;**iewport** puoi visualizzare il nome della risorsa e le opzioni per modificare l&#39;aspetto della **finestra di visualizzazione**. Utilizzare queste opzioni per:
 
 * Modifica la larghezza e il height della risorsa in pixel.
 * Visualizza <b>Vista 2D</b>, <b>visualizzazione 3D</b> oppure <b>visualizzazione 2D </b>e <b>visualizzazione 3D </b>insieme.
@@ -36,7 +36,7 @@ Nel **viewport** viene visualizzata la risorsa corrente. Nella parte superiore d
 
 Il <b>riquadro di visualizzazione 3D</b> dispone di due barre degli strumenti che consentono di modificare l&#39;aspetto della risorsa nel <b>riquadro di visualizzazione</b>. Per impostazione predefinita, queste barre degli strumenti vengono visualizzate nell&#39;angolo superiore destro e nel centro inferiore del <b>riquadro di visualizzazione 3D</b>.
 
-![]()
+![] ()
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ La barra degli strumenti in alto a destra del <b>riquadro di visualizzazione 3D 
 >
 > Attiva le ombre per migliorare gli elementi visivi della finestra. Disattivate le ombre per migliorare le prestazioni dei campionatori.
 
-![]()
+![] ()
 
 La barra degli strumenti nella parte centrale inferiore del <b>riquadro di visualizzazione 3D</b> include le informazioni e i controlli seguenti:
 
@@ -71,7 +71,7 @@ La barra degli strumenti nella parte centrale inferiore del <b>riquadro di visua
 * <b>Salva istantanea</b>: salva un&#39;istantanea del <b>riquadro di visualizzazione 3D</b> in un file di immagine.
 * <b>Controlli vista 3D</b>: visualizzate un riferimento rapido per i controlli videocamera nella finestra della vista 3D.
 
-![]()
+![] ()
 
 ## Spostare la fotocamera
 
@@ -89,7 +89,7 @@ Sia nella <b>vista 3D </b> che nella <b>Vista 2D</b> utilizzate <b>F</b> per con
 
 ## Vista 2D
 
-![]()
+![] ()
 
 Per impostazione predefinita, è visibile solo la <b>vista 3D</b>, tuttavia <b>Vista 2D</b> può contenere molte informazioni e controlli utili per alcuni filtri.
 

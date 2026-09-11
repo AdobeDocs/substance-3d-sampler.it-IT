@@ -22,7 +22,7 @@ ht-degree: 2%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| Corona Renderer | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li><li data-preserve-html="true">Specular/Lucentezza PBR</li></ul> | **Diffusa****RiflessioneGlossità** (\*)**ColoreRiflessione** (\*\*)**FrescoIOR** (\*\*\*)**Normale ****Spostamento**** Emissivo ****Opacità** |
+| Corona Renderer | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li><li data-preserve-html="true">Specular/Lucentezza PBR</li></ul> | **Diffusa**&#x200B;**RiflessioneGlossità** (\*)**ColoreRiflessione** (\*\*)**FrescoIOR** (\*\*\*)**Normale &#x200B;**&#x200B;**Spostamento**&#x200B;**&#x200B; Emissivo &#x200B;**&#x200B;**Opacità** |
 
 >[!NOTE]
 >

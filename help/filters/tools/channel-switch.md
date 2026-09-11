@@ -46,7 +46,7 @@ Cambiate i canali delle mappe di output del materiale.
 * **Canale di output:** Selezionare Il canale di destinazione del canale di input.
 * **Opacità:** 0-1\
   Regola l’opacità delle informazioni del canale in relazione alle informazioni esistenti del canale. In altre parole, questo controlla l’opacità della maschera usata per applicare il nuovo riempimento del canale.
-* **Metodo fusione****:** Selezionare il metodo di fusione per il canale del colore di base. La modifica del metodo di fusione può modificare notevolmente l&#39;aspetto del canale.
+* **Metodo fusione**&#x200B;**:** Selezionare il metodo di fusione per il canale del colore di base. La modifica del metodo di fusione può modificare notevolmente l&#39;aspetto del canale.
 
 **Avanzate**
 

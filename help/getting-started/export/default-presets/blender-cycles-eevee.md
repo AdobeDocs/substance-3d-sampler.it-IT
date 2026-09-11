@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Predefinito | Compatibilità | Descrizione output Impacchettamento |
 | --- | --- | --- |
-| Cicli di fusione/Eevee | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **ColoreBase ****Rugosità****Metallica ****Normale****Spostamento ****Emissivo****Alpha** |
+| Cicli di fusione/Eevee | <ul data-preserve-html="true"><li data-preserve-html="true">Rugosità/Metallico PBR</li></ul> | **ColoreBase &#x200B;**&#x200B;**Rugosità**&#x200B;**Metallica &#x200B;**&#x200B;**Normale**&#x200B;**Spostamento &#x200B;**&#x200B;**Emissivo**&#x200B;**Alpha** |
