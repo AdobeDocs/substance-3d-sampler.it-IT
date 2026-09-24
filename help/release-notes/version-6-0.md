@@ -4,13 +4,11 @@ description: Consulta le note sulla versione per Substance 3D Sampler versione 6
 title: Versione 6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '1627'
+source-wordcount: '1651'
 ht-degree: 1%
-
 ---
-
 
 # Versione 6.0
 
@@ -60,6 +58,17 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 
 ## Note sulla versione v6.0
 
+### **6.0.4**
+
+*(Rilasciato: 24 settembre 2026)*
+
+**Modificato**
+[Engine] Aggiorna Substance Engine a 9.6.1
+
+**Fisso**
+[Livelli] di Arresto anomalo quando si aggiunge un’immagine a una maschera effetto rilievo
+[Sicurezza] Correzioni generali
+
 ### **6.0.3**
 
 *(Rilasciato: 24 agosto 2026)*
@@ -79,12 +88,12 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 
 **Corretto:**
 
-* &lbrack;2D View&rbrack; Do not &#39;display with physical ratio&#39; (Visualizza con rapporto fisico) se dimensioni fisiche è disabilitato
+* &lbrack;vista 2D&rbrack; Non &#39;visualizzare con proporzioni fisiche&#39; se la dimensioni fisiche è disattivata
 * &lbrack;Analytics&rbrack; eventi di analisi mancanti
-* &lbrack;Analytics&rbrack; Impedisce che il blocco anomalo segnali un arresto anomalo in vk devicelost
-* &lbrack;Application&rbrack; Non distruggere i vkdevice all&#39;uscita per evitare un arresto anomalo nel driver nvidia
+* &lbrack;Analytics&rbrack; Impedisci che il blocco anomalo segnali un arresto anomalo su vk devicelost
+* &lbrack;Application&rbrack; Non distruggere i vkdevices all&#39;uscita per evitare un arresto anomalo nel driver nvidia
 * &lbrack;Application&rbrack; Correggi uscita controllo raccolta collegata + gestione canali
-* &blocco;Application&brack; Impedisci arresto anomalo all&#39;uscita
+* &lbrack;Application&rbrack; Impedisci arresto anomalo all&#39;uscita
 * &lbrack;Content&rbrack; Il filtro &quot;finitura metallo&quot; non influisce sulla metallizzazione
 * &lbrack;Content&rbrack; Aggiungi dimensioni fisiche ai filtri dinamici dove manca
 * &blocco;Filtri&rbrack; Rimuovi riempimento in base al contenuto dall&#39;elenco delle risorse nascoste
@@ -96,7 +105,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * &lbrack;Project&rbrack; riapertura del progetto corrente utilizzato per aprire la versione precedente
 * &lbrack;Project&rbrack; Sampler non offre più di ripristinare un backup dei progetti danneggiati
 * &lbrack;Rendering&rbrack; Esegui il rendering della miniatura del materiale a una risoluzione massima di 2k
-* &lbrack;UI&rbrack; codice difensivo per evitare l&#39;arresto anomalo se l&#39;utente è più veloce dell&#39;interfaccia utente
+* &lbrack;UI&rbrack; codice difensivo per evitare arresti anomali se l&#39;utente è più veloce dell&#39;interfaccia utente
 
 ### **6.0.1**
 
@@ -104,7 +113,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 
 **Aggiunto:**
 
-* [Vista 3D] Fornire trame predefinite in formato USD
+* [vista 3D] Fornire trame predefinite in formato USD
 * [Applicazione] Rileva gli usi in un materiale non disponibile nel modello di materiale corrente
 * [Applicazione]: lettura tag modello di materiale dai file SBSAR
 * [Captis] Consente la rotazione dell&#39;area di interesse e la nuova risoluzione 4K
@@ -121,7 +130,7 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * [Esporta] Utilizza il percorso del progetto come percorso di esportazione predefinito
 * [Filtri] Consenti l&#39;aggiornamento da filtri composti statici a dinamici
 * [Filtri] Consenti l&#39;aggiornamento da filtri statici a filtri dinamici
-* [Filtri] Versioni dinamiche di Porzione automatica, Riempimento in base al contenuto, Fusione Height, Fusione normale
+* [Filtri] Versioni dinamiche di Affiancamento automatico, Riempimento in base al contenuto, Fusione di Height, Fusione normale
 * [Filtri] Nascondi versione statica di un filtro quando è presente una versione dinamica
 * [Filtri] Nuova esperienza di riempimento
 * [Filtri] Nuovo Materiale di base compatibile con ASM e OpenPBR
@@ -152,11 +161,11 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 
 **Corretto:**
 
-* [Visualizzazione 2D] Ordinare la visualizzazione 2D in base all&#39;indice di utilizzo dei risultati nella specifica
+* [vista 2D] Ordine di Vista 2D in base all&#39;indice di utilizzo dei risultati nella specifica
 * [Applicazione] Correggere un arresto anomalo all&#39;avvio
 * [Applicazione] Correggere la logica errata per il filtraggio dell&#39;utilizzo del flusso di lavoro con OpenPBR
 * [Applicazione] L&#39;elenco delle versioni note è ora letto durante la ricerca di un aggiornamento
-* [Applicazione] Impedisce un arresto anomalo dell&#39;accesso simultaneo
+* [Applicazione] Impedisci arresto anomalo di accesso simultaneo
 * [Applicazione] Impedisce il doppio calcolo durante l&#39;importazione di immagini con materiale di base
 * [Applicazione] Impedisce un potenziale arresto anomalo all&#39;uscita
 * [Applicazione] Impedisce l&#39;arresto anomalo quando si cancella una maschera due volte
@@ -195,25 +204,25 @@ Ulteriori informazioni *[qui](../pipeline-and-integrations/hp-z-captis-support/y
 * [Livelli] L’assegnazione di un utilizzo a un’immagine digitandola non funziona
 * [Livelli] Evitare arresti anomali durante l&#39;aggiunta di livelli alla pila
 * [I livelli] parametri esposti che non dovevano essere aggiornati sono stati rimossi
-* [Livelli] Correggere l&#39;aggiunta del generatore di texture come mappa
+* [Livelli] Correzione dell&#39;aggiunta del generatore di texture come mappa
 * [Livelli]: correggi unico livello
 * [Livelli] appiattisce il sottofondo nelle dimensioni di input, non nelle dimensioni del documento
-* [Livelli] per evitare l&#39;arresto anomalo durante la conversione di una pila contenente livelli convertiti
+* [Livelli] Impedisce l&#39;arresto anomalo durante la conversione di una pila contenente livelli convertiti
 * [Livelli] Impedisce la visualizzazione del messaggio di ottimizzazione del rendering con Materiale di base
 * [Livelli] L’aggiornamento di un filtro a un filtro di output univoco non aggiornava correttamente l’interfaccia utente
 * [Preferenze] Correggere la modifica delle preferenze
 * [Progetto] Correggere l&#39;importazione di progetti .alch
 * Il salvataggio del [progetto] non ha più esito negativo in modalità invisibile
 * [Rendering] Evitate l&#39;arresto anomalo in macOS mantenendo la modalità di pianificazione automatica
-* [Il rendering] della modifica del componente V dell’affiancatura della texture non ha avuto alcun effetto
+* [Il rendering] della modifica del componente V dell&#39;Affiancamento di texture non ha avuto alcun effetto
 * [Rendering] Correggere il rendering e le miniature mancanti
 * [Il rendering] impedisce l&#39;accesso simultaneo ai valori di output
 * [Rendering]: gestisce correttamente i valori di output di una struttura nel modulo di rendering
 * [Rendering] Interrompi la creazione della struttura ad albero in ogni rendering
 * [Scripting] Correggere un arresto anomalo in get_project_assets
-* [Scripting] per evitare l’arresto anomalo in un unico livello dall’API Python
+* [Scripting] Impedisce l&#39;arresto anomalo dell&#39;API Python in un unico livello
 * [IU] Tutti i divisori nel pannello delle proprietà ora hanno la larghezza del pannello
-* [IU] Evitare di visualizzare gli usi interni di suddivisione automatica come usi personalizzati
+* [IU] Evitare di visualizzare gli utilizzi interni di Affiancamento automatico come personalizzati
 * [UI] Correggere il menu contestuale interrotto
 * [UI] Correggere il menu di scelta rapida per le modifiche del generatore
 * [UI] Correggere il caricamento dei font
