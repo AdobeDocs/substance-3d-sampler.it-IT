@@ -65,7 +65,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Project&rbrack; riapertura del progetto corrente utilizzato per aprire la versione precedente
 * &lbrack;Project&rbrack; Sampler non offre più di ripristinare un backup dei progetti danneggiati
 * &lbrack;Rendering&rbrack; Esegui il rendering della miniatura del materiale a una risoluzione massima di 2k
-* &lbrack;UI&rbrack; codice difensivo per evitare l&#39;arresto anomalo se l&#39;utente è più veloce dell&#39;interfaccia utente
+* &lbrack;UI&rbrack; codice difensivo per evitare arresti anomali se l&#39;utente è più veloce dell&#39;interfaccia utente
 
 ### **6.0.1**
 
@@ -215,23 +215,23 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 
 **Aggiunto:**
 
-* &lbrack;2D View&rbrack; Consente di ridurre ulteriormente la visualizzazione 2D per le texture ad alta risoluzione
+* &lbrack;vista 2D&rbrack; Per texture ad alta risoluzione, ridurre di più la Vista 2D
 * &lbrack;Captis&rbrack; Avvisa gli utenti in caso di problemi durante la copia dei file
 * &lbrack;Layers&rbrack; Durante la duplicazione di un livello, utilizza un numero incrementale nel nuovo nome del livello
 
 **Corretto:**
 
-* &lbrack;2D View&rbrack; Quando si colorano i tratti dopo aver reimpostato tutte le proprietà di Timbro clone, i tratti creati in precedenza vengono nuovamente visualizzati
+* &lbrack;vista 2D&rbrack; Quando si colorano i tratti dopo aver reimpostato tutte le proprietà di Timbro Clona /Clone, i tratti creati in precedenza vengono nuovamente visualizzati
 * &lbrack;Application&rbrack; &quot;Salvare il progetto corrente?&quot; il popup utilizza un nome di progetto errato
 * &lbrack;Application&rbrack; Arresto anomalo all&#39;uscita
-* &lbrack;Application&rbrack; potenziale arresto anomalo
+* &lbrack;Application&rbrack; arresto anomalo potenziale
 * &lbrack;Application&rbrack; A volte, viene generata una miniatura con un materiale errato
-* &lbrack;Captis&rbrack; Su alcuni dispositivi, quando si esegue una scansione in alta risoluzione, la mappa del height è nera
+* &lbrack;Captis&rbrack; Su alcuni dispositivi, quando si esegue una scansione in alta risoluzione, la mappa dell&#39;altezza è nera
 * &lbrack;Captis&rbrack; Il pulsante &quot;Avvia acquisizione&quot; non è più disattivato quando non è impostato alcun nome di acquisizione e quando è in esecuzione una calibrazione
 * &lbrack;Export&rbrack; Quando si esporta un file .sbsar, l&#39;esportazione può non riuscire senza che l&#39;utente riceva una notifica
-* &lbrack;Filters&rbrack; Advanced parameters screen for the Auto Tiling filter a volte sfarfalla durante l&#39;ottimizzazione dei parametri
-* &lbrack;Filters&rbrack; I parametri predefiniti per il filtro Divisione in porzioni generano artefatti grigi nell&#39;output
-* &lbrack;Filters&rbrack; A volte con input ad alta risoluzione, le impostazioni avanzate del filtro Porzione automatica non mostrano i singoli punti del pattern
+* &lbrack;Filters&rbrack; Advanced parameters screen for the Auto Affiancamento filter a volte sfarfalla durante l&#39;ottimizzazione dei parametri
+* &lbrack;Filters&rbrack; I parametri predefiniti per il filtro Affiancamento generano artefatti grigi nell&#39;output
+* &lbrack;Filters&rbrack; A volte con input ad alta risoluzione, le impostazioni avanzate del filtro Affiancamento automatico non mostrano i singoli punti del pattern
 * &lbrack;Filters&rbrack; La dimensione del pattern per il parametro Affiancamento automatico della dimensione personalizzata ha un valore predefinito errato
 * &lbrack;Layers&rbrack; problema di colore occasionale con il filtro Affiancamento automatico visibile per lo più sui materiali rossi
 * &lbrack;Livelli&rbrack; a volte l’aggiunta di livelli reimposta alcune modifiche sul valore predefinito
@@ -269,7 +269,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &blocca;Livelli&rbrack; menu di scelta rapida quando si fa clic con il pulsante destro del mouse su un livello per rinominarlo, duplicarlo, eliminarlo o convertirlo
 * &blocco;Onboarding&brack; contenuto per il completamento dell&#39;aggiornamento e Novità delle schermate
 * &lbrack;Prestazioni&rbrack; Prestazioni migliori quando si utilizza il filtro Ritaglio
-* &lbrack;Performance&rbrack; Migliorare l&#39;utilizzo della memoria per la vista 3D
+* &lbrack;Performance&rbrack; Migliorare l&#39;utilizzo della memoria per il vista 3D
 * &lbrack;Performance&rbrack; l&#39;aggiornamento della vista 3D è più rapido
 * &lbrack;Dimensioni fisiche&rbrack; abilita &quot;visualizzazione con proporzioni fisiche&quot; quando si lavora sui filtri Substance quando Dimensioni fisiche è abilitata
 * &lbrack;Dimensioni fisiche&rbrack; Quando si importano immagini in una pila vuota, proporre una risoluzione più coerente con le proporzioni dell&#39;immagine
@@ -278,15 +278,15 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Scripting&rbrack; Ottieni il nome file di ogni immagine di un livello di importazione immagine
 * &lbrack;Scripting&rbrack; Nuova funzione per attivare/disattivare un determinato canale di una risorsa
 * &lbrack;UI&rbrack; Icone e pulsanti di rielaborazione nel pannello Livelli per adattarsi alle nuove funzioni
-* &lbrack;UI&rbrack; Avvisa in caso di deprecato authoring luce ambiente
+* &lbrack;UI&rbrack; Avvisa in caso di rimozione della creazione di luci ambientali
 
 **Corretto:**
 
-* &lbrack;2D View&rbrack; La selezione di &#39;display with physical ratio&#39; potrebbe non funzionare quando si utilizzano i filtri Substance
+* &lbrack;vista 2D&rbrack; La selezione di &#39;visualizza con rapporto fisico&#39; potrebbe non funzionare quando si utilizzano i filtri Substance
 * &lbrack;capture 3D&rbrack; I file Svg sono elencati nel selettore di file ma non sono supportati
-* &lbrack;3D View&rbrack; Il parametro relativo all&#39;intensità di emissione nelle impostazioni dello shader non funziona
+* &lbrack;vista 3D&rbrack; Il parametro relativo all&#39;intensità di emissione nelle impostazioni dello Shader non funziona
 * &lbrack;vista 3D&rbrack; A volte la posizione della trama non è corretta durante la creazione di una nuova risorsa
-* &lbrack;3D View&rbrack; Il passaggio al rendering Traccia percorso si arresta in modo anomalo su hardware non supportato
+* &lbrack;vista 3D&rbrack; Passaggio agli arresti anomali di rendering Traccia percorso su hardware non supportato
 * &lbrack;Application&rbrack; L&#39;applicazione si blocca quando si chiude il popup della misura manuale senza impostare una dimensione
 * &lbrack;Application&rbrack; Arresto anomalo
 * &lbrack;Applicazione&rbrack; Blocco in Windows durante la visualizzazione del desktop (tasto Windows + scelta rapida da tastiera tastiera D)
@@ -363,12 +363,12 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 
 * &lbrack;Application&rbrack; Il pulsante Indietro nella pagina principale è interrotto
 * &lbrack;Application&rbrack; Sampler a volte non si avvia se sul disco sono presenti dati danneggiati da versioni precedenti
-* &lbrack;Application&rbrack; L&#39;immagine importata non viene visualizzata nella finestra della vista o nella pila di livelli
+* &lbrack;Application&rbrack; L&#39;immagine importata non viene visualizzata nella finestra della vista o nella Pila livelli
 * &lbrack;Captis&rbrack; Il campo indirizzo IP Captis rimane vuoto anche dopo il riavvio di Sampler
 * &lbrack;Captis&rbrack; L&#39;anteprima della videocamera dal vivo funziona solo quando la lingua dell&#39;applicazione è impostata su Inglese
-* &lbrack;Esporta&rbrack; Arresto anomalo durante l&#39;esportazione &lbrack;Livelli&rbrack; Il disegno a volte non funziona nei progetti salvati in precedenza
+* &lbrack;Export&rbrack; Arresto anomalo durante l&#39;esportazione &lbrack;Layers&rbrack; Il disegno a volte non funziona nei progetti salvati in precedenza
 * &lbrack;Layers&rbrack; Sampler a volte aggiorna tutte le texture quando viene aggiornato un solo canale
-* &lbrack;Layers&rbrack; Impossibile utilizzare fusioni di materiale nella pila di livelli dopo l&#39;aggiornamento a 5.0.x
+* &lbrack;Layers&rbrack; Impossibile utilizzare fusioni di materiale nella Pila livelli dopo l&#39;aggiornamento a 5.0.x
 * &lbrack;Layers&rbrack; L&#39;aggiornamento di un progetto con una versione precedente di Image to Material (AI) rende tutto il materiale nero
 * &lbrack;Livelli&rbrack; Quando si tenta di importare un&#39;immagine non supportata, Sampler crea un livello interrotto
 * &lbrack;Scripting&rbrack; Parte dell’API Python non funziona con un progetto vuoto
@@ -406,10 +406,10 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Content&rbrack; Il progetto di esempio richiede un aggiornamento del filtro, ma è già aggiornato
 * &lbrack;Filters&rbrack; Il filtro di regolazione Normale/height non ha icona
 * &lbrack;Livelli&rbrack; Impossibile modificare le immagini in un livello di importazione immagine
-* &lbrack;Layers&rbrack; Si arresta in modo anomalo quando si utilizza il filtro Ingrandisci
+* &lbrack;Layers&rbrack; Arresti anomali quando si utilizza il filtro Ingrandisci
 * &lbrack;Livelli&rbrack; l&#39;aggiornamento di un progetto con una vecchia immagine in materiale rende tutto il materiale nero
-* &lbrack;Rendering&rbrack; l’ottimizzazione di una pila di livelli immediatamente dopo la creazione di una risorsa interrompe il rendering
-* &lbrack;Scripting&rbrack; Il plug-in di salvataggio automatico si arresta in modo anomalo quando non è presente alcuna risorsa nel progetto
+* &lbrack;Rendering&rbrack; l’ottimizzazione di una Pila livelli subito dopo la creazione di una risorsa interrompe il rendering
+* &lbrack;Scripting&rbrack; arresti anomali di plug-in di salvataggio automatico quando non è presente alcuna risorsa nel progetto
 * &lbrack;Strumenti&rbrack; Il valore della dimensione del pennello non è presente nella barra degli strumenti Pennello
 * &lbrack;UI&rbrack; La modifica della lingua dell&#39;applicazione non aggiorna alcune delle etichette nella schermata iniziale
 * &lbrack;UI&rbrack; toccando i campi di testo Esc o Invio in Slider non perderà lo stato attivo
@@ -427,14 +427,14 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 
 * &lbrack;Onboarding&rbrack; nuova home page con accesso rapido a contenuti di apprendimento, progetti di esempio, azioni rapide e progetti recenti.
 * &lbrack;Onboarding&brack; Inizia rapidamente con le nuove Azioni rapide, accessibili dalla pagina principale e dal pannello dedicato
-* &lbrack;Onboarding&rbrack; &lbrack;Content&rbrack; Le azioni rapide sono flussi di lavoro predefiniti che popolano la pila di livelli con la maggior parte dei livelli utilizzati
+* &lbrack;Onboarding&rbrack; &lbrack;Content&rbrack; Le azioni rapide sono flussi di lavoro predefiniti che popolano la Pila livelli con la maggior parte dei livelli utilizzati
 * &lbrack;Onboarding&rbrack; possibilità di creare un nuovo progetto tramite un nuovo menu di avvio rapido, tramite azioni rapide o Progetto personalizzato
 * &lbrack;Onboarding&rbrack; possibilità di creare un progetto vuoto direttamente dalla home page tramite il pulsante dedicato
 * &lbrack;vista 3D&rbrack; nuovo rasterizzatore avanzato e tracciatore percorsi con nuove funzionalità di rendering (proprietà quali rivestimento, lucentezza, traslucidità, dispersione sottosuperficie) e coerenza visiva nell&#39;ecosistema Substance
-* &lbrack;3D View&rbrack; Le impostazioni del visualizzatore sono ora accessibili direttamente nella vista 3D
-* &lbrack;3D View&rbrack; Possibilità di salvare un&#39;istantanea di rendering negli Appunti o nei file
-* &lbrack;3D View&rbrack; Visualizza una griglia per visualizzare l&#39;origine della scena
-* &lbrack;3D View&rbrack; Attiva il piano terreno per catturare ombre e riflessi
+* &lbrack;vista 3D&rbrack; Le impostazioni del visualizzatore sono ora accessibili direttamente nella vista 3D
+* &lbrack;vista 3D&rbrack; Possibilità di salvare un&#39;istantanea di rendering negli Appunti o nei file
+* &lbrack;vista 3D&rbrack; Visualizza una griglia per visualizzare l&#39;origine della scena
+* &lbrack;vista 3D&rbrack; Attiva il piano terreno per catturare ombre e riflessi
 * &lbrack;vista 3D&rbrack; controlla la visibilità e l&#39;opacità del piano terreno
 * &lbrack;capture 3D&rbrack; Posiziona trama a terra
 * &lbrack;Application&rbrack; Verifica la compatibilità hardware all&#39;avvio dell&#39;applicazione
@@ -467,7 +467,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Performance&brack; Impossibile utilizzare la cache di rendering al riavvio dell&#39;app
 * &lbrack;Resources&rbrack; I file di sola lettura non sono visibili nel pannello Risorse
 * &blocco;Scripting&rbrack; Consenti di riutilizzare un livello dopo aver aggiunto un altro livello
-* &lbrack;Scripting&rbrack; La modifica ripetuta della struttura della pila di livelli in uno script potrebbe non riuscire
+* &lbrack;Scripting&rbrack; La modifica più volte della struttura della Pila livelli in uno script potrebbe non riuscire
 
 **Rimosso:**
 
@@ -615,20 +615,20 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Content&rbrack; Nuovo filtro di stilizzazione
 * &lbrack;Content&rbrack; Metodo fusione su filtro riempimento
 * &lbrack;Content&rbrack; Filtro ricamo aggiornato
-* &lbrack;Content&rbrack; Filtro Contorna con disegno aggiornato
-* &lbrack;Content&rbrack; Tutti i filtri sono stati aggiornati per supportare i generatori di texture
-* &lbrack;Layers&rbrack; Possibilità di scegliere un canale di output del generatore di texture quando lo si aggiunge alla pila di livelli
-* &lbrack;Layers&rbrack; Possibilità di elencare e applicare facilmente i predefiniti sui generatori di texture
-* &lbrack;Livelli&rbrack; Visualizza un&#39;anteprima di Generatore texture nei selettori di immagini
-* &lbrack;Livelli&rbrack; I parametri del generatore di texture possono essere esposti ed esportati
-* &lbrack;Livelli&rbrack; Assegna l’uso del colore di base quando si importa una singola immagine con il modello di creazione Importazione texture
+* &lbrack;Content&rbrack; Filtro Contorna con Pittura aggiornato
+* &lbrack;Content&rbrack; Tutti i filtri sono stati aggiornati per supportare i generatori di Texture
+* &lbrack;Layers&rbrack; Possibilità di scegliere un canale di output del Generatore di Texture quando lo si aggiunge alla Pila livelli
+* &lbrack;Layers&rbrack; Possibilità di elencare e applicare facilmente i predefiniti nei generatori di Texture
+* &lbrack;Layers&rbrack; Visualizza un&#39;anteprima di Generatore Texture nei selettori di immagini
+* &lbrack;Layers&rbrack; I parametri del generatore di Texture possono essere esposti ed esportati
+* &lbrack;Layers&rbrack; Assegna l’utilizzo del Colore di base durante l’importazione di una singola immagine con Texture Importa modello di creazione
 * &lbrack;Layers&rbrack; Feedback quando si tenta di trascinare e rilasciare file incompatibili nei selettori di immagini nel pannello Proprietà
 * &lbrack;Layers&rbrack; Genera un canale di opacità dal canale alfa di un’immagine importata
 * &lbrack;Layers&rbrack; Image to Material (AI) è più veloce da calcolare quando si cambia categoria
 * &lbrack;Livelli&rbrack; Seleziona il livello più pertinente dopo l&#39;utilizzo di un modello di creazione
 * &lbrack;Layers&rbrack; I widget di posizione ora possono essere modificati con un cursore nel gruppo Advanced Parameters
 * &lbrack;Esporta&rbrack; Visualizza una percentuale nella coda anziché i numeri non elaborati
-* &lbrack;Interoperabilità&rbrack; Il canale di opacità viene ora riconosciuto come canale alfa quando si invia a Painter
+* &lbrack;Interoperability&rbrack; Il canale Opacità viene ora riconosciuto come canale alfa quando si invia a Painter
 * &lbrack;Applicazione&rbrack; Nuova finestra di dialogo per visualizzare e salvare le informazioni sull&#39;hardware
 * &lbrack;Application&rbrack; Nuova preferenza per modificare la scala di height predefinita per ogni progetto
 * &lbrack;Applicazione&rbrack; Migliora la modalità di visualizzazione delle risorse obsolete
@@ -849,14 +849,14 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Aggiunto:**
 
 * &blocco;Content&rbrack; nuovo filtro Ricamo
-* &blocco;Contenuto&rbrack; Nuovo filtro Alterazione pittura
+* &lbrack;Content&rbrack; Nuovo filtro Alterazione Pittura
 * &lbrack;UI&rbrack; Aggiungi opzione Esporta nel menu File
 * &lbrack;capture 3D&rbrack; Indietro è ora disponibile nel passaggio di allineamento
 * &lbrack;capture 3D&rbrack; Images Handle JPEG EXIF orientation
 * &lbrack;capture 3D&rbrack; Scripting - Nuova proprietà dataset_info.camera
 * &lbrack;capture 3D&rbrack; Aggiungi supporto Linux (consultare la documentazione)
 * &lbrack;capture 3D&rbrack; Verifica dell&#39;accesso in lettura alle immagini importate
-* &lbrack;Onboarding&rbrack; Scopri - 2 nuove esercitazioni (Ricamo e Alterazione pittura)
+* &lbrack;Onboarding&rbrack; Scopri - 2 nuove esercitazioni (Ricamo e Alterazione Pittura)
 * &lbrack;Onboarding&rbrack; contenuto aggiornato della sezione Novità
 
 **Corretto:**
@@ -901,7 +901,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Scripting&rbrack; Passare argomenti script pitoni eseguiti con —run-script
 * &lbrack;UI&rbrack; feedback interfaccia utente quando si trascina una risorsa sul pannello Livelli
 * &lbrack;Content&rbrack; Il filtro della temperatura colore è ora in funzione sui materiali
-* &lbrack;Content&rbrack; Normale ai filtri Height ha una nuova opzione per mantenere la suddivisione in porzioni
+* &lbrack;Content&rbrack; Normale ai filtri Height presenta una nuova opzione per mantenere l&#39;Affiancamento
 
 **Corretto:**
 
@@ -910,32 +910,32 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;capture 3D&rbrack; MacOS - Migliore rilevamento se il capture 3D è disponibile
 * &lbrack;capture 3D&rbrack; Arresto anomalo quando si chiude la finestra del Capture 3D durante l&#39;importazione di immagini
 * &lbrack;capture 3D&rbrack; Arresto anomalo durante la generazione di una nuova versione
-* &lbrack;capture 3D&rbrack; Arresto anomalo quando si tenta di caricare un oggetto 3D nel visualizzatore
+* &lbrack;capture 3D&rbrack; Arresto anomalo quando si tenta di caricare l&#39;oggetto 3D nel visualizzatore
 * &lbrack;capture 3D&rbrack; Arresto anomalo quando si utilizza un tracciato con caratteri non UTF8
 * &lbrack;capture 3D&rbrack; Tipi di risultati e suggerimenti
 * &lbrack;capture 3D&rbrack; Le trame non vengono più ridimensionate per adattarsi al cubo unitario
-* &lbrack;capture 3D&rbrack; Impedisce l&#39;arresto anomalo quando si chiude un Capture 3D durante il rendering
+* &lbrack;capture 3D&rbrack; Impedisci arresto anomalo alla chiusura del Capture 3D durante il rendering
 * &lbrack;capture 3D&rbrack; La rimozione di una maschera fa scomparire l&#39;immagine
 * &lbrack;Application&rbrack; Arresto anomalo durante l&#39;importazione di una risorsa due volte contemporaneamente
 * &lbrack;Applicazione&rbrack; esegue il backup della versione precedente delle risorse all&#39;apertura di un progetto se non ne è mai stato eseguito il backup
-* &lbrack;Application&rbrack; Memorizza correttamente nella cache le mappe con baking quando non tutte le mappe sono elaborate
-* &lbrack;Application&rbrack; Fullscreen si arresta quando viene visualizzato un oggetto 3D.
+* &lbrack;Application&rbrack; Memorizza correttamente nella cache le mappe con baking quando non tutte le mappe sono eseguite i baking
+* &lbrack;Application&rbrack; arresti anomali a schermo intero quando viene visualizzato un oggetto 3D.
 * &lbrack;Application&rbrack; L&#39;ultimo materiale viene duplicato durante il salvataggio del progetto
-* &lbrack;Application&rbrack; Impedisce l&#39;arresto anomalo durante l&#39;annullamento del calcolo di post-elaborazione della trama durante la fase di cottura
+* &lbrack;Application&rbrack; Impedisce l&#39;arresto anomalo durante l&#39;annullamento del calcolo di post-elaborazione della trama durante la fase di esegue i baking
 * &lbrack;Application&rbrack; la riapertura del progetto corrente non elimina le modifiche
 * &lbrack;Application&rbrack; Interrompe la generazione di miniature per oggetti 3D
-* &lbrack;2D View&rbrack; Arresto anomalo quando si utilizza lo strumento Pennello
+* &lbrack;vista 2D&rbrack; Arresto anomalo quando si utilizza lo strumento pennello
 * &blocco;Riempimento in base al contenuto; &blocco;Riempimento in base al contenuto - il calcolo potrebbe bloccarsi
 * &lbrack;Content&rbrack; il filtro Atlas Creator esegue il downscaling del canale Opacità
 * &blocco;Esporta&rbrack; Correggi cancellazione coda esportazioni non riuscite
-* &lbrack;Export&rbrack; L&#39;esportazione OBJ crea un oggetto 100 volte più piccolo del previsto
+* &lbrack;Export&rbrack; l&#39;esportazione OBJ crea un oggetto 100 volte più piccolo del previsto
 * &lbrack;Livelli&rbrack; Le immagini a colori importate come canali in scala di grigio sono ora considerate in scala di grigio
 * &lbrack;Export&rbrack; i file FBX non possono essere importati in applicazioni di terze parti
-* &lbrack;Export&rbrack; I nomi di output dello shader nei file USD non sono corretti
+* &lbrack;Export&rbrack; I nomi di output degli Shader nei file USD non sono corretti
 * &lbrack;Layers&rbrack; Il nome dell&#39;immagine non viene aggiornato quando si modifica il nome nell&#39;interfaccia Esplora sistema operativo
 * &lbrack;Scripting&rbrack; Visualizza un messaggio di errore durante il ricaricamento di uno script non valido
 * &lbrack;UI&rbrack; pulsante Materiale di base disabilitato quando non disponibile
-* &lbrack;UI&rbrack; Arresto anomalo quando si accede alla finestra di dialogo del file nella finestra del modello di creazione del materiale
+* &lbrack;UI&rbrack; Arresto anomalo durante l&#39;accesso alla finestra di dialogo del file nella finestra del modello di creazione del materiale
 * &lbrack;UI&rbrack; La funzione di accesso rapido è accessibile anche quando il pannello Livelli è chiuso
 * &lbrack;UI&rbrack; le icone Invia a non sono allineate
 * &lbrack;UI&rbrack; l&#39;icona del livello cambia quando si fa clic sull&#39;icona della Fusione
@@ -985,9 +985,9 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;capture 3D&rbrack; Il passaggio di post-elaborazione esegue automaticamente lo srotolamento, riproietta la texture e quindi esegue i baking le informazioni del height normale e AO dalla trama ad alto poli
 * &lbrack;capture 3D&rbrack; Aggiungi il risultato originale o una versione al progetto Sampler
 * &lbrack;capture 3D&rbrack; nuovo livello di post-elaborazione trama per decimare, annullare automaticamente il contornamento, riproiettare le texture e eseguire i baking i dettagli del livello di trama sottostante
-* &lbrack;capture 3D&rbrack; nuovo livello Trasformazione trama per ridimensionare, ruotare o traslare il livello di trama sottostante
+* &lbrack;capture 3D&rbrack; Nuovo livello di Trasforma trama per ridimensionare, ruotare o traslare il livello di trama sottostante
 * &blocco;Esporta&rbrack; nuova finestra Esporta
-* &lbrack;Export&rbrack; Impostazioni dedicate e interfaccia utente a seconda del tipo di risorsa (materiale, luce ambiente, trama)
+* &lbrack;Export&rbrack; Impostazioni dedicate e interfaccia utente a seconda del tipo di risorsa (materiale, luce ambientale, trama)
 * &lbrack;Export&rbrack; Esporta la trama come USD, USDA, USDZ, glTF, glb, obj, fbx, stl
 * &lbrack;Export&rbrack; Definire il tipo di materiale durante l&#39;esportazione dei file di Substance (SBSAR, SBS)
 * &lbrack;UI&rbrack; Sposta le impostazioni della cache in una nuova scheda nel popup Preferenze
@@ -1005,8 +1005,8 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Application&rbrack; Le finestre di dialogo File possono essere visualizzate in una finestra di sfondo in macOS
 * &lbrack;Application&rbrack; arresto anomalo potenziale all&#39;apertura di progetti 3.2
 * &lbrack;Applicazione&rbrack; la selezione di un file chiude la finestra di dialogo File prima di visualizzare gli avvisi
-* &lbrack;Exposed Parameters&rbrack; L&#39;esportazione delle luci di ambiente parametriche non funziona
-* &lbrack;Layers&rbrack; il collegamento &quot;Fai clic qui per sfogliare&quot; nella pila di livelli non funziona più
+* &lbrack;Exposed Parameters&rbrack; L&#39;esportazione di luci ambientali parametriche non funziona
+* &lbrack;Layers&rbrack; il collegamento &quot;Fai clic qui per sfogliare&quot; in Pila livelli non funziona più
 * &lbrack;Livelli&rbrack; Il disegno di più immagini all&#39;interno dello stesso livello a volte non funziona
 * &lbrack;Layers&rbrack; L&#39;impostazione di un&#39;immagine nelle proprietà del livello non aggiorna la miniatura del selettore di immagini
 * &lbrack;Livelli&rbrack; L&#39;ottimizzazione di una risorsa Sampler aggiunta come livello non funziona
@@ -1049,7 +1049,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 
 **Corretto:**
 
-* &lbrack;Export&rbrack; Arresto anomalo durante l’esportazione di un file .sbsar che fa riferimento a un’immagine mancante
+* &lbrack;Export&rbrack; Arresto anomalo durante l&#39;esportazione di un file .sbsar che fa riferimento a un&#39;immagine mancante
 * &lbrack;Export&rbrack; Arresto anomalo durante l&#39;esportazione di una risorsa che fa riferimento a un file di immagine danneggiato
 * &lbrack;Export&rbrack; L&#39;esportazione di un file .sbsar con un livello Ricamo genera un materiale grigio
 * &lbrack;Export&rbrack; L&#39;esportazione di un materiale in un file .sbs/sbsar può generare un materiale completamente trasparente
@@ -1057,7 +1057,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Export&rbrack; L&#39;esportazione Sbs/sbsar di una Pila livelli che fa riferimento a un file .svg è interrotta
 * &lbrack;Export&rbrack; Trasforma livello non viene esportato correttamente / Enscape aggiornato - Aggiorna predefinito di esportazione
 * &lbrack;Exposed Parameters&rbrack; Arresto anomalo quando si elimina un livello contenente un parametro esposto
-* &lbrack;Exposed Parameters&rbrack; L&#39;aggiornamento di un livello obsoleto nella pila di livelli può causare il danneggiamento di un elenco di parametri esposti
+* &lbrack;Exposed Parameters&rbrack; L&#39;aggiornamento di un livello obsoleto nella Pila livelli può causare il danneggiamento di un elenco di parametri esposti
 * &lbrack;Exposed Parameters&rbrack; I parametri che non devono essere esportati vengono comunque esportati
 * &lbrack;Parametri esposti&rbrack; La rimozione di un filtro di fusione quando si elimina un livello non ne annulla la visualizzazione dei parametri
 * &lbrack;Exposed Parameters&rbrack; I parametri di testo interrompono le esportazioni sbs/.sbsar
@@ -1073,7 +1073,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Layers&rbrack; Il livello eliminato può ancora essere visualizzato nel pannello Proprietà
 * &lbrack;Livelli&rbrack; il calcolo dei livelli può bloccarsi quando si passa da un progetto all’altro
 * &lbrack;Project&rbrack; A volte Sampler non è in grado di aprire un progetto dal disco
-* &lbrack;2D View&rbrack; La vista 2D restituisce sempre per impostazione predefinita Output materiale
+* &lbrack;vista 2D&rbrack; Il valore predefinito del Vista 2D è sempre Output materiale
 
 **Problemi noti:**
 
@@ -1201,28 +1201,28 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Aggiunto:**
 
 * &blocco;Content&rbrack; nuovo filtro Riempimento in base al contenuto (Windows e Mac)
-* &lbrack;Riempimento in base al contenuto sta lavorando su immagini, materiali PBR e luci ambiente
-* &lbrack;Content&rbrack; Aggiungi il parametro &quot;Mantieni porzioni&quot; a Immagine su materiale (basata su IA)
+* &lbrack;Content&rbrack; Riempimento in base al contenuto funziona su immagini, materiali PBR e luce ambientale
+* &lbrack;Content&rbrack; Aggiungi il parametro &quot;Mantieni Affiancamento&quot; a Immagine su materiale (basata su IA)
 * &lbrack;Content&rbrack; Il filtro Trasforma Prospettiva può visualizzare una griglia tra i quattro punti
 * &lbrack;Interoperabilità&rbrack; Invia materiali ad Adobe Substance 3D Stager
 * &lbrack;Strumenti&rbrack; centra la trasformazione premendo Ctrl durante il ridimensionamento dello strumento Trasforma o Ritaglia
-* &lbrack;Strumenti&rbrack; Blocca il rapporto al quadrato premendo Maiusc durante il ridimensionamento dello strumento Trasforma o Ritaglio
-* &lbrack;Strumenti&rbrack; Il cursore Timbro clone offre un&#39;anteprima di ciò che verrà timbrato
+* &lbrack;Strumenti&rbrack; Blocca il rapporto al quadrato premendo Maiusc durante il ridimensionamento dello strumento Trasforma o Ritaglia
+* &lbrack;Strumenti&rbrack; Il cursore Clona /Clone timbro offre un&#39;anteprima di ciò che verrà timbrato
 * &lbrack;Strumenti&rbrack; Visualizza in anteprima il contenuto originale nel cursore della Gomma quando si utilizza Timbro Clona /Clone
-* &lbrack;Strumenti&rbrack; Ctrl+Clic crea un nuovo timbro nel livello Timbro clone
+* &lbrack;Strumenti&rbrack; CTRL+clic per creare un nuovo timbro nel livello Clona /Clone timbro
 * &lbrack;Strumenti&rbrack; I timbri clone successivi sono ora raggruppati in un singolo livello
 * &lbrack;Strumenti&rbrack; Brush Toolbar UI Revamp
 * &lbrack;Strumenti&rbrack; La posizione della barra degli strumenti Pennello è persistente durante una sessione
-* &lbrack;Strumenti&rbrack; Nuove opzioni di suddivisione del pennello in porzioni per asse
-* &lbrack;Strumenti&rbrack; Nascondi/visualizza la sovrapposizione sulla vista 2D quando si disegna
-* &lbrack;Strumenti&rbrack; Nuova scelta rapida, tasto &quot;X&quot;, per alternare tra Pennello e Gomma
-* &lbrack;Strumenti&rbrack; Nuova scelta rapida, &quot;&lbrack;&quot; &quot;&rbrack;&quot; per modificare la dimensione del pennello
-* &lbrack;Strumenti&rbrack; Nuova scelta rapida, tasto &quot;E&quot;, per attivare/disattivare la gomma
-* &lbrack;2D View&rbrack; Nuova modalità Proiezione sferica durante la creazione della luce ambiente
-* &lbrack;2D View&rbrack; Lo strumento Pennello è supportato con la modalità proiezione sferica
-* &lbrack;2D View&rbrack; Lo strumento Posizione è supportato con la modalità proiezione sferica
-* &lbrack;2D View&rbrack; Annulla/Ripeti è supportato in modalità proiezione sferica
-* &lbrack;2D View&rbrack; In Proiezione sferica, impostare la posizione predefinita per osservare il centro dell&#39;ambiente
+* &lbrack;Strumenti&rbrack; Nuove opzioni di Affiancamento pennello in base all&#39;asse
+* &lbrack;Strumenti&rbrack; Nascondi/visualizza la sovrapposizione sul Vista 2D quando si disegna
+* &lbrack;Strumenti&rbrack; Nuova scelta rapida da tastiera, tasto &quot;X&quot;, per alternare tra Pennello e Gomma
+* &lbrack;Strumenti&rbrack; Nuova scelta rapida da tastiera, &quot;&lbrack;&quot; &quot;&rbrack;&quot; per modificare la dimensione del pennello
+* &lbrack;Tools&rbrack; New scelta rapida da tastiera, tasto &quot;E&quot;, per attivare/disattivare la Gomma
+* &lbrack;vista 2D&rbrack; Nuova modalità Proiezione sferica durante la creazione della luce ambientale
+* &lbrack;vista 2D&rbrack; Lo strumento Pennello è supportato in modalità proiezione sferica
+* &lbrack;vista 2D&rbrack; Lo strumento Posizione è supportato in modalità proiezione sferica
+* &lbrack;vista 2D&rbrack; Annulla/Ripeti è supportato in modalità proiezione sferica
+* &lbrack;vista 2D&rbrack; In Proiezione sferica, imposta la posizione predefinita per guardare al centro dell&#39;ambiente
 * &lbrack;vista 2D&rbrack; nuovo controllo dell&#39;esposizione
 * &lbrack;UI&rbrack; Nel pannello Proprietà, la modifica dell&#39;immagine mostra la sorgente del contenuto (immagine o da un livello)
 * &lbrack;UI&rbrack; migliorato lo sfondo del menu a discesa dei livelli/materiali di output
@@ -1403,15 +1403,15 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Corretto:**
 
 * &lbrack;Interoperability&rbrack; L’apertura del file .sbsar con Substance 3D Sampler da Bridge può non riuscire su Windows
-* &lbrack;Livelli&rbrack; Lo spostamento dell&#39;unico livello sottostante si arresta in modo anomalo
+* &lbrack;Layers&rbrack; Se si sposta l&#39;unico livello sottostante, si verificherà l&#39;arresto anomalo
 * &lbrack;UI&rbrack; Il pulsante Impostazioni canale scompare quando si cambia lingua
 * &lbrack;UI&rbrack; il nome del materiale nel pannello Proprietà scompare dopo aver salvato il progetto
-* &blocca;Risorse&blocca; Se si fa clic su &quot;Tutte le librerie&quot; si può verificare un arresto anomalo
+* &lbrack;Assets&rbrack; Se si fa clic su &quot;Tutte le librerie&quot;, può verificarsi un arresto anomalo
 
 **Problemi noti:**
 
-* &lbrack;Realtime Engine 2021&rbrack; Il calcolo spesso può causare l&#39;arresto anomalo dell&#39;applicazione
-* &lbrack;Realtime Engine 2021&rbrack; Realtime Engine 2021 si arresterà in modo anomalo su un computer Windows con CPU AMD e GPU Nvidia installate
+* &lbrack;Realtime Engine 2021&rbrack; Il calcolo spesso può arresto anomalo l&#39;applicazione
+* &lbrack;Realtime Engine 2021&rbrack; Realtime Engine 2021 verrà installato su un computer Windows in cui sono installate sia la CPU AMD che la GPU Nvidia
 * &lbrack;Selettore colore&rbrack; La selezione di un colore su un secondo monitor con una risoluzione diversa potrebbe non funzionare
 
 ### 3.1.1 Xocoatl
@@ -1469,9 +1469,9 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;UI&rbrack; Nuova interfaccia utente del cursore per la visualizzazione in grigio
 * &lbrack;Applicazione&rbrack; Aggiungi selezione formato normale nelle preferenze
 * &lbrack;Applicazione&rbrack; Il formato normale nei livelli Importazione immagine segue il formato normale predefinito impostato nelle preferenze
-* &lbrack;Application&rbrack; Nella vista 2D, la normale viene visualizzata nel formato normale impostato nelle preferenze
+* &lbrack;Application&rbrack; Nel Vista 2D, viene visualizzata la normale in base al formato normale impostato nelle preferenze
 * &lbrack;Application&rbrack; Il normale viene esportato nel formato normale impostato nelle preferenze
-* &lbrack;Export&rbrack; Aggiungi parametro formato normale alle esportazioni di file SBS e SBSAR
+* &lbrack;Export&rbrack; Aggiungi il parametro del formato normale alle esportazioni di file SBS e SBSAR
 * &lbrack;Export&rbrack; Aggiungi impostazioni shader alle esportazioni di file SBS e SBSAR
 * &lbrack;Esporta&rbrack; Imposta la risoluzione predefinita dei grafici SBS esportati
 * &lbrack;Compound Filters&rbrack; crea pacchetti di filtri SSA con 7z
@@ -1488,21 +1488,21 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Application&rbrack; Arresto anomalo all&#39;avvio di due istanze di Sampler
 * &lbrack;Content&rbrack; Il filtro Ritaglio ha una regolazione di inizializzazione casuale
 * &lbrack;Content&rbrack; Alcuni materiali Substance a volte non vengono aggiornati
-* &blocco;Esporta&rbrack; Arresto anomalo durante l&#39;esportazione con un predefinito personalizzato appena aggiunto
+* &lbrack;Export&rbrack; Arresto anomalo durante l&#39;esportazione con un predefinito personalizzato appena aggiunto
 * &lbrack;Export&rbrack; Dimensioni stimate del pacchetto mancanti nel popup di esportazione
 * &lbrack;Export&rbrack; Correggere la perdita di memoria durante l&#39;esportazione di file SBS e SBSAR
 * &lbrack;Compound Filters&rbrack; I filtri composti possono avere input duplicati
-* &lbrack;Compound Filters&rbrack; Arresto anomalo se un filtro contiene riferimenti non soddisfatti
-* &lbrack;Compound Filters&rbrack; Arresto anomalo durante il riordinamento di una pila di livelli con un filtro composto al suo interno
+* &lbrack;Compound Filters&rbrack; Arresto anomalo se un filtro ha riferimenti non soddisfatti
+* &lbrack;Compound Filters&rbrack; Arresto anomalo durante il riordinamento di una Pila livelli contenente un filtro composto
 * &lbrack;Compound Filters&rbrack; Il rendering a volte si blocca
 * &lbrack;Importa&amp;rbrack immagine; L&#39;importazione di un&#39;immagine attiva più rendering
-* &lbrack;Layers&rbrack; Arresto anomalo quando si annulla/ripeti
+* &lbrack;Layers&rbrack; Arresto anomalo su annulla/ripeti
 * &lbrack;Layers&rbrack; Arresto anomalo quando si aggiunge un Materiale di base
-* &lbrack;Layers&rbrack; Arresto anomalo quando si utilizza un&#39;immagine non valida come luce ambiente
+* &lbrack;Layers&rbrack; Arresto anomalo quando si utilizza un&#39;immagine non valida come luce ambientale
 * &lbrack;Layers&rbrack; Correggere l&#39;importazione duplicata quando si inserisce un filtro con diversi grafici
 * &blocca;Livelli&rbrack; Riordinare i livelli non sempre funziona
 * &lbrack;Project&rbrack; Arresto anomalo durante il caricamento di un file di progetto incompleto
-* &blocco;Project&rbrack; arresto anomalo all&#39;apertura di un progetto danneggiato
+* &lbrack;Project&rbrack; Arresto anomalo durante l&#39;apertura di un progetto danneggiato
 * &lbrack;Project&rbrack; alcune risorse possono scomparire da un progetto
 * &lbrack;Proprietà&rbrack; Correggere i predefiniti del filtro mancanti
 * &lbrack;UI&rbrack; impossibile impostare i parametri Angolo
@@ -1547,10 +1547,10 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 
 **Corretto:**
 
-* &lbrack;2D View&rbrack; Il primo tratto nello strumento Pennello a volte è interrotto
-* &lbrack;2D View&rbrack; risorse gratuite quando lo strumento Pennello non è visibile
-* &lbrack;2D View&rbrack; Utilizza il cursore di ridimensionamento destro nel widget della trasformazione
-* &lbrack;2D View&rbrack; I widget non vengono visualizzati se l&#39;utente ha eseguito il panning nella vista 2D in precedenza
+* &lbrack;vista 2D&rbrack; Il primo tratto nello strumento pennello a volte è interrotto
+* &lbrack;vista 2D&rbrack; risorse gratuite quando lo strumento pennello non è visibile
+* &lbrack;vista 2D&rbrack; Utilizzare il cursore di ridimensionamento destro nel widget della Trasforma
+* &lbrack;vista 2D&rbrack; I widget non vengono visualizzati se l&#39;utente ha eseguito il panning nel Vista 2D prima
 * &lbrack;Application&rbrack; Arresto anomalo durante l’apertura di un progetto con flusso di lavoro interrotto
 * &lbrack;Application&rbrack; Correggere l&#39;arresto dell&#39;applicazione per evitare che il registro venga inondato da errori inutili
 * &blocco;Applicazione&rbrack; Ripristina, elimina e salva scelte rapide da tastiera non funzionano in alcuni sistemi operativi
@@ -1558,19 +1558,19 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Esporta&rbrack; Il nome delle immagini esportate per il colore di emissione è errato
 * &lbrack;Export&rbrack; Environment is 8bit when using SBSAR export
 * &lbrack;Esporta&rbrack; Rimuovi gli spazi superflui nei nomi dei file immagine esportati
-* &blocco;Esporta&rbrack; La sostituzione o l’eliminazione di un predefinito di esportazione personalizzato si arresta in modo anomalo
-* &lbrack;Layers&rbrack; Evita l&#39;arresto anomalo quando il numero di input non corrisponde
+* &lbrack;Export&rbrack; Sostituzione o eliminazione di arresti anomali predefiniti di esportazione personalizzati
+* &lbrack;Layers&rbrack; evita l&#39;arresto anomalo in caso di mancata corrispondenza del numero di input
 * &lbrack;Layers&rbrack; Arresto anomalo durante l&#39;inserimento di un livello Materiale di base
 * &lbrack;Layers&rbrack; Il conteggio input filtro è limitato al valore predefinito
-* &lbrack;Layers&rbrack; Redo modifica erroneamente il tipo di fusione in fusione Height
+* &lbrack;Layers&rbrack; Redo modifica erroneamente il tipo di Fusione in fusione Height
 * &lbrack;Layers&rbrack; Rimuovi zona di rilascio sopra le intestazioni di input
 * &lbrack;Livelli&rbrack; I livelli vengono inseriti nella posizione errata attorno alle intestazioni di input
 * &lbrack;Layers&rbrack; Il pulsante Ripristina tutte le impostazioni non reimposta i valori dei widget a discesa
 * &lbrack;Layers&rbrack; Annulla/Ripeti quando si modifica un’immagine sul livello Importazione immagine, contrassegna il progetto come modificato e così via per salvarlo
 * &lbrack;Layers&rbrack; Gli usi possono essere interrotti dai livelli di fusione
-* &lbrack;Project&rbrack; Arresto anomalo durante il caricamento di un progetto precedente con cartella dipendenze mancante
+* &lbrack;Project&rbrack; Arresto anomalo durante il caricamento di un progetto precedente con cartella delle dipendenze mancante
 * &lbrack;Project&rbrack; Arresto anomalo quando si utilizza Annulla/Ripeti dopo il salvataggio
-* &lbrack;Project&rbrack; L&#39;apertura di un file SBSAR contenente una luce ambiente crea una risorsa materiale
+* &lbrack;Project&rbrack; l&#39;apertura di un file SBSAR contenente una luce ambientale crea una risorsa materiale
 * &lbrack;Project&rbrack; La ridenominazione di un materiale può attivare la generazione di miniature
 * &lbrack;Project&rbrack; Il salvataggio dopo la ridenominazione di un materiale contrassegna il progetto come non modificato
 * &blocco;Progetto&rblocco; Alcune modifiche dopo la ridenominazione di un materiale non vengono salvate
@@ -1592,9 +1592,9 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;UI&rbrack; La modalità a schermo intero non è a schermo intero
 * &lbrack;UI&rbrack; I pannelli non ancorati sono sempre in primo piano anche quando l&#39;applicazione non è attiva in MacOS
 * &lbrack;UI&rbrack; Aggiorna immagine banner schermata di benvenuto
-* &lbrack;Content&rbrack; Il filtro Porzione non elabora il canale di occlusione ambientale
+* &lbrack;Content&rbrack; Il filtro Affiancamento non elabora il canale di occlusione ambientale
 * &lbrack;Content&rbrack; problema di unione superfici con la selezione della giuntura dell&#39;assieme di saldatura e il motivo a rombo
-* &lbrack;Content&rbrack; Il filtro Rilievo funziona in 256 px per 256 px
+* &lbrack;Content&rbrack; il filtro Effetto rilievo funziona in 256 px per 256 px
 * &lbrack;Content&rbrack; Risolvi il problema di Affiancamento con le porzioni del Floor quando lo scostamento è maggiore di 0
 
 **Problemi noti:**
@@ -1640,7 +1640,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Project&rbrack; Apri un file .sbsar da Esplora sistemi operativi per avviare Sampler con un nuovo progetto con questo file .sbsar pronto per l&#39;uso
 * &lbrack;Project&rbrack; Aprire un file .alch (file di Substance Alchemist legacy) dall&#39;esploratore del sistema operativo
 * &blocco;Pannello progetto&rbrack; nuovo pannello che conterrà tutte le risorse create all’interno di un progetto
-* &lbrack;Pannello progetto&rbrack; Crea una risorsa (materiale o luce ambiente) utilizzando l&#39;icona +
+* &lbrack;Pannello progetto&rbrack; Crea una risorsa (materiale o luce ambientale) utilizzando l&#39;icona +
 * &blocco;Pannello progetto&rbrack; facendo clic con il pulsante destro del mouse sulla risorsa si apre un menu di scelta rapida
 * &lbrack;Pannello progetto&rbrack; Dal menu di scelta rapida, è possibile eliminare una risorsa
 * &lbrack;Pannello progetto&rbrack; Dal menu di scelta rapida, è possibile duplicare una risorsa
@@ -1649,8 +1649,8 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Resolution&rbrack; Ora puoi impostare una risoluzione non quadrata per tutte le tue risorse
 * &lbrack;Resolution&rbrack; Il valore di risoluzione viene salvato per risorsa all&#39;interno di un progetto
 * &lbrack;Luce ambientale&rbrack; Creazione di luce ambientale in Substance 3D Sampler
-* &lbrack;Luce ambiente&rbrack; Durante la creazione di una luce ambiente, trascinando e rilasciando le immagini verrà visualizzata la finestra Modello creazione luce ambiente
-* &lbrack;Environment Light&rbrack; Nel modello Environment Light Creation, selezionare Environment Import (Importa ambiente) per assegnare l&#39;immagine all&#39;ambiente nella vista 3D
+* &lbrack;Luce ambientale&rbrack; Durante la creazione di una luce ambientale, trascinando le immagini verrà visualizzata la finestra Modello di creazione Luce ambientale
+* &lbrack;Luce ambientale&rbrack; Nel modello di creazione della Luce ambientale, selezionare Importazione ambiente per assegnare l&#39;immagine all&#39;ambiente nella vista 3D
 * &lbrack;Luce ambientale&rbrack; Nel modello di creazione della Luce ambientale, seleziona Unione HDR per creare una luce ambientale da diverse immagini a 360 gradi con esposizione diversa
 * &lbrack;Luce ambientale&rbrack; Nel modello di creazione della Luce ambientale, selezionare &quot;Usa come bitmap&quot; per modificare le immagini prima di creare una luce ambientale
 * &lbrack;Luce ambientale&rbrack; Assegna l’utilizzo dell’ambiente nel livello Importazione immagine per assegnare direttamente l’immagine all’ambiente nella vista 3D
@@ -1689,18 +1689,18 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Substance 3D Designer&rbrack; Le risorse inviate da Adobe Substance 3D Designer arriveranno direttamente nella sezione &quot;Le tue risorse&quot; del pannello Risorse
 * &lbrack;Esporta&rbrack; Invia risorse direttamente a Adobe Substance 3D Painter e Adobe Substance 3D Stager
 * &lbrack;Esporta&rbrack; Invia materiali e luce ambientale ad Adobe Substance 3D Painter
-* &lbrack;Esporta&rbrack; Invia luci ambiente ad Adobe Substance 3D Stager
+* &lbrack;Esporta&rbrack; Invia luci ambientali ad Adobe Substance 3D Stager
 * &lbrack;Rendering&rbrack; le nuove proprietà dei materiali sono ora supportate e renderizzate in 3D
 * &lbrack;Rendering&rbrack; aggiunta di supporto per la brillantezza (Colore di lucentezza, opacità lucentezza e rugosità lucentezza)
-* &lbrack;Rendering&rbrack; aggiunta del supporto per il rivestimento (colore del pelo, rugosità del pelo, normale del pelo, Specular level del pelo e rivestimento IOR)
-* &lbrack;Rendering&rbrack; Aggiunta del supporto Anisotropie (livello Anisotropia e angolo Anisotropia)
+* &lbrack;Rendering&rbrack; aggiunta del supporto per il rivestimento (Colore del rivestimento, Rugosità del rivestimento, Normale dei rivestimenti, Livello speculare dei rivestimenti e strato IOR)
+* &lbrack;Rendering&rbrack; Aggiunta del supporto Anisotropie (Livello di anisotropia e Angolo di anisotropia)
 * &lbrack;Rendering&rbrack; Aggiunta del supporto Specular edge color
 * &lbrack;Rendering&rbrack; Attiva queste nuove proprietà nel pannello Impostazioni canale
 * &lbrack;Rendering&rbrack; Introduzione di un nuovo modulo di rendering in tempo reale (2021) in versione beta
 * &lbrack;Rendering&rbrack; Passa da una versione all’altra del modulo di rendering nel pannello Impostazioni visualizzatore
 * &lbrack;Rendering&rbrack; Il modulo di rendering in tempo reale (2021) supporta le proprietà traslucidità, assorbimento e dispersione del materiale
 * &lbrack;Rendering&rbrack; Il modulo di rendering in tempo reale (2021) introduce un nuovo modo per calcolare le ombre dalla luce ambientale
-* &lbrack;Rendering&rbrack; Il modulo di rendering in tempo reale (2021) calcola in tempo reale l’irradianza della luce ambiente
+* &lbrack;Rendering&rbrack; Il modulo di rendering in tempo reale (2021) calcola in tempo reale l’irradianza della luce ambientale
 * &lbrack;Pannello Impostazioni Shader&rbrack; Nuovo pannello Impostazioni Shader per modificare specifici parametri di shader del materiale
 * &lbrack;Pannello Impostazioni Shader&rbrack; Nuovi parametri (Scala normale, Scala height, Livello height, Intensità di emissione, IOR, Intensità Normale dei rivestimenti e Coat IOR)
 * &lbrack;Shader Settings Panel&rbrack; Parametri specifici per il motore in tempo reale 2021 (dispersione sottosuperficie, distanza di dispersione, spostamento rosso e diffusione Rayleigh)
@@ -1771,7 +1771,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * L&#39;utilizzo di Image to Material (AI) su immagini ad alta risoluzione può risultare lento
 * I filtri Riempimento in base al contenuto sono lenti in alta risoluzione
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Impossibile salvare due volte lo stesso stack di livelli di materiale
+* Impossibile salvare due volte la stessa identica Pila livelli di materiale
 
 ### 2.3.1 (2020.3.1) Vermicelli
 
@@ -1814,7 +1814,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * L&#39;utilizzo di Image to Material (AI) su immagini ad alta risoluzione può risultare lento
 * I filtri Riempimento in base al contenuto sono lenti in alta risoluzione
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Impossibile salvare due volte lo stesso stack di livelli di materiale
+* Impossibile salvare due volte la stessa identica Pila livelli di materiale
 
 ### 2.3.0 (2020.3.0) Vermicelli
 
@@ -1844,7 +1844,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &blocco;Content&brack; Aggiungi filtro Inverti
 * &blocco;Contenuto&rbrack; Aggiungi filtro Colorazione
 * &blocco;Content&rbrack; Aggiungi filtro Sostituisci colore
-* &lbrack;Content&rbrack; Transform: consente di disattivare la trasformazione su un canale specifico.
+* &lbrack;Content&rbrack; Trasforma: aggiungete la possibilità di disattivare la trasformazione su un canale specifico
 * &lbrack;Content&rbrack; Trasforma - Aggiungi rotazione quando è attivata la Trasforma sicura
 * &lbrack;Content&rbrack; Color Variation - Aggiunge un&#39;opzione di segmentazione per scegliere come distribuire i colori
 
@@ -1887,8 +1887,8 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Layers&rbrack; La cache del disco non viene utilizzata quando si inserisce una pila in una pila
 * &lbrack;Layers&rbrack; Alcuni utilizzi dei canali vengono calcolati anche se non vengono utilizzati
 * &lbrack;Layers&rbrack; Gli output vuoti vengono talvolta creati durante l&#39;importazione delle immagini
-* &lbrack;2D View&rbrack; Passaggio a un altro livello con la modalità Disegno attiva blocchi panning e zoom
-* &lbrack;Content&rbrack; Snow - Problema a 8 bit sulla mappa normale
+* &lbrack;vista 2D&rbrack; Passaggio a un altro livello con la modalità Disegno attiva blocca panning e zoom
+* &lbrack;Content&rbrack; Snow - Problema a 8 bit nella mappa normale
 * &lbrack;Content&rbrack; Pattern pavimentazione - Problema di 8 bit sulla mappa normale
 * &lbrack;Content&rbrack; Equalizzatore - Problema di 8 bit sulla mappa normale
 * &lbrack;Content&rbrack; Gravel Generator - Problema di 8 bit sulla mappa normale
@@ -1912,10 +1912,10 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Problemi noti:**
 
 * L&#39;utilizzo di Image to Material (AI) su immagini ad alta risoluzione può risultare lento
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * I filtri Riempimento in base al contenuto sono lenti in alta risoluzione
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Impossibile salvare due volte lo stesso stack di livelli di materiale
+* Impossibile salvare due volte la stessa identica Pila livelli di materiale
 
 ### 2.2.0 (2020.2.0) Udon
 
@@ -1935,7 +1935,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;vista 2D&rbrack; Le porzioni di pittura
 * &lbrack;vista 2D&rbrack; Imposta un valore in scala di grigi per il colore del pennello
 * &lbrack;vista 2D&rbrack; Panning e zoom durante il disegno
-* &lbrack;2D View&rbrack; scelta rapida X per invertire il valore della scala di grigi del pennello
+* &lbrack;vista 2D&rbrack; scelta rapida da tastiera X per invertire il valore della scala di grigi del pennello
 * &lbrack;vista 2D&rbrack; &lbrack; e &rbrack; scelte rapide per modificare la dimensione del pennello
 * &lbrack;vista 2D&rbrack; Ctrl (o Cmd) + Rotellina del mouse per modificare la dimensione del pennello
 * &lbrack;vista 2D&rbrack; È ora possibile modificare la posizione di origine quando si utilizza Clona /Clone patch
@@ -1967,7 +1967,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &blocco;Content&rbrack; Nuovo filtro Moss
 * &lbrack;Content&rbrack; Nuovo filtro Crepe
 * &lbrack;Content&rbrack; Nuovo filtro PBR Validata
-* &blocco;Content&rbrack; filtro Nuove porzioni pavimento
+* &lbrack;Content&rbrack; Nuovo filtro Porzioni Floor
 * &blocco;Contenuto&rbrack; Nuovo filtro Adesivo unione superfici
 * &lbrack;Content&rbrack; Atlas scatter - Aggiungi input maschera personalizzata per abilitare l&#39;opzione di pittura
 * &lbrack;Content&rbrack; Dirt - Aggiungi input maschera personalizzata per abilitare l&#39;opzione di pittura
@@ -1998,7 +1998,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &blocco;Contenuto&rbrack; Correggere lo scostamento del colore con il filtro Avanzate Porre affiancato
 * &lbrack;Performance&brack; l&#39;apertura di una finestra di dialogo di colore è lenta e ricalcola il livello corrente
 * &lbrack;UI&rbrack; Le scelte rapide da tastiera a volte non funzionano
-* &lbrack;2D View&rbrack; Riempimento in base al contenuto richiede un inutile primo clic per funzionare
+* &lbrack;vista 2D&rbrack; Riempimento in base al contenuto richiede un inutile primo clic per funzionare
 * &lbrack;Resources&rbrack; Le cartelle nei dischi locali vengono ancora controllate per verificare la disponibilità di aggiornamenti dopo la rimozione
 * &blocco;Risorse&blocco; L&#39;eliminazione di una cartella collegata dal file system non comporta la rimozione
 * &lbrack;Esporta&rbrack; Gli usi personalizzati nei predefiniti di esportazione personalizzati non vengono esportati
@@ -2011,10 +2011,10 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * L&#39;utilizzo di Image to Material (AI) su immagini ad alta risoluzione può risultare lento
 * L’utilizzo di Image to Material (AI) su GPU con basso VRAM può innescare un arresto anomalo (memoria insufficiente)
 * La funzione Da immagine a materiale (basata su IA) non è disponibile su Specular/Lucentezza PBR
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * I filtri Riempimento in base al contenuto sono lenti in alta risoluzione
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Impossibile salvare due volte lo stesso stack di livelli di materiale
+* Impossibile salvare due volte la stessa identica Pila livelli di materiale
 
 ### 2.1.1 (2020.1.1) Tiramisu
 
@@ -2031,32 +2031,32 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;UI&rbrack; Indicatore di calcolo fisso nella finestra della vista
 * &lbrack;UI&rbrack; l&#39;immissione di valori negativi nei cursori è fissa
 * &lbrack;UI&rbrack; Caselle combinate: le frecce della tastiera e la barra di scorrimento ora funzionano
-* &lbrack;UI&rbrack; Mantiene il canale selezionato quando si passa da &quot;Output materiale&quot; a &quot;Input livello&quot; nella vista 2D
-* &lbrack;Layers&rbrack; Risolto l&#39;arresto anomalo durante l&#39;aggiunta di canali personalizzati nel Materiale di base
+* &lbrack;UI&rbrack; Mantiene il canale selezionato quando si passa da &quot;Output materiale&quot; a &quot;Input livello&quot; nel Vista 2D
+* &lbrack;Layers&rbrack; arresto anomalo fisso durante l&#39;aggiunta di canali personalizzati nel Materiale di base
 * &lbrack;Layers&rbrack; Arresto anomalo durante la manipolazione dei livelli
 * &lbrack;Livelli&rbrack; i canali personalizzati non vengono visualizzati con un materiale salvato
-* &lbrack;Application&rbrack; Risolto l&#39;arresto anomalo raro durante l&#39;importazione di una risorsa
+* &lbrack;Application&rbrack; arresto anomalo raro corretto durante l&#39;importazione di una risorsa
 * &lbrack;Application&rbrack; Arresto anomalo all&#39;uscita
 * &lbrack;Application&rbrack; Le caselle combinate ora mostrano i valori corretti quando si cambiano i predefiniti
 * &laback;Export&brack; Predefinito Enscape rinominato in Enscape Revit
 * &lbrack;Esporta&rbrack; L&#39;importazione di un predefinito di esportazione dopo la rimozione funziona
 * &lbrack;Export&rbrack; Arresto anomalo all&#39;esportazione
 * &lbrack;Rendering&rbrack; Rendering fisso quando il colore di base è in formato a metà virgola mobile a 16 bit
-* &lbrack;Project&rbrack; Non arrestarsi in modo anomalo durante l&#39;importazione di un pacchetto danneggiato
+* &lbrack;Project&rbrack; Non eseguire l&#39;arresto anomalo durante l&#39;importazione di un pacchetto danneggiato
 * &lbrack;Project&rbrack; migrazione da Handle 2019.1.4 a 2.x.x quando la funzione Crea non è mai stata aperta
-* &lbrack;Project&rbrack; Correggere un arresto anomalo durante l&#39;importazione dello stesso progetto due volte
-* &blocco;Project&rbrack; Correggere un arresto anomalo durante l&#39;importazione dei progetti
+* &lbrack;Project&rbrack; Correggere un arresto anomalo quando si importa due volte lo stesso progetto
+* &lbrack;Project&rbrack; Correggere un arresto anomalo durante l&#39;importazione dei progetti
 * &lbrack;Resources&rbrack; I filtri personalizzati importati nelle versioni precedenti funzionano
 * &lbrack;Resources&rbrack; I materiali con lo stesso nome non si cancellano più a vicenda
 * &lbrack;Resources&rbrack; Arresto anomalo durante il collegamento di una cartella locale
-* &lbrack;Resources&rbrack; le cartelle create dall&#39;utente per Materiali Starter non vengono più rimosse dopo un riavvio
+* &lbrack;Resources&rbrack; Materiali iniziali Le cartelle create dall&#39;utente non vengono più rimosse dopo un riavvio
 * &lbrack;Inspire&rbrack; Correggi area di rilascio materiale/raccolta e aggiungi un messaggio di avviso se si utilizza un materiale non salvato
 
 **Problemi noti:**
 
 * I filtri Riempimento in base al contenuto sono lenti in alta risoluzione
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
 
 ### 2.1.0 (2020.1.0) Tiramisu
@@ -2120,13 +2120,13 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;UI&rbrack; Correggi colori livelli nascosti
 * &lbrack;UI&rbrack; miglioramenti ai pulsanti della schermata iniziale
 * &lbrack;Livelli&rbrack; meno ricalcoli non necessari
-* &lbrack;Layers&rbrack; Si Arresta In Modo Anomalo Quando Si Utilizza Patch Clone
+* &lbrack;Layers&rbrack; Arresti anomali quando si utilizza Clona /Clone patch
 * &lbrack;Livelli&rbrack; La selezione di un livello di importazione immagine non attiva più un calcolo
 * &lbrack;Layers&rbrack; Clona /Clone i livelli di Riempimento in base al contenuto non vengono più ricalcolati quando sono selezionati
 * &lbrack;Impostazioni canale&rbrack; L’attivazione o la disattivazione degli usi ora attiva un rendering
 * &blocca;Risorse&blocca; impedisce il blocco quando si fa clic su una pila nella libreria
 * &lbrack;Resources&rbrack; Prestazioni raggiunte quando si aggiunge nuovamente una cartella collegata aggiunta in precedenza
-* &lbrack;Resources&rbrack; È stato risolto un arresto anomalo durante il tentativo di aprire un file .sbsar eliminato.
+* &lbrack;Resources&rbrack; È stato corretto un arresto anomalo che si verificava quando si tentava di aprire un file .sbsar eliminato.
 * &lbrack;Prestazioni&rbrack; Evita di caricare materiali per accedere ai relativi parametri
 * &lbrack;Performance&brack; Backup delle risorse solo se utilizzate in un progetto o in un materiale creato
 * &lbrack;Esporta&rbrack; I materiali fissi nella coda di esportazione a volte vengono saltati o esportati con parametri errati
@@ -2212,7 +2212,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Preset&rbrack; Salva la descrizione durante la creazione di un predefinito da un SBSAR
 * &laback;Ispirazione&brack; Correggi trascinamento immagine
 * &lbrack;Application&rbrack; Correggi arresti anomali all&#39;uscita
-* &lbrack;Application&rbrack; Fix si arresta in modo anomalo all&#39;uscita durante l&#39;esportazione dei materiali
+* &lbrack;Application&rbrack; Correggi gli arresti anomali all&#39;uscita durante l&#39;esportazione dei materiali
 * &lbrack;UI&rbrack; correzioni e miglioramenti
 * &lbrack;UI&rbrack; Rinomina risorsa temporanea in &quot;materiale non salvato&quot;
 * &lbrack;Content&rbrack; Aggiornamento globale e pulizia di tutti i filtri
@@ -2222,9 +2222,9 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * L&#39;importazione di molte risorse può davvero rallentare la Substance Alchemist
 * I filtri Riempimento in base al contenuto sono lenti in alta risoluzione
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Il filtro Normale al Height può bloccarsi su MacOS
+* Il filtro Normale al Height può essere arresto anomalo in MacOS
 
 ### 1.1.2 (2019.1.2) Sesamo
 
@@ -2249,7 +2249,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Performance&rbrack; Correggi l&#39;arresto anomalo quando si passa rapidamente da un materiale all&#39;altro
 * &lbrack;Esporta&rbrack; Il passaggio a un altro materiale prima della fine di un&#39;esportazione non subisce più l&#39;arresto anomalo
 * &lbrack;Resources&rbrack; Il menu di scelta rapida viene visualizzato sopra il materiale quando si fa clic su di esso con il pulsante destro del mouse
-* &lbrack;Layers&rbrack; Il collegamento &quot;Fai clic qui&quot; funziona quando la pila di livelli è vuota
+* &lbrack;Layers&rbrack; Il collegamento &quot;Fai clic qui&quot; funziona quando la Pila livelli è vuota
 * &lbrack;Presets&rbrack; Rimuovi il pulsante Salva nel pannello Tweak quando si tratta di un materiale creato in Alchemist
 * &lbrack;Tweak&rbrack; Messaggio informativo visualizzato quando si tratta di un materiale creato in Alchemist
 * &lbrack;Viewport&rbrack; il valore predefinito della texture di Specular level è corretto in 0,04
@@ -2262,16 +2262,16 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Content&rbrack; il Height del materiale in alto viene mantenuto nel metodo di fusione opacità
 * &lbrack;Content&rbrack; Possibilità di aggiungere una maschera personalizzata, un pattern personalizzato o una mappa di scala nel filtro Perforazione
 * &lbrack;Content&rbrack; Il filtro Modulazione Height forza height e mappa normale in 16 bit
-* &lbrack;Content&rbrack; Il filtro di regolazione forza le mappe normali e di height in 16 bit
+* &lbrack;Content&rbrack; Il filtro di regolazione forza height e mappa normale in 16 bit
 
 **Problemi noti:**
 
 * L&#39;importazione di molte risorse può davvero rallentare la Substance Alchemist
 * I filtri Riempimento in base al contenuto sono lenti in alta risoluzione
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Il filtro Normale al Height può bloccarsi su MacOS
+* Il filtro Normale al Height può essere arresto anomalo in MacOS
 
 ### 1.1.1 (2019.1.1) Sesamo
 
@@ -2279,30 +2279,30 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 
 **Aggiunto:**
 
-* &lbrack;Blend&brack; Nuovo metodo di fusione opacità
+* &lbrack;Fusione&rbrack; Nuova modalità Fusione opacità
 * &lbrack;Engine&rbrack; Nuova versione di Substance Engine
 
 **Corretto:**
 
-* &lbrack;Layers&rbrack; Correggere l&#39;arresto anomalo durante l&#39;eliminazione di un livello che sta ancora elaborando
-* &blocca;Livelli&rbrack; Correggi l&#39;arresto anomalo durante la rimozione del livello inferiore
-* &lbrack;Layers&rbrack; Correggere l&#39;arresto anomalo quando il nome del materiale contiene caratteri speciali
+* &lbrack;Layers&rbrack; Correggi arresto anomalo durante l&#39;eliminazione di un livello che sta ancora elaborando
+* &lbrack;Layers&rbrack; Correggi arresto anomalo durante la rimozione del livello inferiore
+* &lbrack;Layers&rbrack; Correggi arresto anomalo mentre il nome del materiale contiene caratteri speciali
 * &lbrack;Layers&rbrack; Interrompere l&#39;elaborazione di tutti i filtri che utilizzano un widget
-* &blocco;Livelli&rbrack; Evitare l&#39;arresto anomalo durante l&#39;utilizzo dei filtri Patch clone e Riempimento in base al contenuto
+* &lbrack;Layers&rbrack; evita arresti anomali quando si utilizzano i filtri Clona /Clone patch e Riempimento in base al contenuto
 * &lbrack;Layers&rbrack; Correggere l&#39;arresto anomalo durante il trascinamento di un filtro negli slot di input di uno splatter
 * &lbrack;Resources&rbrack; Correggere l&#39;arresto anomalo durante il collegamento di cartelle locali o l&#39;importazione di risorse in Substance Alchemist
 * &lbrack;Collection&rbrack; Correggi l&#39;arresto anomalo durante il passaggio rapido tra i materiali
-* &lbrack;UI&rbrack; Correggere l&#39;arresto anomalo se il valore è null o non valido in affiancatura, spostamento dei cursori nella finestra della vista
+* &lbrack;UI&rbrack; Correggere l&#39;arresto anomalo mentre il valore è null o non valido nell&#39;Affiancamento, spostamento dei cursori nella finestra della vista
 * &lbrack;Inspire&rbrack; Correggere l&#39;arresto anomalo durante l&#39;accesso alla scheda Ispirazione
-* &lbrack;Inspire&rbrack; Correggere l&#39;arresto anomalo mentre si ispira a un materiale della pila di livelli appena salvati
+* &lbrack;Inspire&rbrack; Correggi l&#39;arresto anomalo mentre ispira su un livello appena salvato sovrappone il materiale
 * &lbrack;Performance&rbrack; Substance di materiali e filtri (Affiancamento) pesanti più veloce
 * &lbrack;Help&rbrack; Correggi file registro di esportazione
 * &lbrack;Content&rbrack; Il filtro casuale funziona su tutti i canali
 * &lbrack;Content&rbrack; Il flusso di lavoro con più angoli prende in considerazione tutte le scansioni
-* &lbrack;Content&rbrack; AO Fusione corretta
+* &lbrack;Content&rbrack; AO Fusione fusione corretta
 * &lbrack;Content&rbrack; Curvatura Fusione corretta fusione
 * &lbrack;Content&rbrack; Color ID Fusione corretta fusione
-* &lbrack;Content&rbrack; Custom Mask Blend corregge la fusione
+* &lbrack;Content&rbrack; Fusione maschera personalizzata per correggere la fusione
 * &lbrack;Content&rbrack; Correggi filtro di regolazione per modifica della rugosità
 * &lbrack;Content&rbrack; Correggi filtro Materiale di base per il caricamento personalizzato dei canali normali
 * &lbrack;Content&rbrack; Correggi pattern di importazione personalizzato del filtro Rilievo
@@ -2310,9 +2310,9 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Problemi noti:**
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Il filtro Normale al Height può bloccarsi su MacOS
+* Il filtro Normale al Height può essere arresto anomalo in MacOS
 
 ### 1.1.0 (2019.1.0) Sesame
 
@@ -2330,23 +2330,23 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * &lbrack;Schermata introduttiva&brack; Accedi all’elenco di tutti i tuoi progetti nella schermata introduttiva
 * &lbrack;Schermata introduttiva&brack; Collegamenti rapidi per accedere alla documentazione, alla finestra a comparsa Informazioni sulla gestione licenze
 * &lbrack;Menu File&rbrack; Integrazione di un menu file
-* &lbrack;Menu File&rbrack; Accedi ai comandi del progetto dalla scheda File e salva il gruppo di livelli
+* &lbrack;Menu File&rbrack; Accedi ai comandi del progetto dalla scheda File e salva la Pila livelli
 * &lbrack;Menu File&rbrack; accedere ai comandi Annulla e Ripeti della scheda Modifica
 * &lbrack;Menu File&rbrack; Il menu della Guida precedente è stato spostato nel menu File sotto la scheda Guida
-* &lbrack;Layers&rbrack; Nuova architettura dello stack di livelli
-* &lbrack;Layers&rbrack; Nuova interfaccia utente del gruppo di livelli
+* &lbrack;Layers&rbrack; Nuova architettura della Pila livelli
+* &lbrack;Layers&rbrack; Nuova interfaccia utente della Pila livelli
 * &lbrack;Livelli&rbrack; Selezionare il metodo di fusione direttamente sulla barra degli strumenti
 * &lbrack;Layers&rbrack; Accedi separatamente ai parametri di fusione e ai parametri del materiale
-* &lbrack;Layers&rbrack; Aggiungi materiali direttamente negli input dedicati del filtro Spruzzo nella pila di livelli
+* &lbrack;Layers&rbrack; Aggiungi materiali direttamente negli input dedicati del filtro Spruzzo nella Pila livelli
 * &lbrack;Layers&rbrack; Cambia l&#39;ordine di scansione direttamente nel livello di importazione dell&#39;immagine
 * &lbrack;Viewport&rbrack; controllo del campo visivo della videocamera
-* &lbrack;Riquadro di visualizzazione&rbrack; possibilità di passare da una fotocamera ortogonale a una prospettica
+* &lbrack;Viewport&rbrack; possibilità di passare dalla fotocamera ortografica a quella Prospettiva e viceversa
 * &lbrack;Viewport&rbrack; visualizza le informazioni relative alla risoluzione e alle profondità di bit per ciascun canale
 * &lbrack;Resources&rbrack; Materiali di base aperti per impostazione predefinita
 * &blocco;Cache&rbrack; Individua la cartella della cache delle miniature
 * &blocco;Cache&rbrack; Individua la cartella della cache di rendering
 * &blocca;Panels&rbrack; il pannello Impostazioni materiale è temporaneamente nascosto
-* &lbrack;Workflow&rbrack; Specular/lucidità temporaneamente disattivato
+* &lbrack;Workflow&rbrack; Specular/Lucentezza temporaneamente disattivato
 * &lbrack;MacOS&rbrack; versione del sistema operativo Catalina per l’autenticazione ufficiale
 * &lbrack;Content&rbrack; Nuova versione del filtro Delighter
 * &blocco;Content&brack; nuovo filtro Riempimento in base al contenuto dell&#39;immagine
@@ -2363,9 +2363,9 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Problemi noti:**
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Il filtro Normale al Height può bloccarsi su MacOS
+* Il filtro Normale al Height può essere arresto anomalo in MacOS
 
 ## Beta
 
@@ -2385,12 +2385,12 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Problemi noti:**
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter non è consigliato
 * Le immagini TIF non vengono visualizzate nel pannello Proprietà nel livello di importazione delle immagini
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Il filtro Normale al height può bloccarsi su MacOS
-* Può ancora verificarsi un arresto anomalo casuale quando si esce da MacOS
+* Il filtro Normale al height può essere arresto anomalo in MacOS
+* È ancora possibile eseguire l’arresto anomalo casuale quando si esce da MacOS
 
 ### Quinoa 0,8-beta
 
@@ -2438,11 +2438,11 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Problemi noti:**
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter non è consigliato
 * Le immagini TIF non vengono visualizzate nel pannello Proprietà nel livello di importazione delle immagini
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Il filtro Normale al height può bloccarsi su MacOS
+* Il filtro Normale al height può essere arresto anomalo in MacOS
 * È possibile eseguire l’arresto anomalo in modo casuale quando si esce da MacOS
 
 ### Pepe 0.7.0-beta
@@ -2489,12 +2489,12 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Problemi noti:**
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter non è consigliato
 * L’importazione di ambienti personalizzati può diventare nera
 * Le immagini TIF non vengono visualizzate nel pannello Proprietà nel livello di importazione delle immagini
 * Il coma o il punto possono essere ignorati quando si digita un valore specifico in un cursore
-* Il filtro Normale al height può bloccarsi su MacOS
+* Il filtro Normale al height può essere arresto anomalo in MacOS
 
 ### 0,6,1-beta arancione
 
@@ -2549,14 +2549,14 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * Risolvere piccoli problemi di font nelle finestre a comparsa
 * Correzione del problema dell’interfaccia utente di trasparenza a causa di un conflitto con il parametro FXAA di alcune schede NVIDIA
 * Rimuovere il punto attivo del campo dopo aver inserito un valore in un cursore
-* Assegnare la quantità minima di VRAM al lettore per ridurre gli arresti anomali
+* Assegnare la quantità minima di VRAM al delighter per ridurre gli arresti anomali
 * Correggere il blocco della finestra durante il ridimensionamento della finestra dell’applicazione
-* È stato risolto un arresto anomalo durante l’eliminazione dello stack di livelli durante la valutazione.
+* È stato corretto un arresto anomalo in cui la Pila livelli veniva eliminata durante la valutazione.
 
 **Problemi noti:**
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter non è consigliato
 * L’importazione di ambienti personalizzati può diventare nera
 * Le immagini TIF non vengono visualizzate nel pannello Proprietà nel livello di importazione delle immagini
@@ -2651,7 +2651,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 
 * I caratteri speciali nel percorso del file impediscono il salvataggio di un materiale
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter influirà sulle prestazioni
 * Arresto anomalo durante il caricamento del proprio ambiente
 
@@ -2666,7 +2666,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Problemi noti:**
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter influirà sulle prestazioni
 * Arresto anomalo durante il caricamento del proprio ambiente
 
@@ -2729,7 +2729,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 **Problemi noti:**
 
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * Delighter non è supportato sulla scheda GPU RTX
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter influirà sulle prestazioni
 
@@ -2785,7 +2785,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * I materiali creati con una versione precedente non saranno disponibili nella nuova versione.
 * Da Bitmap a materiale non gestisce il flusso di lavoro Specular/rugosità
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter influirà sulle prestazioni
 
 ### Kiwi 0,2-beta
@@ -2819,7 +2819,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 
 * I materiali creati con una versione precedente non saranno disponibili nella nuova versione.
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter influirà sulle prestazioni
 
 ### 0.1.1-beta Marmellata
@@ -2848,7 +2848,7 @@ Questa pagina raggruppa tutte le modifiche apportate a Substance 3D Sampler, dal
 * I materiali creati con una versione precedente non saranno disponibili nella nuova versione.
 * &lbrack;MacOS&rbrack; La Substance Alchemist di chiusura può richiedere un &quot;Forza all&#39;uscita&quot;
 * L&#39;uso di più delighters in un unico materiale non è raccomandato
-* Delighter si arresta in modo anomalo con i driver NVIDIA più vecchi (meno di 400.x)
+* Arresti anomali più gradevoli con driver NVIDIA meno recenti (meno di 400.x)
 * L&#39;interruttore di visibilità rapida di uno stadio Delighter influirà sulle prestazioni
 * L&#39;esportazione dei materiali può arresto anomalo
 

@@ -1,6 +1,6 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Consultate le note sulla versione per Substance 3D Sampler versione 3.0 per informazioni sulla rielaborazione dell'interfaccia utente, sulla luce ambientale, sui filtri e sull'integrazione delle Creative Cloud.
 helpx_creative_field: ""
 helpx_description: Sampler > Release Notes > Old Versions > Version 3.0
@@ -8,15 +8,13 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: Versione 3.0
-user-guide-description: ''
-user-guide-title: ''
+user-guide-description: ""
+user-guide-title: ""
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
 workflow-type: tm+mt
 source-wordcount: '2019'
 ht-degree: 0%
-
 ---
-
 
 # Versione 3.0
 
