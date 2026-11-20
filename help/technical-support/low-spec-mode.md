@@ -28,7 +28,7 @@ Inoltre, la modalità con specifiche basse impedisce le esportazioni superiori a
 
 ![](../assets/low-spec-mode-export-message.png)
 
-*Questo messaggio viene visualizzato nella **finestra Esportazione**in **modalità con specifiche basse**per fornire informazioni aggiuntive.*
+*Questo messaggio viene visualizzato nella **finestra Esportazione**&#x200B;in **modalità con specifiche basse**&#x200B;per fornire informazioni aggiuntive.*
 
 ## Come capisco se è attivata la modalità a basse specifiche?
 

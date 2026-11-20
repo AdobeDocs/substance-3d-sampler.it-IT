@@ -24,7 +24,7 @@ Per creare un nuovo progetto, seleziona **Crea nuovo** nella schermata **Home** 
 
 In alternativa, puoi utilizzare il pulsante **Avvio rapido** per passare direttamente a un progetto vuoto. Puoi comunque importare manualmente risorse e contenuti in base alle esigenze.
 
-Dopo aver fatto clic sul pulsante &quot;Crea nuovo&quot;, il progetto verrà aperto automaticamente e denominato &quot;*Progetto senza titolo\**&quot; fino al salvataggio del progetto. Puoi aggiungere risorse al tuo progetto con il **pulsante Nuova risorsa** evidenziato nel **pannello Progetto**.
+Dopo aver fatto clic sul pulsante &quot;Crea nuovo&quot;, il progetto verrà aperto automaticamente e denominato &quot;*Progetto senza titolo\**&quot; fino al salvataggio del progetto. Puoi aggiungere risorse al tuo progetto con il &#x200B;** pulsante Nuova risorsa **&#x200B; evidenziato nel &#x200B;** pannello Progetto**.
 
 ![](../assets/Project_CreateNew_1.png){width="600px"}
 
