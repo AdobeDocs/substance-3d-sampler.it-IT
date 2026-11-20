@@ -10,9 +10,10 @@ helpx_tags: ''
 title: Requisiti di sistema
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
+hold: true
+source-git-commit: 8b2438eb381e35c19ab379a5fc14c962fd5b9b0a
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '684'
 ht-degree: 0%
 ---
 
@@ -27,6 +28,14 @@ Di seguito è riportato un elenco di hardware e sistemi supportati dall&#39;appl
 > * 610.47
 >
 > Si consiglia di evitare di utilizzare queste versioni: preferibilmente, utilizzare una versione più recente o, se non è disponibile una versione più recente, utilizzare la versione precedente.
+
+>[!NOTE]
+>
+> Se i requisiti hardware sono inferiori ai requisiti minimi di sistema, Sampler si aprirà automaticamente in [modalità con specifiche basse](../technical-support/low-spec-mode.md), limitando alcune funzionalità.
+
+>[!TIP]
+>
+> Se si desidera migliorare le prestazioni di Sampler, utilizzare la [modalità Prestazioni](../technical-support/performance-mode.md) per disattivare le funzionalità che richiedono molte risorse.
 
 ## Windows
 

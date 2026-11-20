@@ -2,15 +2,11 @@
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
-hide: false
-hold: true
-source-git-commit: a0034da3bee13d0d7423828a902da62cf2219474
+source-git-commit: 09278e59a21757710d15d1bb447002a4aecb25a7
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 15%
-
+source-wordcount: '641'
+ht-degree: 14%
 ---
-
 
 # Substance 3D Sampler {#using}
 
@@ -21,7 +17,6 @@ ht-degree: 15%
   + [Requisiti di sistema](/help/getting-started/system-requirements.md)
   + [Scelte rapide](/help/getting-started/shortcuts.md)
   + [Importazione delle risorse](/help/getting-started/importing-resources.md)
-  + [Segnala un bug](/help/getting-started/report-a-bug.md)
   + [Gestione dei progetti](/help/getting-started/project-management.md)
   + Esporta{#export}
     + [Panoramica dell’esportazione](/help/getting-started/export/export.md)
@@ -82,7 +77,7 @@ ht-degree: 15%
     + [Decalcomania](/help/filters/generators/decal.md)
     + [Rilievo](/help/filters/generators/embossing.md)
     + [Ricamo](/help/filters/generators/embroidery.md)
-    + [Piastrelle](/help/filters/generators/floor-tiles.md)
+    + [Floor porzioni](/help/filters/generators/floor-tiles.md)
     + [Ghiaia](/help/filters/generators/gravel.md)
     + [Pannello](/help/filters/generators/panel.md)
     + [Parquet](/help/filters/generators/parquet.md)
@@ -116,6 +111,7 @@ ht-degree: 15%
     + [Generazione canali](/help/filters/tools/channels-generation.md)
     + [Interruttore canale](/help/filters/tools/channel-switch.md)
     + [Clona /Clone timbro](/help/filters/tools/clone-stamp.md)
+    + {hide-from-toc}[Riempimento in base al contenuto](/help/filters/tools/content-aware-fill.md)
     + [Strumento taglierina](/help/filters/tools/crop-tool.md)
     + [Delight - Intelligenza artificiale](/help/filters/tools/delight-ai-powered.md)
     + [Height in AO](/help/filters/tools/height-to-ao.md)
@@ -126,9 +122,10 @@ ht-degree: 15%
     + [Multiangolo su materiale](/help/filters/tools/multiangle-to-material.md)
     + [Normale al Height](/help/filters/tools/normal-to-height.md)
     + [PBR Validata](/help/filters/tools/pbr-validate.md)
-    + [Correzione prospettiva](/help/filters/tools/perspective-correction.md)
+    + [Prospettiva Trasforma](/help/filters/tools/perspective-correction.md)
     + [Affiancamento](/help/filters/tools/tiling.md)
     + [Trasforma](/help/filters/tools/transform.md)
+    + {hide-from-toc}[Alterazione Pittura](/help/filters/tools/paint-warp.md)
     + [Ordito](/help/filters/tools/warp.md)
     + [Altera Trasforma](/help/filters/tools/warp-transform.md)
     + [Miglioramento](/help/filters/tools/upscale.md)
@@ -155,6 +152,7 @@ ht-degree: 15%
     + [Dust](/help/filters/wear-and-finish/dust.md)
     + [Erode](/help/filters/wear-and-finish/erode.md)
     + [Finitura metallo](/help/filters/wear-and-finish/metal-finish.md)
+    + {hide-from-toc}[Finitura legno](/help/filters/wear-and-finish/wood-finish.md)
     + [Muschio](/help/filters/wear-and-finish/moss.md)
     + [Ossidato](/help/filters/wear-and-finish/oxidate.md)
     + [Vernice](/help/filters/wear-and-finish/paint.md)
@@ -195,6 +193,9 @@ ht-degree: 15%
   + [Plug-in di Esportazione Tajima](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + Supporto tecnico{#technical-support}
   + [Panoramica del supporto tecnico](/help/technical-support/technical-support.md)
+  + {hide-from-toc}[Modalità prestazioni](/help/technical-support/performance-mode.md)
+  + {hide-from-toc}[Modalità specifiche basse](/help/technical-support/low-spec-mode.md)
+  + {hide-from-toc}[Segnala un bug](/help/getting-started/report-a-bug.md)
   + [Esportazione del file di registro](/help/technical-support/exporting-the-log-file.md)
   + Configurazione{#configuration}
     + [Panoramica sulla configurazione](/help/technical-support/configuration/configuration.md)
@@ -231,6 +232,7 @@ ht-degree: 15%
   + [Panoramica delle note sulla versione](/help/release-notes/release-notes.md)
   + [Tutte le modifiche](/help/release-notes/all-changes.md)
   + [Beta](/help/release-notes/beta-version.md)
+  + {hide-from-toc}[Versione 6.1](/help/release-notes/version-6-1.md)
   + [Versione 6.0](/help/release-notes/version-6-0.md)
   + [Versione 5.1](/help/release-notes/version-5-1-substance-3d-sampler.md)
   + [Versione 5.0](/help/release-notes/version-5-0-substance-3d-sampler.md)
