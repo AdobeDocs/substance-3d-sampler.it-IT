@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/it/substance-3d-sampler/getting-started/system-requirements.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/getting-started/system-requirements.html'
 breadcrumb-title: ''
 description: Verifica i requisiti di sistema di Substance 3D Sampler per verificare che hardware e software soddisfino gli standard di compatibilità.
 helpx_creative_field: ''
@@ -10,9 +10,10 @@ helpx_tags: ''
 title: Requisiti di sistema
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
+hold: true
+source-git-commit: 8b2438eb381e35c19ab379a5fc14c962fd5b9b0a
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '684'
 ht-degree: 0%
 ---
 
@@ -27,6 +28,14 @@ Di seguito è riportato un elenco di hardware e sistemi supportati dall&#39;appl
 > * 610.47
 >
 > Si consiglia di evitare di utilizzare queste versioni: preferibilmente, utilizzare una versione più recente o, se non è disponibile una versione più recente, utilizzare la versione precedente.
+
+>[!NOTE]
+>
+> Se i requisiti hardware sono inferiori ai requisiti minimi di sistema, Sampler si aprirà automaticamente in [modalità con specifiche basse](../technical-support/low-spec-mode.md), limitando alcune funzionalità.
+
+>[!TIP]
+>
+> Se si desidera migliorare le prestazioni di Sampler, utilizzare la [modalità Prestazioni](../technical-support/performance-mode.md) per disattivare le funzionalità che richiedono molte risorse.
 
 ## Windows
 
@@ -97,7 +106,7 @@ Di seguito è riportato un elenco di hardware e sistemi supportati dall&#39;appl
 
 Di seguito è riportato un elenco delle versioni minime dei driver della GPU necessarie per l&#39;esecuzione dell&#39;applicazione senza problemi. Questo elenco è soggetto a modifiche man mano che vengono rilasciate nuove versioni.
 
-Per scaricare nuovi driver, vedere: [La GPU contiene driver obsoleti](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
+Per scaricare nuovi driver, vedere: [La GPU contiene driver obsoleti](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
 
 | SO | NVIDIA | AMD | Intel |
 | --- | --- | --- | --- |
