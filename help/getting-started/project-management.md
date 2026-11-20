@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/project-management.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-sampler/getting-started/project-management.html"
 description: Scopri come gestire i progetti in Substance 3D Sampler utilizzando le raccolte per organizzare risorse e materiali per flussi di lavoro efficienti.
 title: Gestione del progetto
 source-git-commit: 59761aab02bff266047813f1714e3f53ddcb805c
